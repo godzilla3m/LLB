@@ -99,7 +99,7 @@ Here’s a clear and exam‑style answer written in simple sentences, with relat
 
 A **company** is a legal entity created under law. It is formed by a group of people who come together to carry on business. A company has a separate legal personality. This means it is different from the people who own it. It can own property, enter into contracts, and sue or be sued in its own name.
 
-For *example*, if **Prateek**, **Krishna**, and **Kanishth** register a company in Lucknow, the company itself becomes a separate person in the eyes of law. Even if Prateek leaves, the company continues to exist.
+> For *example*, if **Prateek**, **Krishna**, and **Kanishth** register a company in Lucknow, the company itself becomes a separate person in the eyes of law. Even if Prateek leaves, the company continues to exist.
 
 A company is usually formed under the **Companies Act, 2013** in India. It can be a private company or a public company.
 

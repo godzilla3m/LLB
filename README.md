@@ -2027,3 +2027,432 @@ In conclusion, the general provisions under **Sections 102 to 105 of the BNSS 20
 ---
 
 # UNIT-III: Inquiries Procedure
+
+## 1\. Write Short notes on: 'Place of Inquiry or trial'
+
+**Place of Inquiry or Trial**
+
+**Introduction**
+
+In the criminal justice system, determining "where" a case should be handled is as crucial as "how" it is handled. The concept of the "Place of Inquiry or Trial" refers to the territorial jurisdiction of a criminal court.1 Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the rules regarding jurisdiction are primarily contained in **Chapter XIV (Sections 197 to 209\)**.2 These provisions are designed to ensure that the legal process is convenient for witnesses, efficient for the police, and fair to the accused. The fundamental principle is that the court located nearest to the scene of the crime or the effect of the crime is best equipped to deliver justice.3 This ensures that "Nagarik Suraksha" (citizen protection) is provided locally and effectively.
+
+**Main Body**
+
+The BNSS provides a set of rules to determine the correct court for different scenarios:4
+
+* **Ordinary Place (Section 197):** The general rule is that every offence shall "ordinarily" be inquired into and tried by a court within whose local jurisdiction it was committed.5  
+* *Example:* **Prateek** commits a theft in **Lucknow**. The case will ordinarily be tried by a Magistrate in **Lucknow**.  
+* **Uncertain or Continuing Offences (Section 198):** If it is uncertain in which of several areas an offence was committed, or if it was committed partly in one area and partly in another, any court having jurisdiction over any of those areas can try the case.6  
+* *Example:* **Kanishth** kidnaps **Krishna** in **Patna**, travels through **Varanasi**, and eventually detains her in **Bhopal**. The courts in **Patna**, **Varanasi**, or **Bhopal** all have the power to try **Kanishth**.  
+* **Act and Consequence (Section 199):** When an act is an offence because of its consequence, the trial can happen where the act was done or where the consequence happened.7  
+* *Example:* **Saurabh** strikes **Satyam** in **Indore**, but **Satyam** eventually passes away due to the injury in a hospital in **Mumbai**. The trial can take place in either **Indore** or **Mumbai**.  
+* **Offences by Electronic Communication (Section 202):** A modern update in BNSS 2023 clarifies that for offences like cheating committed via electronic messages or letters, the trial can occur where the messages were sent or received.8  
+* *Example:* **Sachkeerat** sends a fraudulent email from **Amritsar** to **Laukendra** in **Jaipur**, tricking him into sending money. The case can be tried in **Amritsar** or **Jaipur**.  
+* **Related Offences (Section 200):** If an act is an offence because of its relation to another offence (like abetment or receiving stolen property), it can be tried where either act was done.9  
+* *Example:* **Raghavendra** helps **Kanishth** hide stolen goods in **Pune**, which were originally stolen by **Kanishth** in **Mumbai**. Both can be tried in **Mumbai** or **Pune**.
+
+**Conclusion**
+
+In conclusion, the rules regarding the place of inquiry or trial in the **BNSS 2023** are practical and flexible. They prevent jurisdictional disputes from stalling the wheels of justice.10 By allowing multiple venues for continuing crimes or consequences, the law ensures that criminals like **Kanishth** cannot escape through legal loopholes. For citizens like **Prateek** and **Sachkeerat**, these rules provide a clear framework for where they must seek or face justice, balancing the administrative needs of the State with the rights of individuals in cities across India.
+
+---
+
+## 2\. Write Short notes on: 'Offence Committed on Journey or Voyage'.
+
+**Offence Committed on Journey or Voyage**
+
+**Introduction**
+
+A crime committed in a fixed location is easy to map to a specific court, but what happens when a crime occurs on a moving train, a bus, or an aircraft? In a vast country like India, a person might travel through several districts or states in a single day. If a theft or assault occurs during such a journey, it might be impossible for the victim to determine the exact kilometer or the specific local jurisdiction where the act took place. To solve this practical problem, the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, provides a special rule under **Section 203** (corresponding to Section 183 of the old CrPC). The rationale is to ensure that the "mobility" of the crime does not become a hurdle for the victim or a shield for the criminal, allowing "Nagarik Suraksha" (citizen protection) to be accessible along the entire route of the journey.
+
+**Main Body**
+
+Under **Section 203** of the BNSS, when an offence is committed while the victim, the accused, or the property in question is in the course of performing a journey or voyage, the offence may be inquired into or tried by any Court through or into whose local jurisdiction that person or thing passed during that journey. This rule creates a "continuous jurisdiction" along the path of travel.
+
+* **Journey by Train:** Suppose **Prateek** is traveling on a train from **New Delhi** to **Mumbai**. During the night, while the train is moving, **Kanishth** steals **Prateek's** laptop. Because the train passes through various districts, **Prateek** does not need to identify the exact spot. The case can be tried by a court in **New Delhi**, **Mumbai**, or any station in between like **Kota** or **Ratlam** where the train passed.  
+* **Journey by Bus:** **Krishna** is traveling on a bus from **Ahmedabad** to **Pune**. Near the border, **Saurabh** misbehaves with her. Since the bus is in motion and crosses multiple local limits, the courts in **Ahmedabad**, **Pune**, or any district the bus traversed have the authority to handle the case.  
+* **Voyage or Long Distance Travel:** **Laukendra** is on a ship from **Kochi** to **Kolkata**. If **Sachkeerat** assaults him on the high seas, the court at the destination in **Kolkata** can take cognizance. Similarly, if **Raghavendra**, a police officer at a transit point, receives a complaint from **Satyam** about a crime on a long-distance bus, he cannot refuse it based on territory.
+
+**Conclusion**
+
+In conclusion, the provisions for offences committed on a journey or voyage under the **BNSS 2023** are a vital necessity for a mobile society. By providing an expansive jurisdiction, the law ensures that victims like **Prateek** and **Krishna** are not forced to hunt for the exact spot of the crime in an unfamiliar district. It empowers officers and magistrates to take immediate action at any point along the route or at the destination. Ultimately, this rule ensures that justice travels with the citizen and that criminals like **Kanishth** cannot escape accountability simply because the wheels of the vehicle kept turning during the commission of the crime.
+
+---
+
+## 3\. Write Short notes on: Cognizance of offences by Court of Session (2019)
+
+**Cognizance of offences by Court of Session**
+
+**Introduction**
+
+In the hierarchy of the Indian criminal judiciary, the Court of Session is the highest trial court in a district, empowered to try the most serious offences like murder or dacoity. However, unlike a Magistrate's Court, a Court of Session does not typically have the power to take "original cognizance"—meaning it cannot start a case directly from an FIR or a complaint. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the rule for initiating proceedings in this court is governed by **Section 213** (corresponding to Section 193 of the old CrPC). The rationale behind this is to provide a "judicial filter." Since the Court of Session handles grave matters, a Magistrate first examines the case to ensure there is enough substance before "committing" it to the higher court. This ensures that the valuable time of the Sessions Judge is reserved for trials that genuinely require such high-level scrutiny.
+
+**Main Body**
+
+The procedure and exceptions for cognizance by a Court of Session are as follows:
+
+* **The General Rule (Committal):** Under **Section 213**, no Court of Session can take cognizance of any offence as a court of original jurisdiction unless the case has been **committed** to it by a Magistrate. The Magistrate "takes cognizance" first, performs preliminary formalities, and then sends the file up.  
+  *Example:* **Kanishth** is accused of a serious crime in **Lucknow**. The police file a charge sheet before a Magistrate. The Magistrate, **Raghavendra**, reviews the documents and realizes the offence is exclusively triable by the Sessions Court. **Raghavendra** then "commits" the case to the Court of Session where **Saurabh** is the Sessions Judge. Only then can **Saurabh** take cognizance and start the trial.  
+* **The Exception (Direct Cognizance):** The only time a Court of Session can take cognizance directly (without a committal from a Magistrate) is when the Sanhita or any other law specifically allows it.  
+* **Defamation of Public Servants (Section 221):** A major exception is provided in **Section 221** (old Section 199(2)). If a person like **Satyam** is accused of defaming high-ranking public officials (like the President, Vice-President, or a Minister) in respect of their official duties, the Court of Session can take cognizance directly upon a written complaint by the Public Prosecutor.  
+  *Example:* **Laukendra** makes a defamatory statement against a Minister in **Varanasi**. The Public Prosecutor, **Sachkeerat**, files a direct complaint in the Court of Session. In this specific case, the Sessions Judge can start the proceedings without a Magistrate's involvement.  
+* **Procedural Transparency:** Once the case is committed, **Section 248** of the BNSS mandates that the trial must be conducted by a Public Prosecutor, ensuring the state's oversight in these serious matters.
+
+**Conclusion**
+
+In conclusion, the Court of Session acts as a specialized forum for the most impactful criminal cases. By following the "committal route" under **Section 213 of the BNSS 2023**, the law ensures that cases are properly vetted by Magistrates like **Raghavendra** before they reach the Sessions Judge. This hierarchical approach maintains the efficiency of the district judiciary. While exceptions like the prosecution for defamation of high officials under Section 221 allow for a direct path, the standard procedure remains the backbone of "Nagarik Suraksha" (citizen protection), ensuring that serious allegations against citizens like **Kanishth** are handled with the highest degree of judicial care and procedural integrity.
+
+---
+
+## 4\. Write Short notes on: Prosecution for Defamation
+
+**Prosecution for Defamation**
+
+**Introduction**
+
+Defamation is a unique offence because it primarily targets a person's reputation, which the law considers as valuable as their physical safety. Under the **Bharatiya Nyaya Sanhita (BNS), 2023**, the definition and punishment for defamation are found in **Section 356**. The procedure to prosecute this offence is specifically laid out in **Section 222** of the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**. Unlike most crimes where the police can take action, defamation is mostly treated as a private wrong. The fundamental principle is that the "State" does not interfere unless the person whose reputation is harmed comes forward to complain. This ensures that the courts are only used for genuine grievances regarding personal dignity.
+
+**Main Body**
+
+The BNSS provides clear rules on who can initiate a case for defamation:
+
+* **General Rule (Aggrieved Person):** No Court shall take cognizance of defamation except upon a complaint made by the "person aggrieved" by the offence.  
+  *Example:* **Kanishth** spreads a rumor in **Patna** that **Prateek** has cheated in his business. Only **Prateek** has the right to file a complaint against **Kanishth**. If **Satyam**, who is **Prateek’s** friend, tries to file the case, the court will refuse it.  
+* **Exceptions for Vulnerable Persons:** If the defamed person is a child (under 18), is of unsound mind, is too sick or infirm to file a complaint, or is a woman who by custom should not appear in public, the court may allow someone else to file the complaint on their behalf.  
+  *Example:* **Krishna** is a minor in **Indore** who is defamed by an anonymous poster. Her guardian, **Raghavendra**, can file the complaint with the permission of the court.  
+* **Special Case for High Officials:** If the person defamed is the President, Vice-President, a Governor, or a Minister regarding their official conduct, a **Public Prosecutor** like **Saurabh** can file a direct complaint in the Court of Session.  
+* **Conditions for Public Servants:** For the Public Prosecutor to act, they must obtain prior "sanction" (permission) from the Government. Also, such a complaint must be filed within **six months** of the incident.  
+  *Example:* **Laukendra** makes a defamatory statement against a Minister in **Lucknow**. The Public Prosecutor, **Sachkeerat**, after getting government permission, files a direct case in the Sessions Court within the six-month deadline.
+
+**Conclusion**
+
+In conclusion, the prosecution for defamation under the **BNSS 2023** creates a balanced path for seeking justice. By making the "aggrieved person" rule mandatory, it prevents people from using the law to settle scores on behalf of others. At the same time, the special procedure for high-ranking officials ensures that the dignity of the State's offices is protected. Whether it is a private individual like **Prateek** defending his name or a public official being defended by **Sachkeerat**, the law ensures that reputation is protected through a transparent and specific judicial process in cities across India.
+
+---
+
+## 5\. Write Short notes on: Examination or complainant.
+
+**Examination of Complainant**
+
+**Introduction**
+
+The "Examination of Complainant" is the first judicial filter applied to a private criminal complaint to prevent the misuse of the legal system. In the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, this is governed by **Section 223** (which replaces Section 200 of the old CrPC). The primary objective is to verify the truthfulness of the allegations before the court officially takes notice of the crime. Under the new Sanhita, this stage has been significantly strengthened by making it a mandatory pre-cognizance safeguard. This ensures that "Nagarik Suraksha" (citizen protection) applies not only to the victim seeking justice but also to the accused who might otherwise face harassment from frivolous or malicious litigation.
+
+**Main Body**
+
+Under **Section 223**, a Magistrate who has jurisdiction over a case must follow a strict procedure when a private complaint is filed:
+
+* **Examination on Oath:** The Magistrate is legally bound to examine the complainant and any witnesses present under oath. This means the person must swear to tell the truth, making them liable for perjury if they lie.  
+* **Recording and Signing:** The substance of this examination must be reduced to writing and signed by the complainant, the witnesses, and the Magistrate.  
+  *Example:* **Prateek** files a private complaint against **Kanishth** in **Lucknow** for criminal breach of trust. Magistrate **Raghavendra** calls **Prateek** to the stand and examines him and his witness, **Krishna**, on oath. **Raghavendra** writes down their statements, and all of them sign the document.  
+* **The New "Hearing" Safeguard:** A revolutionary update in the BNSS 2023 is the requirement that no cognizance shall be taken without giving the accused an opportunity of being heard.  
+  *Example:* In the same case in **Lucknow**, before **Raghavendra** decides to officially start the case, he must give **Kanishth** a chance to explain his version. This prevents **Kanishth** from being summoned unnecessarily if the case is clearly false.  
+* **Special Protection for Public Servants:** If the complaint is against a public servant like **Saurabh** for acts done in official duty, the Magistrate must get a report from his superior, **Sachkeerat**, and allow **Saurabh** to make assertions before proceeding.  
+* **Exceptions:** If the complaint is made by a public servant like **Laukendra** in his official capacity or by a Court, the Magistrate does not need to examine them. Similarly, if the case is transferred to Magistrate **Satyam**, he may rely on the previous examination.
+
+**Conclusion**
+
+In conclusion, the examination of the complainant under **Section 223 of the BNSS 2023** acts as a robust judicial screen. By recording statements under oath and introducing a mandatory hearing for the accused, the law ensures that only genuine cases proceed to trial. This protects the dignity of individuals in cities from **Patna** to **Amritsar**, ensuring that for every **Prateek** seeking a legal remedy, there is a shield for every **Kanishth** against false accusations. This balanced approach upholds the principles of natural justice and ensures the integrity of the criminal justice system from its very inception.
+
+---
+
+## 6\. Write Short notes on: Issue of Process (2019)
+
+**Issue of Process**
+
+**Introduction**
+
+The "Issue of Process" is the decisive stage in a criminal proceeding where the Court, after preliminary examination, decides to officially summon the accused to face trial. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, this stage is governed by **Section 227** (corresponding to Section 204 of the old CrPC). It marks the transition from a mere "complaint" to an active "judicial case." The rationale behind this provision is to ensure that no person is subjected to the burden of a criminal trial unless a Magistrate is satisfied that there is "sufficient ground" for proceeding. It serves as the final gateway, ensuring that "Nagarik Suraksha" (citizen protection) is maintained by preventing the harassment of innocent individuals while ensuring that suspected offenders are brought before the law.
+
+**Main Body**
+
+Once a Magistrate takes cognizance of an offence and finds sufficient grounds, they "issue process" using the following methods:
+
+* **Summons Cases:** If the case is a "summons-case" (typically minor offences), the Magistrate shall issue a **summons** for the attendance of the accused.  
+  *Example:* **Prateek** is accused of a minor neighborhood nuisance in **Lucknow**. Magistrate **Raghavendra** finds sufficient evidence and issues a summons to **Prateek**, politely requiring him to appear in court on a specific date.  
+* **Warrant Cases:** If it is a "warrant-case" (serious offences), the Magistrate may issue a **warrant** or a summons, depending on what is necessary to ensure the accused appears.  
+  *Example:* **Kanishth** is accused of a serious robbery in **Patna**. Given the gravity, Magistrate **Saurabh** decides to issue a warrant of arrest directly to ensure **Kanishth** does not flee.  
+* **Condition Precedent (Witness List):** A process cannot be issued against the accused until a list of prosecution witnesses has been filed. This ensures that the accused, like **Satyam**, knows who will be testifying against them.  
+* **Payment of Fees:** If any law requires the payment of "process-fees" (for serving the summons), the process will not be issued until the fees are paid. If **Krishna** fails to pay the fee for her complaint in **Indore**, the case may be dismissed.  
+* **The "Hearing" Requirement (New in BNSS):** Consistent with Section 223, before issuing a process in a private complaint, the Magistrate must ensure that the accused has been given an opportunity of being heard.  
+  *Example:* Before Magistrate **Satyam** issues a warrant for **Laukendra** in **Varanasi**, he must review the assertions made by **Laukendra** to ensure the case isn't a malicious fabrication by **Sachkeerat**.
+
+**Conclusion**
+
+In conclusion, the "Issue of Process" under **Section 227 of the BNSS 2023** is a critical exercise of judicial discretion. It ensures that the machinery of the State is not used as a tool for personal vendettas. By distinguishing between summons and warrants, the law applies a proportionate amount of force based on the nature of the crime. For citizens across India—from **Amritsar** to **Indore**—this stage guarantees that their liberty is only restricted when a judicial mind like **Raghavendra** or **Saurabh** finds a valid reason to do so. This procedure remains the bedrock of a fair trial, ensuring that the accused is brought to court through a transparent and "just" process.
+
+---
+
+Long Answer Type Question
+
+---
+
+## Q1. Discuss the Jurisdiction of Criminal Courts in respect of Inquiries and Trials. (2022)
+
+**Jurisdiction of Criminal Courts in respect of Inquiries and Trials**
+
+**Introduction**
+
+Jurisdiction is the legal authority of a court to hear, try, and decide a case.1 In criminal law, territorial jurisdiction is fundamental as it determines "where" a case should be initiated and conducted.2 The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, provides the legal framework for this in **Chapter XIV (Sections 197 to 209\)**.3 The primary purpose of these jurisdictional rules is to ensure the convenience of the parties, the efficiency of the investigation, and the fairness of the trial.4 By ensuring that a case is tried in a court that has a logical and practical connection to the offence, the BNSS facilitates the effective administration of justice and upholds the principle of "Nagarik Suraksha" (citizen protection).5 Whether an offence is committed in a single city, across multiple districts, or even outside the country, the BNSS provides a clear roadmap to identify the competent court.6
+
+**Main Body**
+
+The BNSS 2023 establishes several principles to determine the place of inquiry or trial depending on the nature and circumstances of the crime:7
+
+**1\. The General Rule: Ordinary Place of Inquiry and Trial (Section 197)8**
+
+The basic principle is that every offence shall "ordinarily" be inquired into and tried by a Court within whose local jurisdiction it was committed.9 This proximity ensures that the court is close to the evidence, witnesses, and the crime scene.10
+
+*Example:* **Prateek** commits a robbery at a bank in **Lucknow**. Under Section 197, the Court in **Lucknow** has the ordinary jurisdiction to try **Prateek**.
+
+**2\. Place of Inquiry or Trial in Cases of Uncertainty (Section 198\)**
+
+When it is uncertain which of several local areas an offence was committed in, or if it was committed partly in one area and partly in another, or if it is a continuing offence, any court having jurisdiction over any of those areas can try the case.11
+
+*Example:* **Kanishth** kidnaps **Krishna** in **Patna**, travels through **Varanasi**, and detains her in **Bhopal**. The courts in **Patna**, **Varanasi**, and **Bhopal** all have jurisdiction to try **Kanishth**.
+
+**3\. Act Done or Consequence Ensues (Section 199)12**
+
+When an act is an offence because of the act itself and the consequence that follows, the trial can take place where the act was done or where the consequence happened.13
+
+*Example:* **Saurabh** assaults **Satyam** in **Indore**, but **Satyam** eventually dies from the injuries in a hospital in **Mumbai**. The trial for culpable homicide can be held in either **Indore** or **Mumbai**.
+
+**4\. Relation to Other Offences (Section 200)14**
+
+If an act is an offence because of its relation to another offence (like abetment or receiving stolen property), it can be tried in the court where either act was committed.15
+
+*Example:* **Raghavendra** abets a crime committed by **Sachkeerat** in **Amritsar**. **Raghavendra** can be tried in the court where he provided the abetment or in **Amritsar** where the main crime occurred.
+
+**5\. Jurisdiction for Specific Offences (Section 201)16**
+
+The Sanhita specifies venues for certain crimes to prevent jurisdictional loopholes:17
+
+* **Dacoity/Escaping Custody:** Where the offence was committed or where the accused is found.18  
+* **Kidnapping/Abduction:** Where the person was taken, conveyed, or concealed.19  
+* **Theft/Extortion:** Where the crime happened or where the stolen property was possessed or received.20  
+* **Criminal Breach of Trust:** Where the property was received, retained, or required to be returned.21
+
+**6\. Electronic Communications and Cheating (Section 202)22**
+
+In the digital age, the BNSS explicitly addresses crimes committed via technology. Offences involving cheating practised through electronic communications, letters, or telecommunication messages can be tried where the messages were sent or received.23
+
+*Example:* **Laukendra** sends a fraudulent email from **Jaipur** to **Prateek** in **Kolkata**, tricking him into a financial scam. The case can be tried in **Jaipur** or **Kolkata**.
+
+**7\. Journey or Voyage (Section 203)24**
+
+When an offence is committed on a moving vehicle (train, bus, ship, or aircraft), any court through whose jurisdiction the person or thing passed during the journey has jurisdiction.25
+
+*Example:* **Sachkeerat** is robbed while on a train from **Delhi** to **Chennai**. The case can be tried at any station the train passed through or at the destination.
+
+**8\. Offences Committed Outside India (Section 208)26**
+
+When an Indian citizen commits an offence outside India, or a person on an Indian ship/aircraft commits one, they can be dealt with as if the offence had been committed at any place in India where they may be found, provided the Central Government gives its sanction.
+
+**Conclusion**
+
+In conclusion, the jurisdiction of criminal courts regarding inquiries and trials under the **BNSS 2023** is designed to be comprehensive and adaptable. By providing specific rules for various scenarios—ranging from simple local thefts to complex cross-border electronic frauds—the law ensures that no criminal can escape trial due to technicalities of territory. For individuals like **Prateek**, **Krishna**, and **Kanishth**, these provisions guarantee that the judicial process is conducted in a venue that is legally appropriate and practically convenient. The overarching goal is the "Nagarik Suraksha," ensuring that the wheels of justice turn smoothly and efficiently in every corner of India, from **Patna** to **Mumbai**, by grounding the legal authority of the court in the most relevant and effective location.
+
+---
+
+## ~~Q2. Discuss what is meant by taking cognizance of an offence by a magistrate. Under what circumstances can a magistrate take cognizance of an offence. Discuss powers and procedure? OR~~
+
+~~What are the powers of the Magistrate for taking cognizance of any offence? Elaborate.~~
+
+~~What do you understand by the cognizance of an offence by a Magistrate ? Discuss the procedure in detail. (2024)~~
+
+## Q3. Explain briefly the limitations imposed by the sanhita on the unfettered powers of Magistrates to take cognizance of offences under section 210\.
+
+**Limitations on the Powers of Magistrates to Take Cognizance (Section 210 BNSS)**
+
+**Introduction**
+
+The power to take cognizance of an offence is the point at which a Magistrate officially "takes judicial notice" of a crime and decides whether there is sufficient ground to proceed. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, this power is granted by **Section 210** (corresponding to Section 190 of the old CrPC). While this section gives Magistrates the authority to act on a complaint, a police report, or their own knowledge, this power is not "unfettered" or absolute. The Sanhita imposes several limitations and conditions to ensure that the judicial process is not used for harassment or to settle personal scores. These limitations act as safeguards, ensuring that "Nagarik Suraksha" (citizen protection) is maintained by allowing only legally valid and properly sanctioned cases to enter the courtroom.
+
+**Main Body**
+
+The limitations on a Magistrate's power to take cognizance can be categorized into procedural, territorial, and statutory restrictions:
+
+* **Territorial Jurisdiction (Sections 197–209):** A Magistrate cannot take cognizance of just any crime in the country. They must have "local jurisdiction" over the area where the offence was committed or where the consequence happened.  
+  *Example:* **Raghavendra**, a Magistrate in **Patna**, cannot take cognizance of a minor theft committed by **Kanishth** in **Lucknow** unless the stolen property is found in **Patna** or another legal link exists under Sections 198–203.  
+* **Period of Limitation (Sections 513–519):** For less serious offences, the BNSS imposes a "time bar." A Magistrate is prohibited from taking cognizance after the expiry of the period of limitation (e.g., 6 months for fine-only offences, 1 year for offences punishable up to 1 year).  
+  *Example:* **Sachkeerat** defames **Saurabh** in **Amritsar** (punishable up to 2 years). If **Saurabh** waits for 4 years to file a complaint, Magistrate **Krishna** cannot take cognizance as the 3-year limitation period has expired.  
+* **Prior Sanction for Public Servants (Section 218):** A significant limitation exists when the accused is a judge or a public servant. A Magistrate cannot take cognizance of an offence alleged to have been committed in the discharge of their official duties without prior "sanction" (permission) from the State or Central Government.  
+  *Example:* **Laukendra**, a police officer in **Indore**, is accused by **Satyam** of using excessive force during a lawful arrest. Magistrate **Prateek** cannot take cognizance unless the government grants permission to prosecute **Laukendra**.  
+* **Offences Against Marriage (Section 217):** For offences like bigamy or adultery, a Magistrate can only take cognizance upon a complaint made by the "person aggrieved" (usually the spouse).  
+* **Opportunity to be Heard (Section 223 \- New Reform):** A major new limitation in the **BNSS 2023** is that for private complaints, the Magistrate shall not take cognizance without giving the accused an opportunity of being heard. This prevents the "unfettered" issuance of summons based on one-sided stories.  
+* **Forensic and Reporting Barriers:** For serious offences, the Magistrate must ensure that forensic procedures (under Section 176\) were followed, and for complaints against public servants, a report from a superior officer must be received before acting.
+
+**Conclusion**
+
+In conclusion, while **Section 210 of the BNSS 2023** provides the engine for initiating criminal proceedings, the limitations spread across the Sanhita provide the "brakes." These restrictions ensure that Magistrates like **Krishna** or **Prateek** apply their judicial minds within the boundaries of territorial jurisdiction, time limits, and government sanctions. By introducing the mandatory hearing of the accused even at the cognizance stage, the BNSS has significantly curtailed the possibility of arbitrary or "unfettered" judicial action. These safeguards ensure that the rights of citizens like **Saurabh** or **Laukendra** are protected against frivolous litigation, keeping the judicial process "just, fair, and reasonable" in every district of India, from **Patna** to **Lucknow**.
+
+---
+
+## Q4. Discuss the procedure which is to be adopted by a Magistrate on receiving a complaint. Discuss the procedure which is to be adopted by a Magistrate on receiving a complaint who is not competent to take cognizance of the case.
+
+Or  
+Describe briefly the procedure to be adopted by a Magistrate in complaint cases (2023).
+
+Or  
+Discuss the law relating to complaint. Can a magistrate refer the case to the police receive through complaint ? Discuss with the help of relevant law. (2018) 
+
+Or  
+What do you understand by taking cognizance of an offence ? Discuss the procedure when cognizance is taken on a complaint.
+
+OR  
+Define complaint. Discuss the complaint proceedings before the Magistrate.
+
+**Complaint and the Process of Taking Cognizance**
+
+**Introduction**
+
+In the framework of criminal justice, a "Complaint" is the primary bridge between a private citizen and the power of the Judiciary. While most criminal cases are initiated by the police through an FIR, the law recognizes that citizens must have a direct channel to seek justice when the police fail to act or when the matter is of a private nature. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the definition of a complaint and the subsequent procedure for "taking cognizance" have been refined to enhance transparency and protect against malicious litigation. The process of cognizance is the first "judicial act" where a Magistrate applies their mind to the facts to determine if a legal proceeding should be initiated. By establishing strict procedures under **Sections 223 and 224**, the BNSS ensures that "Nagarik Suraksha" (citizen protection) is provided through a balanced approach that respects the rights of both the complainant and the accused.
+
+**Main Body**
+
+**1\. Defining a Complaint (Section 2(h))**
+
+According to Section 2(h) of the BNSS, a "complaint" means any allegation made orally or in writing to a Magistrate, with a view to his taking action under this Sanhita, that some person (known or unknown) has committed an offence.
+
+* **Crucial Exclusion:** It specifically excludes a police report.  
+* **The "Police Report" Exception:** If a police officer investigates a case and finds that only a **non-cognizable** offence was committed, their final report is "deemed" to be a complaint, and the officer is treated as the complainant.
+
+*Example:* **Prateek** goes to Magistrate **Raghavendra** in **Lucknow** and states in writing that **Kanishth** has cheated him of money. This is a complaint. However, if Officer **Saurabh** files a chargesheet after an FIR, that is a "police report," not a complaint.
+
+**2\. Understanding "Taking Cognizance" (Section 210\)**
+
+"Taking cognizance" does not mean convicting someone; it simply means "taking judicial notice." It is the moment the Magistrate decides there is enough "prima facie" evidence to move the case forward. The Magistrate takes cognizance under Section 210 upon receiving a complaint, a police report, or information from any other person.
+
+*Example:* When Magistrate **Raghavendra** reads **Prateek's** complaint and decides to examine him under oath to see if a crime really happened, he is said to have "taken cognizance."
+
+**3\. Procedure on Receiving a Complaint (Section 223\)**
+
+The BNSS 2023 has introduced a revolutionary change in this procedure:
+
+* **Examination on Oath:** The Magistrate must examine the complainant (**Prateek**) and any witnesses (like **Krishna**) on oath. The substance is written down and signed.  
+* **Mandatory Hearing of the Accused (The New Shield):** Unlike the old law, the new proviso to Section 223(1) states that no cognizance shall be taken without giving the accused (**Kanishth**) an opportunity to be heard.  
+* **14-Day Timeline:** The preliminary inquiry to decide on cognizance should ideally be completed within 14 days.
+
+**4\. Procedure When Magistrate is Not Competent (Section 224\)**
+
+If Prateek files his complaint before Magistrate Satyam, but the offence actually happened in a different jurisdiction or is beyond Satyam's power:
+
+* **Written Complaint:** **Satyam** will return the complaint to **Prateek** for presentation to the proper Court with an "endorsement" (a note) to that effect.  
+* **Oral Complaint:** **Satyam** will simply direct **Prateek** to the correct Court.
+
+**5\. Referring the Case to the Police (Section 175(3))**
+
+Yes, a Magistrate can refer a complaint to the police. Under Section 175(3) (formerly 156(3)), if the complaint discloses a cognizable offence, the Magistrate, before taking cognizance, can order the police to investigate. This effectively turns the private complaint into an FIR-based investigation.
+
+*Example:* If **Prateek's** complaint involves a serious robbery, Magistrate **Raghavendra** might tell Officer **Saurabh** to "investigate the matter" instead of handling it as a private complaint trial.
+
+**Conclusion**
+
+In conclusion, the journey from a private "Complaint" to the "Issue of Process" is governed by a set of precise judicial checkpoints in the **BNSS 2023**. By defining a complaint clearly and introducing a mandatory pre-cognizance hearing for the accused, the law creates a robust filter against frivolous cases. For citizens in cities like **Lucknow** or **Patna**, these rules ensure that while victims like **Prateek** have a path to justice, individuals like **Kanishth** are protected from arbitrary judicial action. Whether a Magistrate takes the case themselves or refers it to the police under Section 175(3), the ultimate goal remains "Nagarik Suraksha"—the protection of every citizen through a transparent and accountable legal procedure.
+
+[Cognizance of Offence & Complaints to Magistrates](https://www.youtube.com/watch?v=FFRfPp-3Qms)
+
+This video is relevant as it provides a clear legal comparison between the various modes of taking cognizance and the specific procedures for handling private complaints under the new criminal laws.
+
+---
+
+## Q5. What are those steps which a Magistrate is required to take after being satisfied on a complaint that there is sufficient ground for proceeding?
+
+**Steps Taken by a Magistrate After Being Satisfied on a Complaint (Section 227 BNSS)**
+
+**Introduction**
+
+Once a Magistrate has completed the initial stages of a complaint—such as the examination of the complainant and witnesses and the mandatory pre-cognizance hearing—they must decide whether the case has enough merit to continue. If the Magistrate, after judicial application of mind, concludes that there is "sufficient ground for proceeding," they move into the stage of "Commencement of Proceedings." Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, this is primarily governed by **Section 227** (corresponding to Section 204 of the old CrPC). This stage, known as the "Issue of Process," is the point where the court officially summons the accused to answer the allegations. The rationale is to transition the matter from a private dispute to a formal judicial trial, ensuring "Nagarik Suraksha" (citizen protection) by providing a clear and structured procedure to bring the accused before the law.
+
+**Main Body**
+
+According to Section 227 of the BNSS, the Magistrate must take several specific steps and follow certain mandatory conditions when they are satisfied that a case should proceed:
+
+**1\. Choosing the Correct Process (Summons vs. Warrant)**
+
+The Magistrate’s first duty is to determine the nature of the case to decide how to compel the accused's appearance:
+
+* **Summons-Cases:** In a summons-case (offences punishable with imprisonment up to 2 years), the Magistrate **shall** issue a summons for the attendance of the accused.  
+* **Warrant-Cases:** In a warrant-case (serious offences punishable with death, life imprisonment, or more than 2 years), the Magistrate **may** issue a warrant or, if they think fit, a summons.
+
+*Example:* **Prateek** files a complaint in **Lucknow** against **Kanishth** for a minor assault. Magistrate **Raghavendra** finds sufficient ground and issues a summons to **Kanishth**. However, if **Satyam** files a complaint against **Sachkeerat** for a serious robbery in **Amritsar**, **Raghavendra** might issue a warrant for **Sachkeerat's** arrest to ensure he does not abscond.
+
+**2\. The Mandatory "Witness List" Condition (Section 227(2))**
+
+A significant safeguard in the BNSS is that the Magistrate cannot issue a summons or warrant until the prosecution has filed a list of its witnesses. This prevents the accused from being blindsided and ensures the case is ready for trial.
+
+*Example:* In **Patna**, before Magistrate **Saurabh** issues a process against **Laukendra**, the complainant **Krishna** must submit a list of individuals who will testify against him.
+
+**3\. Accompanying Complaint Copy (Section 227(3))**
+
+In proceedings instituted upon a written complaint, every summons or warrant issued must be accompanied by a copy of the complaint. This fulfills the constitutional right of the accused to know the exact nature of the allegations against them.
+
+*Example:* When the postman delivers the summons to **Kanishth** in **Varanasi**, the envelope must also contain the written complaint filed by **Prateek**.
+
+**4\. Electronic Service of Process**
+
+A modern update in the BNSS 2023 is the explicit provision that summons or warrants may also be issued through electronic means, such as encrypted email or messaging apps. This speeds up the delivery of justice in a digital world.
+
+**5\. Payment of Process Fees (Section 227(4))**
+
+If any law requires fees for issuing the summons or warrant, they must be paid by the complainant. If Prateek fails to pay these fees within a reasonable time, Magistrate Raghavendra has the power to dismiss the complaint.
+
+**6\. Dispensing with Personal Attendance (Section 228\)**
+
+If the Magistrate issues a summons, they have the discretion under Section 228 to permit the accused to appear through a legal pleader instead of coming in person, especially if the case is minor or the accused is infirm.
+
+**Conclusion**
+
+In conclusion, the steps a Magistrate takes under **Section 227 of the BNSS 2023** are designed to ensure a smooth transition from an allegation to a formal trial. By mandating the filing of a witness list and the provision of a complaint copy, the law protects the rights of the accused from the very start. The flexibility to choose between a summons and a warrant ensures that the level of compulsion is proportionate to the severity of the crime. For citizens in cities like **Indore** or **Lucknow**, these procedures act as a vital filter, ensuring that judicial resources are only used for cases where "sufficient ground" exists, thereby upholding the integrity of "Nagarik Suraksha" in the Indian legal system.
+
+[Issue of process BNSS Section 227](https://www.youtube.com/watch?v=dHDC4taT1mg)
+
+This video is relevant as it provides a comprehensive explanation of Sections 227 to 233 of the BNSS, focusing on the commencement of proceedings and the legal requirements for issuing a process to an accused.
+
+---
+
+## Q6. Write a short note on: (i) Commitment of case to Court of Session and (ii) Consolidation of cases relating to the same offence.
+
+**Commitment and Consolidation of Cases**
+
+**Introduction**
+
+In the Indian criminal justice system, the distribution of work between the Magistrate's Court and the Court of Session is strictly defined based on the severity of the offence. While a Magistrate handles a wide range of crimes, certain grave offences like murder or dacoity are reserved for the Court of Session. To facilitate this, the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, provides for the "Commitment of Case" under **Section 232**. Furthermore, to prevent the confusion of parallel proceedings for the same incident—where both a private complaint and a police investigation are active—the Sanhita provides for "Consolidation of Cases" under **Section 233**. These procedures are essential for judicial efficiency and the protection of the rights of the accused. They ensure that "Nagarik Suraksha" (citizen protection) is not compromised by procedural delays or conflicting judgments, providing a streamlined path to justice for every citizen.
+
+**Main Body**
+
+**1\. Commitment of Case to Court of Session (Section 232\)**
+
+The process of commitment, or "committal," acts as a legal bridge. When a Magistrate realizes that an offence is "triable exclusively by the Court of Session," they must transfer the entire case to the Sessions Judge.
+
+* **The Procedure:** Under Section 232, once the accused appears, the Magistrate must:  
+  * **Supply Documents:** Ensure compliance with Section 230 or 231 by providing the accused with copies of the FIR, police report, and witness statements.  
+  * **Remand and Records:** Send the entire case record, evidence, and articles to the Sessions Court and remand the accused to custody or bail.  
+  * **Notification:** Inform the Public Prosecutor about the transfer.  
+* **The New Timeline:** A critical reform in the BNSS is the **90-day limit** to complete these committal proceedings, extendable up to 180 days only with written reasons.
+
+*Example:* **Kanishth** is accused of a serious crime in **Varanasi**. Magistrate **Raghavendra** takes cognizance but realizes the case must be tried by the Sessions Court. **Raghavendra** provides all documents to **Kanishth**, remands him, and "commits" the case to Sessions Judge **Saurabh**.
+
+**2\. Consolidation of Cases (Section 233\)**
+
+Consolidation occurs when two different paths are taken for the same crime: a private "Complaint Case" and a "Police Investigation."
+
+* **The Procedure:** Under Section 233, if a Magistrate is conducting an inquiry into a complaint and finds that a police investigation is also ongoing for the same matter:  
+  * **Stay of Proceedings:** The Magistrate must stay (pause) the complaint case and call for a report from the police.  
+  * **Joint Trial:** If the police report results in cognizance against the same accused, the Magistrate will try both cases together as if both were initiated on a police report.  
+  * **Resumption:** If the police report does not relate to the accused, the Magistrate resumes the stayed complaint trial.
+
+*Example:* **Prateek** files a private complaint against **Krishna** in **Lucknow**. Meanwhile, Officer **Laukendra** is also investigating **Krishna** for the same incident. Magistrate **Sachkeerat** stays **Prateek's** case. Once **Laukendra** files a chargesheet, **Sachkeerat** consolidates the two and tries them together to avoid conflicting outcomes.
+
+**Conclusion**
+
+In conclusion, the provisions for commitment and consolidation in the **BNSS 2023** serve as vital administrative tools for the judiciary. By mandating the transfer of serious cases under Section 232, the law ensures that the highest level of judicial scrutiny is applied to grave crimes. Simultaneously, by merging parallel proceedings under Section 233, the Sanhita prevents the waste of judicial resources and protects citizens like **Krishna** from facing multiple trials for a single act. These procedural safeguards, supported by the new 90-day committal timeline, enhance the speed and reliability of trials in cities like **Varanasi** and **Lucknow**. Whether it is Judge **Saurabh** presiding over a committed case or Magistrate **Sachkeerat** consolidating a dual investigation, these rules ensure that the Indian legal system remains "just, fair, and reasonable."
+
+[Commitment of Case to Court of Session | BNSS Section 232](https://www.youtube.com/watch?v=nPsc_v2Q2XY)
+
+This video is relevant because it provides a clear explanation of Section 232 of the BNSS, detailing the Magistrate's duty in committing cases and the new timelines introduced under the 2023 Sanhita.
+
+---
+
+# UNIT-IV
+

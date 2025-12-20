@@ -458,7 +458,7 @@ The Bharatiya Nagarik Suraksha Sanhita, 2023 is not merely a name change; it is 
 
 ---
 
-# UNIT-I
+# UNIT-I: Introduction:
 
 Note: Write short notes on the following:
 
@@ -478,7 +478,7 @@ Note: Write short notes on the following:
 
 8\. Write Short notes on: Classes of Criminal Courts
 
-9\. Sessions Judges may pass Write Short notes on Sentences which High Courts and
+9\. Write Short notes on Sentences which High Courts and Sessions Judges may pass.
 
 10\. Write Short notes on: Sentences which Magistrates may pass
 
@@ -500,72 +500,431 @@ Note: Write short notes on the following:
 
 Long Answer Type Question
 
-1\. Whether nature of offences or offenders can be basis of reasonable classification under Art. 14 of the Constitution of India?
+## Q1. Whether the nature of offences or offenders can be the basis of reasonable classification under Art. 14 of the Constitution of India?
 
-2\. What is the scope of protection to arrested persons Right of an Arrested Person under Article 22 under Constitution of India?
+**Introduction**
 
-Or
+Article 14 of the Constitution of India is the cornerstone of the right to equality. It mandates that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. While this sounds like a mandate for absolute mathematical equality, the Supreme Court has long recognized that "equals must be treated equally," and that the diverse needs of a complex society require different laws for different classes of persons. This realization led to the evolution of the "Doctrine of Reasonable Classification." This doctrine posits that Article 14 does not forbid classification; it only forbids "class legislation"—which is a discriminatory or arbitrary selection of a group. To be constitutional, a classification must satisfy two essential conditions: it must be founded on an "intelligible differentia" which distinguishes persons or things that are grouped together from others left out, and that differentia must have a "rational nexus" with the object sought to be achieved by the statute in question. In the realm of criminal law, the nature of the offenses and the characteristics of the offenders are frequently used as a basis for such classification to ensure that the punishment fits both the crime and the criminal.
 
-Discuss the provisions regarding the rights of arrested person.
+**Main Body**
 
-under the Bharatiya Nagarik Suraksha Sanhita, 2023 and under the Constitution of India. (2024)
+The nature of offenses often necessitates a different procedural or substantive approach. For instance, the State may decide that certain heinous offenses, such as terrorism or organized crime, require a speedier trial or a more stringent bail process than ordinary offenses like simple theft. In a landmark case, **State of West Bengal v. Anwar Ali Sarkar**, the Supreme Court analyzed whether the State could refer "any cases" to special courts for "speedier trial." While the Court initially struck down the vague power in that specific case, it established that if a statute provides clear guidelines on what "classes of offenses" (such as those involving public safety or state security) qualify, the classification is valid.
 
-3\. Discuss the protection in respect of Conviction for offences under Art. 20 of the Constitution of India.
+Consider an example: **Prateek** and **Krishna** are both residents of **Lucknow**. **Prateek** is accused of a petty pickpocketing incident, while **Krishna** is accused of being part of a large-scale cyber-terrorist sleeper cell. The law may mandate that **Krishna** be tried in a Special Court under a specific Sanhita provision with stricter evidence rules, while **Prateek** is tried in a regular Magistrate Court. This classification is reasonable because the "nature of the offense" committed by **Krishna** poses a direct threat to national security, justifying a different procedural path compared to **Prateek's** minor crime.
 
-4\. Explain the rationale of Criminal Procedure with reference to Art. 21 of the Constitution of India.
+Similarly, the nature of the offender can be a valid ground for classification. The law does not treat a child, a first-time offender, or a woman the same way it treats a hardened, habitual criminal. This is seen in laws like the Juvenile Justice Act or provisions for probation. For instance, if **Kanishth**, a 15-year-old boy in **Bhopal**, commits a theft, he is sent to a Reformatory Home and his trial is private. However, if **Raghavendra**, a 40-year-old repeat offender in the same city, commits the same theft, he is sent to a central jail. This classification based on "age" and "criminal history" is reasonable because the object is the reformation of the child, which differs from the deterrent objective for **Raghavendra**.
 
-\-20
+Furthermore, special protections are often accorded to women offenders. If **Laukendra**, a police officer in **Indore**, needs to arrest **Saurabh**, a male suspect, he can do so at any time. However, if he needs to arrest a female suspect like **Satyam’s** sister after sunset, the law (Section 43 of BNSS) requires the presence of a woman police officer and a Magistrate’s order. This classification between "male" and "female" offenders is protected by Article 15(3) and is considered a reasonable classification under Article 14 because it addresses the specific vulnerability of women in custodial settings. In **Varanasi**, if **Sachkeerat** is a first-time offender who committed a crime out of desperation, the court might grant him probation under Section 360 of CrPC (or relevant BNSS provisions), whereas a habitual offender would not receive such leniency. This distinguishes offenders based on their "potential for reform," which has a rational nexus with the goal of social rehabilitation.
 
-5\. What is the local Jurisdiction of judicial magistrates?
+**Conclusion**
 
-6\. What are Executive Magistrates and Special Executive Magistrates? What is local jurisdiction of Executive Magistrates ?
+In conclusion, the nature of offenses and the attributes of offenders are not only valid but often necessary bases for classification under Article 14\. The law cannot be a one-size-fits-all mechanism. By distinguishing between the gravity of a crime—such as the difference between **Krishna’s** cyber-terrorism and **Prateek’s** petty theft—the legal system ensures that judicial resources are concentrated where they are most needed. By distinguishing between offenders—such as the difference between the minor **Kanishth** and the habitual **Raghavendra**—the system balances the need for punishment with the hope for rehabilitation. As long as these classifications are not arbitrary, capricious, or based on irrelevant criteria, and as long as they serve a legitimate legislative goal like public safety or juvenile welfare, they remain perfectly constitutional. The Indian judiciary continues to use the "intelligible differentia" and "rational nexus" tests to ensure that while the law may differentiate, it never discriminates.
 
-7\. Define "Public Prosecutors" and "Assistant Public Prosecutors."
+---
 
-1 1 1 2 3 3 4 4 4 C
+## ~~Q2. What is the scope of protection to arrested persons. Right of an Arrested Person under Article 22 under Constitution of India?~~
 
-8\. Describe the Court by which cognizable offences are trialable under the Bharatiya Nagarik Suraksha Sanhita.
+~~Or~~
 
-9\. State the powers of the High Courts and Session Judges regarding the sentences which they may pass.
+~~Discuss the provisions regarding the rights of the arrested person. under the Bharatiya Nagarik Suraksha Sanhita, 2023 and under the Constitution of India. (2024).~~
 
-10\. State the powers of High Court or the State Government to withdraw the powers conferred by it under the Sanhita.
+---
 
-11\. Give the definition of complaint and explain its essentials.
+## Q3. Discuss the protection in respect of Conviction for offences under Art. 20 of the Constitution of India.
 
-12\. Explain the classes of Criminal Court under B.N.S.S., 2023\. Also explain the jurisdiction in which session court and
+**Introduction**
+
+Article 20 of the Constitution of India is one of the most vital fundamental rights, providing essential safeguards to individuals against arbitrary and excessive punishment by the State. It is so fundamental that even during a National Emergency, this right cannot be suspended (as per the 44th Amendment). The primary objective of Article 20 is to protect the liberty of individuals, whether they are citizens, foreigners, or even legal entities like corporations, by ensuring that the criminal justice system operates on principles of fairness and the rule of law. It acts as a check on the powers of the legislature and the executive, preventing them from creating or applying laws that are oppressive or retrospective in nature. Article 20 consists of three distinct clauses: protection against ex post facto laws, protection against double jeopardy, and the prohibition of self-incrimination.
+
+**Main Body**
+
+**1\. Protection against Ex Post Facto Laws (Article 20(1))**
+
+The first clause of Article 20 prohibits "ex post facto" laws, which are laws that impose penalties retroactively. It has two components: First, a person can only be convicted for an act that was a "violation of a law in force" at the time the act was committed. If an act was legal when done, it cannot be made a crime later with retrospective effect. Second, a person cannot be subjected to a penalty greater than what was prescribed by the law at the time of the commission of the offense.
+
+For example, imagine **Prateek** performs an action in **Indore** on December 1st. On December 10th, the government passes a law making that action a crime. Under Article 20(1), **Prateek** cannot be punished because the law was not "in force" on December 1st. Similarly, if **Krishna** commits a crime in **Lucknow** for which the punishment is two years, and the law is changed to five years while his trial is pending, **Krishna** can only be sentenced to a maximum of two years.
+
+**2\. Protection against Double Jeopardy (Article 20(2))**
+
+The second clause embodies the principle of "nemo debet bis vexari," which means no one should be put in peril twice for the same offense. It states that "no person shall be prosecuted and punished for the same offence more than once." It is important to note that for this protection to apply, the person must have been both "prosecuted" and "punished" in the first instance by a court or judicial tribunal. Departmental inquiries or administrative actions do not count as "prosecution" for this purpose.
+
+Consider **Kanishth** in **Bhopal**. If **Kanishth** is tried for theft, convicted, and serves his sentence, he cannot be put on trial again for that same specific theft incident. However, if **Raghavendra**, a government employee in **Patna**, is dismissed from service after a departmental inquiry for corruption and is later prosecuted in a criminal court for the same act, it is not double jeopardy because the departmental action was not a "judicial punishment."
+
+**3\. Prohibition against Self-Incrimination (Article 20(3))**
+
+The third clause provides that "no person accused of any offence shall be compelled to be a witness against himself." This protects an accused person from being forced to give testimony that could lead to their own conviction. This right covers both oral and documentary evidence. However, the Supreme Court has clarified that this does not prevent the police from taking thumb impressions, blood samples, or specimen signatures, as these are "physical" rather than "testimonial" evidence.
+
+For instance, if **Laukendra** is an accused in **Jaipur**, the police cannot beat or threaten him to force him to confess. If **Saurabh**, the investigating officer, compels **Laukendra** to sign a self-incriminating statement, that statement will be inadmissible in court. On the other hand, if **Satyam** is asked to provide a DNA sample in **Varanasi** to match evidence at a crime scene, he cannot refuse it under Article 20(3) because it is not "testifying" against himself.
+
+**Conclusion**
+
+Article 20 serves as a robust shield for the individual against the might of the State. By prohibiting retrospective criminal laws, the Constitution ensures that people like **Sachkeerat** can know the consequences of their actions beforehand. By preventing double jeopardy, it protects citizens from perpetual harassment by the legal system. Finally, by barring self-incrimination, it upholds the dignity of the individual and ensures that the burden of proving a case lies squarely on the prosecution rather than through coerced confessions. These three protections together ensure that "conviction for offenses" is based on established, fair, and transparent judicial processes, which is the hallmark of Indian democracy and the rule of law.
+
+---
+
+## Q4. Explain the rationale of Criminal Procedure with reference to Art. 21 of the Constitution of India.
+
+**Introduction**
+
+Article 21 of the Constitution of India is the heart of fundamental rights, declaring that "no person shall be deprived of his life or personal liberty except according to procedure established by law." While this article is concisely worded, its impact on the criminal justice system is monumental. The "rationale" of criminal procedure—whether under the old CrPC or the new **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**—is to provide the very "procedure" mentioned in Article 21\. Initially, in the **A.K. Gopalan case**, the Supreme Court took a narrow view, suggesting any state-enacted procedure was sufficient. However, the landmark **Maneka Gandhi v. Union of India (1978)** ruling revolutionized this, establishing that the procedure must not just exist but must be "right, just, and fair," and not arbitrary, fanciful, or oppressive. Thus, Article 21 acts as a constitutional filter through which every provision of the BNSS must pass.
+
+**Main Body**
+
+The rationale of criminal procedure is to balance two competing interests: the power of the State to maintain order by punishing criminals, and the right of the individual to be protected from state tyranny. Article 21 ensures that this balance is maintained through several key procedural pillars.
+
+The first pillar is the **Right to a Fair Trial**. A procedure cannot be "fair" if the accused is not given a proper opportunity to defend themselves. This includes the right to an open trial, an impartial judge, and the right to cross-examine witnesses. For instance, imagine **Prateek** is accused of a crime in **Indore**. If the court holds a secret trial without allowing **Prateek** to see the evidence against him, the procedure violates Article 21\. The BNSS ensures fairness by mandating that trials, as far as practicable, be conducted in open court and that the accused be provided with copies of the police report and other documents (Section 230).
+
+The second pillar is the **Right to a Speedy Trial**. As the saying goes, "justice delayed is justice denied." The Supreme Court in **Hussainara Khatoon v. Home Secretary, Bihar** held that a speedy trial is an integral part of Article 21\. A procedure is not "just" if an individual is kept in jail for years as an undertrial without a verdict.
+
+*Example:* **Krishna** is arrested in **Lucknow** for a minor offense. If the trial drags on for five years while **Krishna** remains in custody, the rationale of the criminal procedure fails. To address this, the **BNSS 2023** has introduced specific timelines, such as the requirement for a judgment to be delivered within 30 days of the conclusion of arguments (Section 258).
+
+The third pillar is the **Right to Legal Aid**. A fair trial is a myth if the accused is too poor to afford a lawyer. Under Article 21 and the directive principles, the State must provide free legal aid to those in need. If **Kanishth**, a poor laborer in **Bhopal**, is arrested and cannot afford a lawyer, the court is duty-bound to provide him with one at state expense. This ensures that **Kanishth’s** liberty is not taken away simply because of his poverty.
+
+The fourth pillar is the **Presumption of Innocence**. The criminal procedure is built on the rationale that a person is "innocent until proven guilty." The burden of proof lies on the prosecution. This protects citizens from arbitrary arrest and conviction. If **Raghavendra** is accused of theft in **Patna**, the police officer **Laukendra** must prove the guilt "beyond reasonable doubt." Article 21 ensures that **Raghavendra** is treated with dignity during this process, prohibiting handcuffs unless absolutely necessary and barring custodial torture.
+
+**Conclusion**
+
+In conclusion, the rationale of criminal procedure is deeply rooted in the sanctity of human life and liberty as enshrined in Article 21\. The procedure laid down in the **BNSS 2023** is not merely a set of technical rules; it is the practical manifestation of the constitutional promise of "due process." Whether it is **Saurabh** being informed of his grounds of arrest in **Varanasi**, or **Satyam** receiving a speedy trial in **Jaipur**, or **Sachkeerat** getting free legal aid in **Amritsar**, the ultimate goal is to ensure that the State's "sword of justice" is tempered by the "shield of fairness." Article 21 ensures that the criminal justice system remains humane, transparent, and accountable, preventing the law from becoming an instrument of oppression.
+
+---
+
+## Q5. What is the local jurisdiction of judicial magistrates?
+
+**Introduction**
+
+Local jurisdiction refers to the geographical boundaries within which a court or a Magistrate is legally authorized to exercise its powers. In the criminal justice system, it is a fundamental principle that a Magistrate should ideally handle cases arising within their specified territorial limits. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the provisions regarding the local jurisdiction of Judicial Magistrates are primarily contained in **Section 12** (which corresponds to Section 14 of the old CrPC). This section ensures that judicial work is distributed systematically and that the public knows which specific court to approach for grievances. The local jurisdiction is not a fixed, unchangeable boundary; it is a flexible area defined by higher judicial authorities to ensure the effective administration of justice at the grassroots level.
+
+**Main Body**
+
+1\. Power to Define Limits (Section 12(1))
+
+According to Section 12(1), the Chief Judicial Magistrate (CJM) has the power to define the local limits of the areas within which Judicial Magistrates (appointed under Section 9 or 11\) may exercise their powers. This power is "subject to the control of the High Court." The CJM, being the head of the magistracy in the district, understands the local needs and can divide the district into various circles or areas for different Magistrates.
+
+For instance, in the district of **Indore**, the CJM **Prateek** may define the limits of the city into North, South, and East zones. He may then assign Judicial Magistrate **Krishna** to the North zone and Judicial Magistrate **Kanishth** to the South zone. **Krishna** will then have the local jurisdiction to take cognizance of offenses occurring only in the North zone.
+
+2\. General Rule of Extension (Section 12(2))
+
+A crucial aspect of Section 12 is the "default" jurisdiction. If the CJM has not specifically defined or restricted the local limits for a particular Magistrate, Section 12(2) provides that the jurisdiction and powers of such a Magistrate shall extend throughout the district. This prevents a legal vacuum where an offense might fall outside any specific sub-division.
+
+For example, if **Raghavendra** is a Judicial Magistrate in **Lucknow** and no specific area has been assigned to him by CJM **Saurabh**, then **Raghavendra** is legally competent to handle cases from any part of the Lucknow district.
+
+3\. Sitting of Special Judicial Magistrates
+
+The proviso to Section 12(1) clarifies that a Special Judicial Magistrate (appointed for specific cases or classes of cases) is not strictly bound by a single court building. They may hold their sittings at any place within the local area for which they are established. This is designed for convenience, especially in sensitive cases or cases involving many witnesses.
+
+If **Laukendra** is appointed as a Special Judicial Magistrate in **Jaipur** to handle a specific case involving labor disputes, he may choose to hold court at the actual factory site in **Jaipur** if it helps the general convenience of the parties, provided it is within his local area.
+
+4\. Jurisdiction Beyond District (Section 12(3))
+
+Section 12(3) addresses situations where a Magistrate’s jurisdiction extends beyond the district where they ordinarily hold court. In such cases, any reference in the Sanhita to the Court of Session or the CJM shall, in relation to such a Magistrate, be understood as a reference to the Court of Session or CJM of the area within which they are exercising that jurisdiction.
+
+Imagine **Satyam** is a Magistrate whose jurisdiction, due to a special government notification, extends to parts of both **Varanasi** and **Prayagraj**. While sitting in **Varanasi**, his administrative superior for those cases will be the CJM of Varanasi, **Sachkeerat**.
+
+**Conclusion**
+
+In conclusion, the local jurisdiction of Judicial Magistrates under the BNSS 2023 is a well-structured mechanism to ensure that judicial services are accessible and organized. By empowering the CJM to define limits under Section 12(1), the law ensures a balanced distribution of the workload. At the same time, by extending the default jurisdiction throughout the district under Section 12(2), the Sanhita ensures that no crime goes unaddressed due to a "territorial gap." For judicial officers like **Krishna** and **Kanishth**, and for the public in cities like **Bhopal** or **Patna**, these rules provide the necessary clarity on where the "power of the law" can be invoked.
+
+---
+
+## Q6. What are Executive Magistrates and Special Executive Magistrates? What is the local jurisdiction of Executive Magistrates ?
+
+**Introduction**
+
+The administration of criminal justice in India is divided into two distinct wings: the Judicial Magistracy and the Executive Magistracy. While Judicial Magistrates focus on the trial of offenses and the delivery of punishment, Executive Magistrates are primarily concerned with the maintenance of public order, tranquility, and the prevention of crimes. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the provisions relating to Executive Magistrates are contained in **Sections 14, 15, and 16**. These officers belong to the executive branch of the government (usually the administrative services) but are vested with specific quasi-judicial powers to handle urgent situations like unlawful assemblies, public nuisances, and the prevention of breach of peace. The rationale behind this division is to ensure that officers who are deeply connected with the local administration can act swiftly in emergencies to protect the lives and property of citizens.
+
+**Main Body**
+
+1\. Executive Magistrates (Section 14\)
+
+Under Section 14 of the BNSS, the State Government has the power to appoint as many Executive Magistrates as it thinks fit in every district. One of these magistrates is designated as the District Magistrate (DM). The government may also appoint Additional District Magistrates (ADMs), who have all or any of the powers of a DM. Furthermore, the State Government may place an Executive Magistrate in charge of a sub-division, known as the Sub-Divisional Magistrate (SDM).
+
+For example, in the district of **Lucknow**, the State Government appoints **Prateek** as the District Magistrate. **Prateek** is the administrative head of the district and is responsible for law and order. To assist him, the government appoints **Krishna** as an ADM and **Kanishth** as the SDM for a specific area like **Alambagh**. If there is a risk of a riot in **Lucknow**, **Prateek** or **Kanishth** can issue orders to disperse crowds under the preventive sections of the Sanhita.
+
+2\. Special Executive Magistrates (Section 15\)
+
+Section 15 provides for the appointment of Special Executive Magistrates. The State Government may appoint these for particular areas or for the performance of particular functions for a limited period. Interestingly, the BNSS has introduced a provision where the State Government can confer the powers of an Executive Magistrate on a police officer not below the rank of Superintendent of Police.
+
+Imagine that during a major festival in **Varanasi**, the local administration expects a massive influx of people. To handle the increased pressure on law and order, the government appoints **Raghavendra**, a senior retired officer or a specific official, as a Special Executive Magistrate for the duration of the festival. **Raghavendra** will have the specific powers needed to maintain peace in the crowded ghats of **Varanasi** for that specific period only. Similarly, **Laukendra**, who is a senior police officer in **Indore**, might be conferred with these powers to deal with a localized emergency efficiently.
+
+3\. Local Jurisdiction of Executive Magistrates (Section 16\)
+
+The geographical limits within which an Executive Magistrate can exercise their power are defined under Section 16\. The primary authority to define these limits is the District Magistrate, subject to the overall control of the State Government.
+
+If **Prateek** (the DM) does not specifically define or restrict the area for an Executive Magistrate, Section 16(2) clarifies that their powers shall **extend throughout the district**. However, usually, a district is divided into smaller units for better governance. For instance, in **Bhopal**, the DM **Saurabh** might define that **Satyam** (an SDM) will have jurisdiction only over the **Bairagarh** sub-division, while **Sachkeerat** will handle the **Arera Colony** area. Outside these specific areas, **Satyam** and **Sachkeerat** would typically not exercise their SDM powers unless specifically authorized. This localized jurisdiction ensures that an officer is always available nearby to handle local grievances or public nuisances.
+
+**Conclusion**
+
+In conclusion, Executive Magistrates under the BNSS 2023 serve as the first line of defense for public safety. From the District Magistrate at the top to the Sub-Divisional and Special Executive Magistrates, the hierarchy is designed for administrative efficiency and rapid response. While **Prateek** oversees the entire district, officers like **Krishna** and **Kanishth** focus on specific regions, ensuring that "Nagarik Suraksha" (citizen protection) is provided at the local level. The clear definition of local jurisdiction under Section 16 ensures that there is no confusion regarding authority, allowing the administration in cities like **Patna** or **Jaipur** to function smoothly and prevent potential crimes before they even occur.
+
+---
+
+## Q7. Define "Public Prosecutors" and "Assistant Public Prosecutors."
+
+**Introduction**
+
+In the Indian criminal justice system, a crime is considered an offense not just against an individual but against the State itself. Therefore, the responsibility for prosecuting the accused lies with the State. To fulfill this duty, the State appoints legal experts known as Public Prosecutors and Assistant Public Prosecutors. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, these officers are primarily governed by **Sections 18 and 19**. They are often described as "ministers of justice" because their role is not simply to secure a conviction at any cost, but to assist the court in uncovering the truth and ensuring a fair trial. They represent the public interest and act as a bridge between the police investigation and the judicial verdict. The Sanhita maintains a clear distinction between the prosecutors who appear in higher courts and those who handle matters in Magistrate courts to ensure a specialized and efficient prosecution system.
+
+**Main Body**
+
+1\. Public Prosecutors (Section 18\)
+
+Section 18 of the BNSS deals with the appointment and qualifications of Public Prosecutors (PPs) and Additional Public Prosecutors. These officers represent the government in the High Courts and the Courts of Session.
+
+* **Appointment in High Courts:** For every High Court, the Central or State Government, in consultation with that High Court, appoints a Public Prosecutor and one or more Additional Public Prosecutors. For instance, in **Prayagraj**, the Uttar Pradesh government consults with the High Court to appoint **Raghavendra** as a Public Prosecutor to handle serious appeals.  
+* **Appointment in Districts:** For every district, the State Government appoints a Public Prosecutor. The District Magistrate (DM), in consultation with the Sessions Judge, prepares a panel of names of people fit for this role.  
+  * *Example:* In **Lucknow**, DM **Prateek** consults with the Sessions Judge to prepare a list. From this list, **Krishna** is appointed as the Public Prosecutor for the district.  
+* **Qualifications:** To be eligible for the post of a Public Prosecutor or an Additional Public Prosecutor, a person must have been in practice as an advocate for at least **seven years**.  
+* **Special Public Prosecutor:** For specific high-profile cases, the government can appoint a Special PP who must have at least **ten years** of practice.  
+  * *Example:* For a sensitive case in **Bhopal**, the government appoints **Laukendra**, a veteran lawyer with 15 years of experience, as a Special Public Prosecutor to ensure specialized handling.
+
+2\. Assistant Public Prosecutors (Section 19\)
+
+While Public Prosecutors handle the Sessions Court, Assistant Public Prosecutors (APPs) are appointed to conduct prosecutions in the Courts of Magistrates.
+
+* **Appointment:** The State Government appoints one or more APPs in every district. In some cases, the Central Government may also appoint APPs for specific classes of cases in Magistrate courts.  
+  * *Example:* **Saurabh** is appointed as an Assistant Public Prosecutor in **Varanasi**. His daily job involves appearing before the Chief Judicial Magistrate, **Kanishth**, to present evidence in theft and assault cases.  
+* **Police Officers as APPs:** Generally, a police officer cannot be an APP. However, Section 19(3) allows the DM to appoint a police officer as a temporary APP only if no regular APP is available. Even then, that police officer must not be below the rank of Inspector and must not have taken any part in the investigation of that specific case.  
+  * *Example:* If **Saurabh** is on leave in **Varanasi**, DM **Prateek** might ask Inspector **Sachkeerat** to handle the prosecution for a day, provided **Sachkeerat** did not investigate the case involving the accused, **Satyam**.
+
+3\. Duties and Subordination
+
+The Public Prosecutor is an officer of the court. They must remain independent of the police. While the police gather evidence, the Prosecutor evaluates it to see if it is legally sufficient to stand in court. Under the BNSS, all Public Prosecutors and APPs are subordinate to the Director of Prosecution at the state level. This hierarchy ensures that the prosecution wing remains organized and follows uniform guidelines across cities like Jaipur or Patna.
+
+**Conclusion**
+
+In conclusion, the roles of Public Prosecutors and Assistant Public Prosecutors are fundamental to the "Nagarik Suraksha" (citizen protection) promised by the BNSS 2023\. By setting high bars for qualifications—such as the 7-year practice requirement for **Krishna** as a PP—the law ensures that the State's side is represented by competent legal minds. At the same time, by placing APPs like **Saurabh** in Magistrate courts, the Sanhita ensures that even routine criminal matters are prosecuted professionally. The strict separation from the police investigation prevents bias, ensuring that the rights of the accused are respected while the victim's grievances are addressed. Ultimately, these officers serve the cause of justice, ensuring that the truth prevails in every courtroom from **Indore** to **Amritsar**.
+
+---
+
+## Q8. Describe the Court by which cognizable offences are trialable under the Bharatiya Nagarik Suraksha Sanhita.
+
+**Introduction**
+
+In the criminal justice system of India, the classification of an offense as "cognizable" or "non-cognizable" is the primary factor that determines how the law is set into motion. Under **Section 2(1)(g)** of the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, a cognizable offense is one for which a police officer may arrest the accused without a warrant and can start an investigation without the prior permission of a Magistrate. Because these offenses—such as murder, rape, or theft—are generally more serious, the Sanhita provides a clear framework to determine which specific court has the authority to hear and decide these cases. The "competency to try" is not arbitrary; it is a statutory mandate that ensures a case is heard by a judge whose rank and sentencing powers are proportionate to the gravity of the crime.
+
+**Main Body**
+
+The determination of which court will try a cognizable offense is governed by **Section 21** of the BNSS, read in conjunction with the **First Schedule** of the Sanhita.
+
+1\. Offences under the Bharatiya Nyaya Sanhita (BNS)
+
+For offenses defined under the main penal law (BNS), Section 21(a) specifies three types of courts that are competent to conduct a trial:
+
+* **The High Court:** Although it rarely conducts original trials, it has the inherent power to try any offense.  
+* **The Court of Session:** Reserved for the most heinous cognizable offenses.  
+* **Any other Court specified in the First Schedule:** This typically refers to the Courts of Judicial Magistrates.
+
+2\. The Role of the First Schedule (Column 6\)
+
+The most practical way to identify the trial court is to look at Column 6 of the First Schedule. For every offense listed, this column explicitly states "By what Court triable."
+
+* If Column 6 says "Court of Session," the case must be tried there. For example, if **Krishna** is accused of murder in **Lucknow**, the offense is cognizable, and according to the First Schedule, it must be tried by the Court of Session.  
+* If it says "Magistrate of the first class," then a JMIC will handle it. For instance, if **Prateek** is caught for a medium-scale theft in **Indore**, the First Schedule directs that a Judicial Magistrate First Class like **Saurabh** will conduct the trial.
+
+3\. Offences under Other Laws
+
+Section 21(b) deals with offenses created by special laws (like the NDPS Act or POCSO). If the special law mentions a specific court (e.g., "Special Court"), then that court will try the case. If no court is mentioned, the BNSS provides a default rule:
+
+* If the offense is punishable with imprisonment for **more than three years**, it is triable by a Magistrate of the first class.  
+* If punishable with **less than three years**, it can be tried by "any Magistrate."  
+* *Example:* If **Kanishth** is caught in **Bhopal** violating a local environmental law that carries a 4-year sentence but doesn't name a court, Magistrate **Raghavendra** (JMIC) will have the jurisdiction to try him.
+
+4\. Jurisdiction and Seriousness
+
+The rationale behind this distribution is the sentencing power of the courts. Since a Magistrate of the first class can only sentence someone up to 3 years (Section 23), they cannot try a case like dacoity where the punishment might be life imprisonment. In such instances, the case is "committed" to the Sessions Court. If Laukendra is involved in an organized robbery in Jaipur, even though he is produced before a Magistrate initially, the Magistrate will recognize it as a "Sessions-triable" case and transfer it to the higher court.
+
+**Conclusion**
+
+In conclusion, the BNSS 2023 ensures that the "Nagarik Suraksha" (citizen protection) is upheld by matching the severity of the offense with the competence of the court. Whether it is **Satyam** facing a trial for a minor cognizable offense in **Varanasi** or **Sachkeerat** being tried for a grave offense in **Amritsar**, the law provides a predictable and transparent path through Section 21 and the First Schedule. By clearly defining which court is triable for which offense, the Sanhita prevents jurisdictional errors and ensures that the judge presiding over the case has the legal authority and the necessary seniority to deliver a just verdict.
+
+---
+
+## Q9. State the powers of the High Courts and Session Judges regarding the sentences which they may pass.
+
+**Introduction**
+
+The hierarchy of criminal courts in India is structured to ensure that the gravity of a crime is met with a proportionate level of judicial authority. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, defines the "Sentencing Powers" of various courts to ensure that the deprivation of an individual's liberty or life is handled by officers with appropriate seniority and experience. Among these, the High Courts and the Courts of Session hold the highest tier of authority. Under **Section 22** of the BNSS (which replaces Section 28 of the old CrPC), these courts are vested with extensive powers to pass sentences, ranging from fines to the death penalty. The rationale behind these powers is to provide the judiciary with the necessary tools to punish heinous crimes while maintaining a system of checks and balances, particularly in cases where the ultimate penalty—death—is involved.
+
+**Main Body**
+
+**1\. Powers of the High Court (Section 22(1))**
+
+According to Section 22(1) of the BNSS, a High Court may pass **any sentence authorized by law**. The High Court is the highest judicial authority within a State, and its powers are not restricted by the term of imprisonment or the amount of fine it can impose, provided the punishment is recognized under the Bharatiya Nyaya Sanhita (BNS) or any other special law.
+
+For example, if **Prateek** is found guilty of a complex multi-state financial scam in the High Court of **Prayagraj**, the High Court has the legal authority to sentence him to life imprisonment and impose an unlimited fine, provided the law for that specific offense allows such a penalty. The High Court also acts as a supervisory body, ensuring that sentences passed by lower courts are legally sound.
+
+**2\. Powers of the Sessions Judge and Additional Sessions Judge (Section 22(2))**
+
+The Court of Session is the primary court for trying the most serious offenses at the district level. Section 22(2) states that a **Sessions Judge** or an **Additional Sessions Judge** may pass **any sentence authorized by law**. This means they have the power to award life imprisonment or a death sentence.
+
+However, a critical safeguard is built into the law: any **sentence of death** passed by a Sessions Judge or Additional Sessions Judge is **subject to confirmation by the High Court**. This ensures that the most extreme punishment is reviewed by at least two higher-ranking judges before execution.
+
+Imagine **Krishna** is a Sessions Judge in **Lucknow**. He conducts a trial for a rare and heinous murder case involving **Kanishth**. After reviewing the evidence, **Krishna** decides that the death penalty is the only appropriate punishment. While he passes the sentence, it cannot be carried out immediately. Under Section 407 of the BNSS, the proceedings must be sent to the High Court of **Prayagraj** for confirmation. Only if the High Court agrees with **Krishna’s** decision can the execution proceed.
+
+**3\. Abolition of Assistant Sessions Judge**
+
+A significant change in the **BNSS 2023** compared to the old CrPC is the **abolition of the post of Assistant Sessions Judge**. Under the old Code (Section 28(3)), an Assistant Sessions Judge could pass sentences of up to 10 years. In the new Sanhita, this tier has been removed to streamline the judicial process. Now, the hierarchy at the top of the district level consists strictly of the Sessions Judge and Additional Sessions Judges like **Raghavendra** or **Laukendra**, who both hold equal sentencing powers under the law.
+
+**4\. Exercise of Discretion**
+
+While the law grants these courts the power to pass "any sentence," this discretion must be exercised judicially. If **Saurabh**, an Additional Sessions Judge in **Indore**, finds **Satyam** guilty of a crime, he must consider the "rarest of rare" doctrine for death sentences and the principles of reformation and deterrence for imprisonment. If **Saurabh** imposes a sentence that is clearly excessive or not authorized by the BNS, the High Court can exercise its appellate or revisional powers to correct it.
+
+**Conclusion**
+
+In conclusion, the sentencing powers of the High Courts and Sessions Judges under the BNSS 2023 reflect the high degree of trust placed in the superior judiciary. By allowing the High Court to pass any sentence and the Sessions Judge to award even the death penalty (with confirmation), the Sanhita ensures that justice is served in the most serious of cases. For judicial officers like **Krishna** or **Saurabh**, these powers come with the heavy responsibility of protecting "Nagarik Suraksha" (citizen protection) while upholding the constitutional rights of the accused. The mandatory confirmation of death sentences acts as a vital "safety valve" in the Indian legal system, ensuring that no life is taken without a double layer of judicial scrutiny in cities across India, from **Bhopal** to **Amritsar**.
+
+---
+
+## Q10. State the powers of the High Court or the State Government to withdraw the powers conferred by it under the Sanhita.
+
+**Introduction**
+
+The authority to exercise judicial or executive power is a trust conferred by the State or the High Court to ensure the smooth functioning of the legal system. In the realm of criminal law, where the power to deprive a person of their liberty is at stake, the accountability of those exercising such power is paramount. The principle of "he who can appoint can also remove" or "he who can grant can also withdraw" is a fundamental administrative tenet. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, this principle is codified in **Section 28** (which corresponds to Section 34 of the old CrPC). This section empowers the High Court and the State Government to revoke or withdraw the powers they have conferred upon various officers under the Sanhita. This ensures that if an officer becomes unfit for their role, or if the necessity for their special appointment ceases to exist, the authority can be reclaimed to prevent any potential misuse of legal power.
+
+**Main Body**
+
+1\. The Statutory Provision: Section 28 of BNSS
+
+Section 28 of the BNSS provides a clear and straightforward mechanism for the withdrawal of powers. It specifies that the authority that grants a power also holds the inherent right to take it back. This applies to both judicial and executive wings of the magistracy.
+
+* **Withdrawal by High Court:** Under Section 28(1), the High Court has the power to withdraw all or any of the powers conferred by it under this Sanhita on any person or officer subordinate to it. Since the High Court is responsible for the appointment and posting of Judicial Magistrates, it also acts as the disciplinary authority.  
+  * *Example:* Imagine **Saurabh** is appointed as a Judicial Magistrate in **Indore**. If the High Court of Madhya Pradesh receives complaints regarding **Saurabh’s** conduct or finds that he is not performing his judicial duties according to the law, the High Court can issue an order under Section 28 to withdraw his judicial powers. Once this is done, **Saurabh** can no longer hear cases or pass sentences in **Indore**.  
+* **Withdrawal by State Government:** Similarly, Section 28(1) empowers the State Government to withdraw powers it has conferred on officers subordinate to it. This primarily applies to Executive Magistrates and other administrative officers who are vested with powers under the Sanhita.  
+  * *Example:* **Prateek** is a senior administrative officer in **Lucknow**. During a period of civil unrest, the State Government confers upon him the powers of an Executive Magistrate to maintain order. Once the situation in **Lucknow** stabilizes and the "Special" requirement ends, the State Government can withdraw these powers from **Prateek** using Section 28\.
+
+2\. Withdrawal of Powers by the District Magistrate (Section 28(2))
+
+The law further decentralizes this power to the district level for the sake of administrative efficiency. Under Section 28(2), any power conferred by the Chief Judicial Magistrate (CJM) or by the District Magistrate (DM) may be withdrawn by the respective Magistrate who conferred it.
+
+* **Example in Executive Magistracy:** **Raghavendra** is the District Magistrate (DM) of **Varanasi**. He confers certain local powers on **Krishna**, a Tehsildar, to act as an Executive Magistrate for a specific sub-division during a local fair. After the fair concludes, **Raghavendra** can withdraw those specific powers from **Krishna**.  
+* **Example in Judicial Magistracy:** If **Laukendra**, the CJM in **Bhopal**, has delegated certain administrative judicial tasks to **Kanishth**, a junior Magistrate, **Laukendra** has the authority to withdraw those specific delegated powers whenever necessary for the better distribution of court business.
+
+3\. Rationale and Legal Safeguards
+
+The power to withdraw is not meant to be used arbitrarily or as a tool for political vendetta. It is a tool for Administrative Oversight. The rationale is that judicial and executive powers are "functional" in nature. If Satyam, an officer in Jaipur, is found to be incompetent or biased, the High Court or State Government must have a quick remedy to strip him of his legal authority to protect "Nagarik Suraksha" (citizen protection). Furthermore, this section is used when "Special" appointments (like Special Judicial Magistrates or Special Executive Magistrates) are no longer required. For instance, if Sachkeerat was appointed as a Special Magistrate for a specific 6-month project in Amritsar, his powers are withdrawn under Section 28 once the project is finished.
+
+**Conclusion**
+
+In conclusion, Section 28 of the BNSS 2023 acts as a vital "check and balance" within the criminal justice hierarchy. By clearly stating that the High Court and the State Government have the power to withdraw the authority they confer, the Sanhita ensures that power remains coupled with accountability. Whether it is a Judicial Magistrate in **Indore** or an Executive Magistrate in **Varanasi**, no officer holds a permanent, irrevocable claim to these statutory powers if their conduct or the circumstances demand a withdrawal. This provision ensures that the legal machinery remains flexible, responsive, and, most importantly, staffed by individuals who are fit to uphold the dignity of the law in cities across India.
+
+---
+
+## Q11. Give the definition of complaint and explain its essentials.
+
+**Introduction**
+
+A "Complaint" is the legal mechanism that allows a private citizen to set the criminal law in motion directly through the judiciary, especially when the police machinery fails or refuses to act. In the Indian legal framework, a complaint acts as a formal bridge between an aggrieved individual and the Magistrate's power to take "cognizance" of an offense. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the definition and procedure for complaints have been refined to ensure that the judicial process is not misused for frivolous litigation while simultaneously protecting the rights of the victim. Unlike an FIR (First Information Report) which is filed with the police, a complaint is a judicial document submitted to a Magistrate. The rationale behind this provision is to ensure that even if the executive (police) is unresponsive, a citizen has a direct path to seek justice. The BNSS 2023 has introduced significant procedural safeguards, particularly under Section 223, making the complaint process more transparent and balanced.
+
+**Main Body**
+
+**1\. Definition of Complaint (Section 2(1)(h))**
+
+According to **Section 2(1)(h)** of the BNSS, a "complaint" means any allegation made orally or in writing to a Magistrate, with a view to his taking action under this Sanhita, that some person, whether known or unknown, has committed an offense, but does not include a police report.
+
+* **The Police Report Exception:** The definition clarifies that a standard police report (Charge Sheet) is not a complaint. However, there is a vital "Explanation" to this section: if a police officer investigates a case and finds that only a **non-cognizable** offense has been committed, that police report is "deemed" to be a complaint, and the police officer is "deemed" to be the complainant.  
+* *Example:* **Prateek** goes to a police station in **Indore** to report a serious assault. If the police investigate and find it was only a minor non-cognizable scuffle, the report sent by Officer **Laukendra** to the Magistrate will be treated as a private complaint under Section 2(1)(h).
+
+**2\. Essential Ingredients of a Valid Complaint**
+
+For a statement to qualify as a legal complaint in the eyes of a Magistrate in cities like **Lucknow** or **Bhopal**, it must satisfy the following essentials:
+
+* **Allegation of an Offense:** The complaint must contain specific facts that constitute an "offense" under the Bharatiya Nyaya Sanhita (BNS) or any other law. Mere grievances or civil disputes do not qualify.  
+  * *Example:* **Krishna** files a document in a **Lucknow** court stating that **Kanishth** took his money. If he doesn't allege "dishonest intention" or "cheating," the Magistrate might not treat it as a criminal complaint.  
+* **Made to a Magistrate:** An allegation made to a police officer or a social worker is not a "complaint" under this Sanhita. It must be addressed specifically to a Judicial Magistrate.  
+* **With a View to Action:** The person filing the complaint must intend for the Magistrate to take legal action (such as issuing a summons or warrant). A casual mention of a crime to a Judge at a social event is not a complaint.  
+* **Known or Unknown Person:** The complaint can be filed even if the identity of the criminal is not known. The Magistrate has the power to order an investigation to identify the culprit.  
+  * *Example:* **Raghavendra** tells a Magistrate in **Varanasi** that his house was burgled by "unknown persons." This is a valid complaint.  
+* **Oral or Written:** While a written complaint is preferred for clarity, a Magistrate is legally bound to record an oral complaint.
+
+**3\. The New "Essential" Procedure (Section 223\)**
+
+Under the **BNSS 2023**, a new "essential" step has been added to the complaint process that was absent in the old CrPC. Under **Section 223**, a Magistrate cannot take cognizance of an offense on a complaint without giving the accused an **opportunity of being heard**. This is a revolutionary shield against false cases.
+
+* *Example:* **Saurabh** files a private complaint against **Satyam** in **Jaipur**. Before the Magistrate **Sachkeerat** can officially start the case, he must issue a notice to **Satyam** to hear his side of the story. This ensures that **Satyam** is not unnecessarily harassed by a meritless case.
+
+**Conclusion**
+
+In conclusion, a complaint under the BNSS 2023 is a potent tool for "Nagarik Suraksha" (citizen protection), ensuring that the judicial doors remain open even when police stations might be closed to an informant. By defining a complaint as an allegation aimed at judicial action under Section 2(1)(h), the Sanhita ensures clarity in the initiation of criminal proceedings. The essentials of a complaint—ranging from the nature of the allegation to the identity of the recipient (the Magistrate)—act as filters to maintain the dignity of the court. Furthermore, the inclusion of the mandatory hearing for the accused under Section 223 reflects a modern, balanced approach to justice, where the rights of the complainant like **Krishna** are balanced with the protection of the proposed accused like **Satyam** in every district from **Amritsar** to **Patna**.
+
+---
+
+## Q12. Explain the classes of Criminal Court under B.N.S.S. 2023\. Also explain the jurisdiction in which session court and magistrate may pass the sentences?
 
 OR
 
-magistrate may pass the sentences ? What is the court of session. How is it constituted? Give a comparative sescription of power of session Judge, Additional session Judge and Assistant Session Judge. (2023)
+What is the court of session? How is it constituted? Give a comparative description of power of session Judge, Additional session Judge and Assistant Session Judge.
 
-13\. Discuss the Constitution and powers of Criminal Courts.
+**Introduction**
 
-14\. Describe the constitution and sub-ordination of Criminal Courts.
+The administration of criminal justice in India is organized through a hierarchical structure of courts that ensures every offense is tried by a forum appropriate to its gravity. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, which has replaced the colonial-era Code of Criminal Procedure, maintains this vital hierarchy while introducing several modernizing reforms. The "Classes of Criminal Courts" represent the different tiers of judicial authority, ranging from the High Court at the state level to the Magistrates at the local level. The rationale behind this classification is to provide a systematic approach to justice, where more complex and serious crimes are handled by senior judges with broader sentencing powers, while less severe matters are resolved quickly by the lower magistracy. This division of labor not only manages the massive caseload of the Indian judiciary but also ensures that the "Nagarik Suraksha" or protection of citizens is upheld through a transparent and accountable legal framework.
 
-What are the provisions about it in Bharatiya Nagarik Suraksha Sanhita, 2023 ? Discuss.
+**Main Body**
 
-(2024)  
-\===================================
+According to **Section 6** of the **BNSS 2023**, besides the High Courts and the Supreme Court, there shall be four distinct classes of criminal courts in every State: the **Court of Session**, **Judicial Magistrates of the First Class**, **Judicial Magistrates of the Second Class**, and **Executive Magistrates**.
 
-UNIT-II
+The **Court of Session** is the highest criminal court in a district. Under **Section 8**, the State Government establishes this court for every sessions division, and the High Court appoints the presiding Judge. A significant change in the **BNSS 2023** is the abolition of the post of Assistant Sessions Judge. Previously, under the old CrPC, there were three types of judges in this court: the Sessions Judge, Additional Sessions Judges, and Assistant Sessions Judges. Now, the hierarchy consists only of the **Sessions Judge** and **Additional Sessions Judges**. For example, in the district of **Bhopal**, **Saurabh** is appointed as the Sessions Judge. To manage the workload, **Raghavendra** is appointed as an Additional Sessions Judge. Both **Saurabh** and **Raghavendra** exercise the same judicial and sentencing powers.
+
+Regarding the **jurisdiction to pass sentences**, **Section 22** provides that a Sessions Judge or an Additional Sessions Judge may pass any sentence authorized by law. This includes life imprisonment and the death penalty. However, any death sentence passed by **Saurabh** in **Bhopal** must be confirmed by the High Court before it is executed. In the old system, an Assistant Sessions Judge could only sentence up to ten years; by removing this middle tier, the BNSS has streamlined the process, ensuring that serious trials are handled by judges with full sentencing authority.
+
+Below the Court of Session are the **Judicial Magistrates**. At the head of the magistracy in a district is the **Chief Judicial Magistrate (CJM)**. Under **Section 23**, a CJM has the power to pass any sentence authorized by law except a sentence of death, life imprisonment, or imprisonment for a term exceeding seven years. Imagine **Prateek** is the CJM in **Lucknow**. He can sentence an offender to six years in prison and impose an unlimited fine, but if the crime warrants a ten-year sentence, he must commit the case to the Sessions Court.
+
+The **Judicial Magistrate of the First Class (JMIC)** follows the CJM. Under the BNSS, a JMIC like **Krishna** in **Indore** may pass a sentence of imprisonment for a term not exceeding **three years**, or a fine not exceeding **fifty thousand rupees**, or both. It is important to note that the fine limit has been increased from ten thousand in the old law to fifty thousand in the BNSS to reflect modern economic realities. Finally, the **Judicial Magistrate of the Second Class** like **Kanishth** in **Varanasi** may pass a sentence of imprisonment for a term not exceeding **one year**, or a fine not exceeding **ten thousand rupees**, or both.
+
+The hierarchy is completed by **Executive Magistrates**, such as **Laukendra** in **Jaipur**, who primarily handle matters of public order and tranquility rather than conducting trials for punishments. If a conflict arises between **Satyam** and **Sachkeerat** regarding a property dispute in **Patna** that might lead to a riot, **Laukendra** as an Executive Magistrate can intervene using preventive powers, but he cannot sentence them to prison for a crime like a Judicial Magistrate would.
+
+**Conclusion**
+
+In conclusion, the classes of criminal courts under the **BNSS 2023** provide a clear and efficient roadmap for the delivery of justice. By categorizing courts from the Sessions Judge down to the Magistrate of the Second Class, the Sanhita ensures that judicial expertise is utilized proportionately to the crime's impact on society. The abolition of the Assistant Sessions Judge and the increase in fine limits for Magistrates are proof of a system evolving to meet contemporary needs. Whether it is **Saurabh** presiding over a major trial in **Bhopal** or **Krishna** handling a theft case in **Indore**, these jurisdictional boundaries ensure that power is exercised within legal limits. This structured hierarchy remains the backbone of the Indian criminal justice system, ensuring that the promise of a fair and speedy trial is fulfilled for every citizen in every corner of the country.
+
+---
+
+## Q13. Discuss the Constitution and powers of Criminal Courts.
+
+**Introduction**
+
+The administration of criminal justice in any civilized society requires a robust, structured, and hierarchical system of courts. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, which has replaced the Code of Criminal Procedure, 1973, provides the comprehensive legal framework for the constitution and powers of these courts in India. The primary objective of this hierarchy is to ensure that the "Nagarik Suraksha" (citizen protection) is not just a theoretical concept but a practical reality. By establishing different classes of courts, the law ensures that judicial resources are allocated based on the complexity and gravity of the offense. This structure prevents the concentration of power in a single authority and provides a system of checks and balances through appeals and revisions. The BNSS has modernized this constitution by streamlining the types of courts, removing colonial remnants like the "Metropolitan" distinction, and enhancing the sentencing and financial powers of the lower judiciary to reflect contemporary needs.
+
+**Main Body**
+
+According to **Section 6** of the BNSS 2023, the criminal judicial landscape of every State consists of the High Court and four specific classes of criminal courts: the **Court of Session**, **Judicial Magistrates of the First Class**, **Judicial Magistrates of the Second Class**, and **Executive Magistrates**.
+
+The **Court of Session** stands at the apex of the district-level judiciary. Under **Section 8**, the State Government establishes a Court of Session for every sessions division, which usually corresponds to a district. The High Court appoints a Sessions Judge and may also appoint Additional Sessions Judges. A significant change in the BNSS is the removal of the post of Assistant Sessions Judge, which existed in the old CrPC. This leaves the Sessions Judge and Additional Sessions Judges as the primary authorities for serious trials.
+
+*Example:* In **Lucknow**, **Prateek** is appointed as the Sessions Judge. Due to a high volume of cases, the High Court also appoints **Krishna** as an Additional Sessions Judge. Both have the same powers to try heinous crimes like murder or dacoity.
+
+Below the sessions level are the **Judicial Magistrates**. Under **Section 9**, the State Government, in consultation with the High Court, establishes courts of First Class and Second Class Magistrates. Every district has a **Chief Judicial Magistrate (CJM)** who acts as the administrative head of the magistracy.
+
+*Example:* **Kanishth** is the CJM in **Indore**, while **Raghavendra** is a Judicial Magistrate of the First Class (JMIC). **Raghavendra** is subordinate to **Kanishth**, who handles the distribution of cases among all Magistrates in the district.
+
+The **powers of these courts to pass sentences** are defined under **Sections 22 and 23**. The High Court and the Sessions Judge/Additional Sessions Judge may pass any sentence authorized by law. However, a death sentence passed by a Sessions Judge must be confirmed by the High Court. The CJM can pass any sentence except death, life imprisonment, or a term exceeding seven years. The JMIC, like **Laukendra** in **Bhopal**, can now sentence an offender to up to three years or a fine up to **fifty thousand rupees** (an increase from ten thousand). The Second Class Magistrate, like **Saurabh** in **Jaipur**, can sentence up to one year or a fine up to ten thousand rupees. A new form of punishment introduced by the BNSS is **"Community Service,"** which can be awarded by Magistrates for petty offenses.
+
+**Executive Magistrates** form the non-judicial wing of the hierarchy. Governed by **Section 14**, the State Government appoints a **District Magistrate (DM)** and several Additional or Sub-divisional Magistrates. Their role is focused on the maintenance of public order and preventive action rather than conducting trials for punishment.
+
+*Example:* In **Varanasi**, **Satyam** is the DM. When a dispute over land arises between two groups that might lead to violence, **Satyam** uses his powers under Section 164 to intervene. If the situation is urgent, he might appoint **Sachkeerat**, a senior police officer, as a **Special Executive Magistrate** under Section 15 to handle the crisis.
+
+The **subordination of courts** (Sections 13 and 20\) ensures a clear chain of command. All Judicial Magistrates are subordinate to the CJM, who is in turn subordinate to the Sessions Judge. Similarly, Executive Magistrates are subordinate to the DM. This ensures that the judicial process in cities like **Patna** or **Amritsar** remains organized, and any person aggrieved by an order has a clear path for appeal to a higher authority.
+
+**Conclusion**
+
+In conclusion, the constitution and powers of criminal courts under the **BNSS 2023** provide a sophisticated and balanced mechanism for the administration of justice. By clearly defining the roles and sentencing limits of each class of court—from the High Court down to the Magistrate of the Second Class—the Sanhita ensures that the legal system is both accessible and authoritative. The modernization of fine limits and the introduction of community service show that the law is adapting to the 21st century. Whether it is **Prateek** presiding over a serious trial in **Lucknow** or **Saurabh** handling a minor matter in **Jaipur**, the structured hierarchy guarantees that every "Nagarik" (citizen) is treated according to a "procedure established by law." This system remains the greatest safeguard for public tranquility and individual liberty in the Indian republic.
+
+---
+
+## ~~Q14. Describe the constitution and sub-ordination of Criminal Courts. What are the provisions about it in Bharatiya Nagarik Suraksha Sanhita, 2023 ? Discuss. (2024).~~
+
+---
+
+# UNIT-II: Pre-Trial Procedure:
 
 1\. Write Short notes on Arrest by Private person
 
-(2019)
-
 2\. Write Short notes on: 'Can a magistrate arrest persons?'
-
-(2018)
 
 3\. Write Short notes on: What do you mean by arrest warrant?
 
-(2018)
-
 4\. Write Short notes on: 'The Difference between summons case and warranty case. (2019)
 
-5\. Write Short notes on: Procedure of FIR in non-congnizable offenses.
-
-(2018)
+5\. Write Short notes on: Procedure of FIR in non-cognizable offenses.
 
 6\. Write Short notes on: Effect of delay in F.I.R.
 
@@ -577,292 +936,1094 @@ UNIT-II
 
 10\. Write Short notes on: Diary of Proceeding in Investigation
 
-11\. Procedure of recording statement v/s 183 B.N.S.S. Or
-
-Judicial confession
-
-(2019)
+11\. Procedure of recording statement v/s 183 B.N.S.S. Or Judicial confession
 
 Long Answer Type Question
 
-1\. When Police Officer may arrest without a warrant? Can he pursue the offender for arresting him in another jurisdiction? Or Define Arrest. Who can make an arrest? When can a police officer arrest without warrant ?
+## Q1. Define Arrest. Who can make an arrest? How is an arrest made? When may a Police Officer arrest without a warrant? Can he pursue the offender for arresting him in another jurisdiction? What are the different provisions of arrest under B.N.S.S. 2023? Explain.
 
-OR
+Or   
+~~When can a police officer arrest without warrant?~~
 
-What are the different provisions of arrest under B.N.S.S. 2023? Explain.
+Or  
+~~What are the different provisions of arrest under B.N.S.S. 2023? Explain.~~
 
-2\. (a) Can a private person arrest another person? If so, what is the procedure?
+**Introduction**
 
-(b) When a Magistrate can arrest?
+The concept of "Arrest" is the most significant tool in the hands of the State to ensure the administration of justice and the maintenance of public order. In legal terms, although the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023** does not provide a formal definition of "Arrest," it is understood as the act of depriving a person of their liberty by legal authority. It is a process where a person is taken into custody to answer an alleged crime or to prevent the commission of one. The rationale behind arrest is to ensure that the accused is available for investigation and trial, to prevent the destruction of evidence, and to protect the community. The BNSS 2023 has refined the laws regarding arrest to balance the "Nagarik Suraksha" (citizen protection) with the fundamental rights of the individual, ensuring that no person is deprived of liberty without a "just, fair, and reasonable" procedure.
 
-3\. (a) What is Arrest? How it is made ?
+**Main Body**
 
-(b) Is there any protection to the members of Armed Forces from arrest?
+**1\. Who Can Make an Arrest?**
 
-4\. (a) Is it a right of a person arrested to be informed on grounds of arrest and of right to bail?
+Under the BNSS 2023, the power to arrest is not limited to police officers alone. The law recognizes three categories of persons who can effect an arrest:
 
-(b) Can an arrested person claim his examination by medical practitioner after his arrest?
+* **Police Officer:** The most common authority, empowered under Sections 35 and 44\.  
+* **Private Person:** Under Section 40, a private citizen can arrest a person who commits a non-bailable and cognizable offense in their presence, or a proclaimed offender.  
+* **Magistrate:** Under Section 41, any Magistrate (Judicial or Executive) can arrest an offender if a crime is committed in their presence within their local jurisdiction.
 
-(c) Can a registered medical practitioner examine an arrested person at the request of police officer? If so, under what circumstances?
+**2\. How is an Arrest Made? (Section 43\)**
 
-5 (a) How long a person arrestesd can be detained in custody by a police officer without warrant?
+According to Section 43, an arrest consists of the actual seizure or touching of the body of the person to be arrested. However, if the person voluntarily submits to custody by word or action, no physical touching is required. If the person forcibly resists, the officer may use "all means necessary" to effect the arrest.
 
-(b) Describe the powers to pursue and retake the person on his escape.
+* **Example:** **Saurabh**, a police officer in **Bhopal**, tells **Prateek**, "You are under arrest for theft." If **Prateek** says, "I am coming with you," and walks to the jeep, the arrest is complete. If **Prateek** runs, **Saurabh** can physically catch and confine him.
 
-6\. (a) Discuss the general provisions of search under B.N.S.S.
+**3\. Arrest Without a Warrant (Section 35\)**
 
-b) How the things found in search beyond jurisdiction are disposed off?
+A police officer can arrest without a warrant in several specific circumstances:
 
-7\. (a) When the proclamation for persons, absconding shall be published ?
+* If the person commits a cognizable offense in the presence of the officer.  
+* Against whom a reasonable complaint or credible information exists regarding a cognizable offense (subject to the 7-year rule for mandatory notice).  
+* If the person is a proclaimed offender.  
+* If found in possession of stolen property.  
+* If the person obstructs a police officer in the execution of duty or has escaped from lawful custody.  
+* **Example:** **Krishna** is caught by Officer **Raghavendra** in **Lucknow** while trying to break into a shop. Since this is a cognizable offense in his presence, **Raghavendra** arrests **Krishna** immediately without a warrant.
 
-(b) Can warrant of arrest and proclamation be issued simultaneously? Or
+**4\. Pursuit into Another Jurisdiction (Section 48\)**
 
-Who is a proclaimed offender? Discuss the law about declaring an accused to be a proclaimed offender. What is the status of a proclaimed offender in the eyes of law? Explain.
+Section 48 of the BNSS grants police officers the power of "hot pursuit." A police officer may, for the purpose of arresting without a warrant any person whom he is authorized to arrest, pursue such person into any place in India. This ensures that state or district boundaries do not become a shield for criminals.
 
-(2018)
+* **Example:** Officer **Laukendra** in **Indore** is chasing **Kanishth**, who has committed a robbery. **Kanishth** crosses the border into **Rajasthan**. Under Section 48, **Laukendra** can continue his pursuit and arrest **Kanishth** in **Jaipur** without needing a fresh warrant from the Rajasthan authorities.
 
-8\. When may a Court order attachment of the property of a person who has absconded? Explain.
+**5\. Different Provisions under BNSS 2023 (Sections 35–62)**
 
-Or
+The BNSS has introduced several key safeguards and procedures:
 
-Explain the provisions related to the attachment of property of absconded person with suitable illustration. (2022)
+* **Section 35(3):** Mandatory notice for offenses punishable with less than 7 years.  
+* **Section 36:** Duty of the arresting officer to bear visible identification and prepare an "Arrest Memorandum" witnessed by a family member or local resident.  
+* **Section 43(5):** Protection for women—no woman can be arrested after sunset or before sunrise except in exceptional circumstances with a Magistrate’s order.  
+* **Section 47:** Right of the arrested person to be informed of the grounds of arrest and the right to bail.  
+* **Section 58:** Mandatory production before a Magistrate within 24 hours.
 
-9\. (a) What is meant by First Information Report.
+**Conclusion**
 
-(b) How the F.I.R. is recorded in-
+In conclusion, the provisions of arrest under the **BNSS 2023** serve as a vital mechanism for "Nagarik Suraksha" (citizen protection) while upholding the constitutional mandate of Article 21\. By clearly defining who can arrest and how it must be conducted—as seen in the case of **Saurabh** and **Prateek**—the Sanhita removes ambiguity from the process. The power of pursuit under Section 48 ensures that criminals like **Kanishth** cannot evade the law by crossing borders. Ultimately, the BNSS 2023 ensures that while the State has the power to arrest, it must do so with transparency, following a strict "procedure established by law" that respects the dignity and rights of every citizen in every corner of India, from **Patna** to **Amritsar**.
 
-(i) Cognizable case.
+---
 
-(ii) Non-congnizable case
+## Q2. (a) Can a private person arrest another person? If so, what is the procedure? (b) When can a Magistrate arrest?
 
-OR
+**Introduction**
 
-Discuss the laws relating to information in cognizable cases under Bharatiya Nagarik Suraksha Sanhita, 2023\. What new provisions have been inserted in this Sanhita and what is its evidentiary value ? Discuss.
+While the primary duty of maintaining law and order rests with the State, the law recognizes that there are exceptional situations where a police officer may not be immediately available. In such crises, the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023** empowers ordinary citizens and Magistrates to act as protectors of society. The "Nagarik Suraksha" (citizen protection) philosophy of the new Sanhita is reflected in **Section 40** (arrest by a private person) and **Section 41** (arrest by a Magistrate). These provisions ensure that a criminal does not escape justice simply because of the temporary absence of a police uniform. However, because these powers involve the serious matter of depriving a person of their liberty, the BNSS prescribes a strict "procedure established by law" to prevent vigilantism and ensure that the arrested person is integrated into the formal legal system as quickly as possible.
 
-(2024)
+**Main Body**
 
-(c) Explain the value of F.I.R. and the effect of delay in lodging
+**1\. Arrest by a Private Person: Scope and Procedure (Section 40\)**
 
-F.I.R.
+Under Section 40 of the BNSS, a private citizen is granted a limited but powerful right to effect an arrest. This right is not general; it applies only under two specific conditions:
 
-OR
+* **Cognizable and Non-Bailable Offense:** The person must commit a serious crime (like murder, dacoity, or rape) in the "presence" of the private individual.  
+* **Proclaimed Offender:** The person being arrested must be someone who has been officially declared a "proclaimed offender" by a court.
 
-What is First Information Report? Discuss the evidentiary value and the effect of delay in lodging the FIR. OR
+Procedure for Private Arrest:
 
-(2023)
+Once a private person like Prateek decides to arrest an offender like Krishna in Lucknow, he must follow the statutory procedure:
 
-What is FIR? Discuss the law relating to FIR as given under B.N.S.S.
+* **Immediate Action:** **Prateek** must take **Krishna** into custody without unnecessary delay.  
+* **Six-Hour Rule (New in BNSS):** A significant update in the BNSS is the introduction of a strict timeline. **Prateek** must hand over **Krishna** to a police officer or take him to the nearest police station within **six hours** of the arrest.  
+* **Police Re-Arrest:** Upon receiving the person, the police officer must check if the individual falls under the categories of arrestable persons under Section 35\. If there is reason to believe the person committed a cognizable offense, the police will officially "take them into custody."  
+* **Refusal of Details:** If **Krishna** has committed only a non-cognizable offense and refuses to give his name or residence to the police, he will be dealt with under Section 39 (arrest on refusal to give name).  
+* **Release:** If there is no sufficient reason to believe that **Krishna** has committed any offense, he must be released immediately.
 
-10\.
+*Example:* In a busy market in **Indore**, **Saurabh** sees **Kanishth** snatching a gold chain (a cognizable and non-bailable offense). **Saurabh** and other shoppers catch **Kanishth**. Under Section 40, **Saurabh** must take **Kanishth** to the **Indore** local police station within six hours to complete the legal process.
 
-(a) Discuss the powers of police officer to 'investigate cognizable case.
+**2\. Arrest by a Magistrate: Scope and Procedure (Section 41\)**
 
-(b) Discuss the procedure of investigation
+A Magistrate, being a judicial officer, has broader powers than a private citizen but narrower than a police officer. Section 41 of the BNSS (which replaces Section 44 of the old CrPC) provides two scenarios for such an arrest:
 
-Or
+* **Offense in Presence (Section 41(1)):** When any offense (cognizable or non-cognizable) is committed in the presence of a Magistrate (Judicial or Executive) within their **local jurisdiction**, the Magistrate may himself arrest or order any person to arrest the offender.  
+* **Competence to Issue Warrant (Section 41(2)):** A Magistrate can arrest, or direct the arrest of, any person for whose arrest they are competent to issue a warrant at that time and under those circumstances.
 
-What is FIR? Discuss the power of police officer to Investigate a cognizable offence.
+*Example:* While **Raghavendra**, a Judicial Magistrate, is walking through a park in **Varanasi**, he witnesses **Satyam** brutally assaulting a passerby. Since the offense happened in his "presence" and "jurisdiction," **Raghavendra** can personally arrest **Satyam** or order his security guard, **Laukendra**, to do so. After the arrest, **Raghavendra** will commit **Satyam** to custody, subject to bail provisions.
 
-(2021)
+**Conclusion**
 
-Discuss the power of Police officer to investigate cognizable offences. What procedure has been prescribed under relevant section of B.N.S.S., 2023 for investigation? Explain.
+In conclusion, the provisions of Sections 40 and 41 of the BNSS 2023 ensure that the machinery of justice is always "on duty." By allowing a private person like **Saurabh** to arrest a criminal in an emergency, the law encourages civic responsibility. By empowering a Magistrate like **Raghavendra** to act as an arresting authority, the Sanhita ensures that judicial oversight begins at the very moment of the crime. The new "six-hour rule" for private arrests is a vital safeguard that prevents illegal detention and ensures that citizens remain assistants to the law, not a law unto themselves. These procedures collectively uphold the sanctity of Article 21, ensuring that every arrest made in **Jaipur**, **Patna**, or **Amritsar** is rooted in a transparent and accountable legal framework.
 
-(2023)
+---
 
-11\. Point out those processes to procure personal attendance of a person in the Court.
+## Q3. ~~(a) What is Arrest? How is it made ?~~ (b) Is there any protection to the members of Armed Forces from arrest?
 
-12\. Discuss the procedure for the service of summons.
+**Introduction**
 
-13\. Can summons be served on witness by post? If so, how?
+Arrest is a fundamental concept in criminal jurisprudence, representing the formal deprivation of an individual's liberty by legal authority. While the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023** does not provide a strict dictionary-style definition of "Arrest," it is judicially understood as the physical restraint or seizure of a person to answer for an alleged offense or to prevent the commission of a crime. It is a critical stage that transitions a person from a state of freedom to legal custody. The rationale behind arrest is to ensure the presence of the accused during investigation and trial, to prevent the destruction of evidence, and to maintain public safety. Under the BNSS 2023, the process of "how" an arrest is made is codified to ensure that force is used proportionately and that the dignity of the individual is respected, even while the law is being enforced. Furthermore, the Sanhita recognizes that certain categories of persons, such as the members of the Armed Forces, require special legal protection to ensure that their official duties are not obstructed by frivolous or malicious legal actions.
 
-14\. What do you understand by warrant? Explain its kinds in detail.
+**Main Body**
 
-15\. Explain the requirement of valid warrant.
+**1\. How is an Arrest Made? (Section 43\)**
 
-16\. Differentiate between summon and warrant. (2023)
+Section 43 of the BNSS (corresponding to Section 46 of the old CrPC) provides the specific procedure for effecting an arrest. It outlines a hierarchy of physical and verbal actions:
 
-17\. What is the form of warrant ?
+* **Submission to Custody:** The primary method of arrest is "submission." If the person to be arrested submits to the custody of the officer by word or action, the arrest is legally complete. No physical force or touching is required in such cases.  
+  * *Example:* **Prateek**, a police officer in **Indore**, informs **Krishna** that he is under arrest for a hit-and-run case. **Krishna** says, "I understand," and sits in the police vehicle. The arrest is complete without **Prateek** ever touching **Krishna**.  
+* **Touching or Confining:** If the person does not submit, the arresting officer must actually touch or confine the body of the person to be arrested.  
+* **Use of Force (Section 43(2)):** If the person forcibly resists the arrest or attempts to evade it, the officer may use "all means necessary" to effect the arrest. However, Section 43(4) clarifies that this does not grant a right to cause the death of a person who is not accused of an offense punishable by death or life imprisonment.  
+* **Handcuffs (Section 43(3) \- New Provision):** A significant update in the BNSS is the explicit power to use handcuffs. An officer may use handcuffs based on the nature and gravity of the offense if the person is a habitual offender, a repeat offender, an escapee, or involved in serious crimes like organized crime, terrorist acts, drug crimes, murder, or rape.  
+  * *Example:* **Raghavendra** arrests **Kanishth** in **Lucknow** for a multi-state drug trafficking operation. Given the gravity of the offense, **Raghavendra** uses handcuffs while taking **Kanishth** to the station.  
+* **Arrest of Women (Section 43(5)):** The Sanhita reinforces that a woman can only be arrested by a female police officer. Except in "exceptional circumstances" and with the prior permission of a Magistrate, no woman shall be arrested after sunset and before sunrise.
 
-18\. Can a warrant be forwarded for execution outside Jurisdiction?
+**2\. Protection to Members of Armed Forces (Section 42\)**
 
-19\. What is the procedure when a person against whom warrant is issued, is arrested?
+Section 42 of the BNSS (old Section 45\) provides a statutory shield to the members of the Armed Forces of the Union (Army, Navy, Air Force, and certain paramilitary forces).
 
-20.. When can a Criminal Court issue search warrant? Or When can a court issue warrant to compel a person for production of a document which is relevant as an evidence in a criminal matter? Under which provision of B.N.S.S. police can conduct search without any search warrant from court. Illustrate. (2018)
+* **Immunity for Official Duty:** No member of the Armed Forces can be arrested for anything done or "purported to be done" by them in the discharge of their official duties.  
+* **Requirement of Consent:** For such an arrest to be legal, the Central Government must provide its prior consent. This protection ensures that soldiers and officers are not harassed by local legal proceedings while performing national security tasks.  
+* **State Government Powers:** The State Government can also extend this protection to local police forces charged with maintaining public order through a notification.  
+  * *Example:* **Saurabh**, a member of the Armed Forces, is deployed in **Srinagar** to control a riot. During the operation, he takes actions that lead to a complaint by a local citizen. Officer **Laukendra** in **Srinagar** cannot arrest **Saurabh** without the formal consent of the Central Government, as **Saurabh** was acting in the line of duty.
 
-21\. What is the procedure of search of place suspected to contain stolen property?
+**Conclusion**
 
-22\. Describe the provisions relating to search of persons wrongfully confined.
+In conclusion, the BNSS 2023 provides a balanced approach to the concept of arrest. By defining the procedure in Section 43, it ensures that officers like **Prateek** or **Raghavendra** know exactly how to secure a suspect like **Krishna** or **Kanishth** without infringing upon their dignity unnecessarily. The introduction of specific rules for handcuffs and women's arrests reflects a modern understanding of security and human rights. Simultaneously, Section 42 acts as a vital protection for the defenders of the nation, ensuring that officers like **Saurabh** can perform their duties in places like **Amritsar** or **Guwahati** without the constant threat of arbitrary arrest. These provisions together uphold the "rationale of criminal procedure" as mandated by Article 21, ensuring that every curtailment of liberty is rooted in a procedure that is just and transparent.
 
-23\. Who can compel restoration of abducted females? Discuss procedure which will be adopted by him?
+---
 
-24\. When a police officer can search a place within the limits of his own police station?
+## Q4. Answer the following
 
-25\. What are the conditions of search?
+1. Is it a right of a person arrested to be informed on grounds of arrest and of right to bail?  
+2. Can an arrested person claim his examination by a medical practitioner after his arrest?  
+3. Can a registered medical practitioner examine an arrested person at the request of a police officer? If so, under what circumstances?
 
-26\. What is the procedure of arrest and what are the duties of the arresting officer under the Section 36 of Bharatiya Nagarik Suraksha, 2023? State whether a police officer can arrest the person who complies with the terms of the notice under 35 (3) to (6).
+**Introduction**
 
-(2024)  
-\===================================
+The hallmark of a civilized criminal justice system is the protection of the rights of those whom the State seeks to deprive of their liberty. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, in harmony with Article 22 of the Constitution of India, establishes a robust framework of safeguards for arrested persons. These safeguards are not mere procedural formalities; they are substantive rights intended to prevent arbitrary detention and custodial abuse. The rationale behind these provisions is to ensure that the "power of the sword" held by the police is always tempered by the "shield of the law." Whether it is the right to know why one is being detained, the right to seek freedom through bail, or the right to have one's physical integrity verified by a medical professional, the BNSS ensures that the transition from a free citizen to an arrested person is governed by transparency and dignity. For individuals like **Prateek** or **Krishna**, these rights are the first line of defense against potential state overreach.
 
-UNIT-III
+**Main Body**
 
-1\. Write Short notes on: 'Place of Inquiry or trial'
+**1\. Right to be Informed of Grounds of Arrest and Right to Bail (Section 47\)**
 
-2\. Write Short notes on: 'Offence Committed on Journey or Voyage'.
+Under **Section 47** of the BNSS (corresponding to Section 50 of the old CrPC), every police officer or other person arresting any person without a warrant is legally bound to "forthwith communicate" the full particulars of the offense or other grounds for such arrest. This is a mandatory statutory requirement that mirrors the constitutional mandate under Article 22(1). The purpose is to allow the arrested person to understand the allegations, consult a lawyer, and prepare a defense.
 
-3\. Write Short notes on: Cognizance of offences by Court of Session (2019)
+Furthermore, Section 47(2) mandates that if the offense is bailable, the officer must inform the person that they are entitled to be released on bail and that they may arrange for sureties.
 
-4\. Write Short notes on: Prosecution for Defamation
+*Example:* **Raghavendra**, a police officer in **Lucknow**, arrests **Kanishth** for a minor brawl. **Raghavendra** must immediately tell **Kanishth**, "You are being arrested for a bailable offense under the Sanhita, and you have the right to be released on bail right now if you provide a surety." If **Raghavendra** fails to do this, the arrest itself may be deemed illegal by a court in **Lucknow**.
 
-5\. Write Short notes on: Examination or complainant-
+**2\. Right of Arrested Person to Claim Medical Examination (Section 53\)**
 
-6\. Write Short notes on: Issue of Process (2019)
+The BNSS provides the arrested person with a specific right to verify their physical condition. Under **Section 53** (old Section 54), when an arrested person alleges, either at the time of being produced before a Magistrate or during custody, that an examination of their body will afford evidence disproving the crime or showing they were subjected to torture, the Magistrate must direct a medical examination.
 
-Long Answer Type Question
+This right is a vital protection against custodial violence. If **Saurabh** is arrested in **Bhopal** and feels he has been mistreated in the lock-up, he can demand a medical check-up. The medical officer will record any injuries or marks of violence, and a copy of this report must be furnished to **Saurabh** or his nominee, like **Satyam**. This record serves as "contemporaneous evidence" if **Saurabh** later files a complaint against the police.
 
-1\. Discuss the Jurisdiction of Criminal Courts in respect of Inquiries and Trials. (2022)
+**3\. Medical Examination at the Request of a Police Officer (Section 51\)**
 
-2\. Discuss what is meant by taking cognizance of an offence by a magistrate. Under what circumstances can a magistrate take cognizance of an offence ? OR
+The Sanhita also empowers the police to seek a medical examination of the accused to aid the investigation. Under **Section 51** (old Section 53), if there are reasonable grounds to believe that such an examination will afford evidence as to the commission of the offense, it is lawful for a registered medical practitioner to examine the person.
 
-What are the powers of Magistrate for taking cognizance of any offence? Elaborate.
+A key update in the **BNSS 2023** is that **any police officer** can now make this request, whereas the old law required an officer not below the rank of Sub-Inspector. The "examination" under this section is broad and includes blood tests, DNA profiling, and other modern scientific techniques.
 
-3\.
+*Example:* In **Varanasi**, **Laukendra** is arrested on suspicion of a serious assault. Officer **Sachkeerat** believes a DNA sample from **Laukendra**'s clothes will prove his presence at the crime scene. **Sachkeerat** can request a medical practitioner to perform this examination. If **Laukendra** is a female, the examination must be conducted only by, or under the supervision of, a female medical practitioner to protect her modesty and dignity.
 
-What do you understand by the cognizance of an offence by a Magistrate ? Discuss the procedure in detail. (2024)
+**Conclusion**
 
-Explain briefly the limitations imposed by the sanhita on the
+In conclusion, the provisions of the **BNSS 2023** regarding information and medical examination represent a balanced approach to criminal justice. By mandating the disclosure of arrest grounds and bail rights under Section 47, the law ensures that citizens like **Kanishth** are not kept in the dark about their legal status. By providing for medical examinations under Sections 51 and 53, the Sanhita uses science to both assist the investigation by officers like **Sachkeerat** and protect the human rights of suspects like **Saurabh**. These rights together ensure that the procedure for depriving a person of liberty in cities across India—from **Amritsar** to **Patna**—remains "just, fair, and reasonable" as required by Article 21 of the Constitution.
 
-unfettered powers of Magistrates to take cognizance of offences under section 210\.
+---
 
-4\. (a) Discuss the procedure which is to be adopted by a Magistrate on receiving a complaint.
+## 5 (a) How long a person arrested can be detained in custody by a police officer without warrant? (b) Describe the powers to pursue and retake the person on his escape.
 
-(b) Discuss the procedure which is to be adopted by a Magistrate on receiving a complaint who is not competent to take cognizance of the case.
+**Introduction**
 
-Or
+The restriction of a person's liberty by the police is a serious matter that is strictly regulated by the Constitution and the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**. The fundamental principle of Indian criminal law is that no person should be detained in police custody for a moment longer than is strictly necessary. The "24-hour rule" is a constitutional and statutory mandate designed to prevent custodial torture, extract forced confessions, and ensure that the judiciary—not the police—decides the fate of an arrested person. Furthermore, the Sanhita recognizes that the process of arrest is not always easy; if a person escapes from legal custody, the law provides the authorities with the power of "hot pursuit" to retake them. These provisions ensure that while the "Nagarik Suraksha" (citizen protection) is maintained by catching offenders, the individual's right against arbitrary detention is protected under the oversight of a Magistrate.
 
-Describe briefly the procedure to be adopted by a Magistrate in complaint cases.
+**Main Body**
 
-Or
+**1\. Duration of Detention Without a Warrant (Section 58\)**
 
-(2023)
+According to **Section 58** of the BNSS (which corresponds to Section 57 of the old CrPC), no police officer shall detain in custody a person arrested without a warrant for a longer period than is "reasonable" under all the circumstances of the case.
 
-Discuss the law relating to complaint. Can a magistrate refer the case to the police receive through complaint ? Discuss with the help of relevant law. (2018) Or
+Crucially, the law sets a strict upper limit: such a period shall not, in the absence of a special order of a Magistrate under Section 187, exceed **twenty-four hours**. This 24-hour period excludes the time necessary for the journey from the place of arrest to the Magistrate's Court.
 
-What do you understand by taking cognizance of an offence ?
+* **The Rationale:** This rule ensures that the arrested person is produced before a judicial mind as soon as possible. The Magistrate then evaluates if there is a *prima facie* case to keep the person in further custody (Police Custody or Judicial Custody).  
+* **Example:** **Prateek** is arrested by Officer **Saurabh** in **Indore** at 10:00 AM on a Monday. By 10:00 AM on Tuesday, **Saurabh** must produce **Prateek** before a Magistrate in **Indore**. If the court is 2 hours away, the police get those 2 extra hours for travel. If **Saurabh** keeps **Prateek** for 30 hours without a Magistrate's order, the detention becomes illegal, and **Saurabh** may face legal action.
 
-Discuss the procedure when cognizance is taken on a complaint.
+**2\. Powers to Pursue and Retake on Escape (Section 62\)**
 
-OR
+Legal custody is not a suggestion; it is a mandate. If a person who is in lawful custody escapes or is rescued, the law provides the authorities with the power of immediate pursuit. Under **Section 62** (old Section 60), the person from whose custody he escaped or was rescued may **immediately pursue and arrest him in any place in India**.
 
-Define complaint. Discuss the complaint proceedings before the Magistrate.
+* **Scope of Power:** This power is not just limited to the police. If a private person like **Krishna** had arrested a thief and the thief escaped, **Krishna** has the legal right to pursue and retake him.  
+* **Procedures of Arrest Apply:** Section 62(2) clarifies that when retaking an escaped person, the provisions of Section 43 (How arrest is made) shall apply. This means the officer or person can use necessary force to catch the escapee, and if the escapee is a woman, the protections regarding female arrest still apply.  
+* **Example:** **Kanishth** is arrested in **Lucknow** and is being taken to court. He pushes the officer and runs away, eventually crossing into the neighboring district of **Kanpur**. Officer **Raghavendra** does not need a new warrant or permission from Kanpur police to catch him. Under Section 62, **Raghavendra** can pursue **Kanishth** into **Kanpur**, or even to **Patna** or **Jaipur**, and retake him into custody immediately.
 
-5\. What are those steps which a Magistrate is required to take after being satisfied on a complaint that there is sufficient ground for proceeding?
+**Conclusion**
 
-6\. Write a short note on
+In conclusion, the **BNSS 2023** creates a disciplined framework for police conduct. By enforcing the 24-hour rule under Section 58, the law upholds the "rationale of criminal procedure" as dictated by Article 21 and 22 of the Constitution, ensuring that individuals like **Prateek** are protected from prolonged and unauthorized police detention. At the same time, Section 62 ensures that the law is not mocked by those who attempt to flee from justice. Whether it is a police officer in **Lucknow** producing a suspect on time or an officer in **Indore** pursuing an escapee across state lines, these provisions ensure that "Nagarik Suraksha" is balanced with the rule of law. The judicial oversight provided at the end of the 24-hour window remains the greatest safeguard against the misuse of executive power in the Indian legal system.
 
-(i) Commitment of case to Court of Session
+---
 
-(ii) Consolidation of cases relating to the same offence.  
-\===================================
+## Q6. (a) Discuss the general provisions of search under B.N.S.S. (b) How the things found in search beyond jurisdiction are disposed of?
 
-UNIT-IV
+**Introduction**
 
-1\. Write Short notes on: 'security for keeping the Peace on conviction.
+A "Search" is a procedural tool used by law enforcement to discover evidence, stolen property, or persons wrongfully confined. While it is an essential power for the administration of justice, it is also a significant intrusion into the privacy of a citizen. Therefore, the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023** provides a strict framework to ensure that searches are conducted with transparency and accountability. The rationale behind these provisions is to prevent the "planting" of evidence and to ensure that the material collected can stand the test of a judicial trial. One of the most revolutionary changes in the BNSS 2023 is the mandatory requirement for audio-video recording of the search process, which directly supports the "Nagarik Suraksha" (citizen protection) objective by reducing allegations of police high-handedness.
 
-2\. Write Short notes on: 'security for good behaviour from suspected persons?
+**Main Body**
 
-3\. Write Short notes on: 'Security for unexpired Period of bond.
+**1\. General Provisions of Search (Sections 103, 105, and 185\)**
 
-4\. Write Short notes on: What are situation under which a wife is not entitled to get maintenance under the law?
+The general rules for conducting a search are designed to be fair and transparent. Under **Section 103** (old Section 100), the following procedures must be followed:
 
-5\. Write Short notes on: Enforcement of the Order of Maintenance
+* **Free Ingress (Entry):** Any person in charge of a "closed place" (like a house or warehouse) must allow the officer free entry upon the production of a warrant. If entry is refused, the officer may use force to break open doors or windows.  
+* **Presence of Witnesses:** Before starting the search, the officer must call upon **two or more independent and respectable inhabitants** of the locality to witness the process. These are commonly known as "Panch" witnesses.  
+* **Preparation of List (Seizure Memo):** A list of all things seized and the places where they were found must be prepared. This list (Panchanama) must be signed by the witnesses. A copy of this list must be delivered to the occupant of the place.  
+* **Search of Person:** If a person at the scene is suspected of concealing an item, they may be searched. If the person is a woman, the search must be conducted by another woman with strict regard to decency.
 
-6\. What is Investigation of Crime? How does it differ from inquiry? Discuss the main stages of the investigation as contained in the Provisions of the Bhartiya Nagrik Suraksha Sanhita, 2023\.
+**Mandatory Videography (Section 105):**
 
-(2024)
+A major salient feature of the BNSS 2023 is that the entire process of search and seizure, including the preparation and signing of the list by witnesses, shall be recorded through any audio-video electronic means, preferably by a mobile phone. This recording must be forwarded to the Magistrate without delay.
 
-7\. Difference between Inquiry and Investigation
+* *Example:* **Saurabh**, a police officer in **Indore**, conducts a search of **Satyam's** house for stolen jewelry. He must call two neighbors, say **Prateek** and **Krishna**, to witness it. **Saurabh** must use his smartphone to video-record the entire process—from entering the house to finding the jewelry and getting **Prateek's** signature on the list.
 
-(2019)
+**2\. Search Beyond Jurisdiction (Section 186\)**
 
-Long Answer Type Question
+Sometimes, an investigation in one city requires a search in another. Under **Section 186** (old Section 166), two methods are provided:
 
-1\. Discuss the procedure for security for keeping the peace on conviction.
+* **Search via Request:** An officer in charge of a police station in **Lucknow** (like **Raghavendra**) can require the officer in charge of a station in **Varanasi** (like **Laukendra**) to cause a search to be made in the latter’s jurisdiction. **Laukendra** will then conduct the search following the rules of Section 185 and forward the items found to **Raghavendra**.  
+* **Personal Pursuit in Urgency:** If **Raghavendra** believes that the time taken to request **Laukendra** will result in the evidence being destroyed, he can personally conduct the search in **Varanasi**.
 
-2 Discuss the preventive measures provided in Chapter IX of the new Bharatiya Nagarik Suraksha Sanhita mentioning provisions relating to (i) bond for keeping peace, (ii) security for good behaviour.
+**3\. Disposal of Things Found Beyond Jurisdiction**
 
-Or
+When a search is conducted outside the officer's own jurisdiction, the "disposal" or handling of seized items follows a specific legal path under Section 186:
 
-Explain the procedure adopted by Magistrate under B.N.S.S. relating to security for keeping the peace and for good behaviour. (2022)
+* **Forwarding to Requesting Officer:** If the local police conducted the search on request, they must immediately forward the seized items and the seizure list to the officer who made the request.  
+* **Reporting to Local Authorities:** If an officer (like **Raghavendra**) conducts a search personally in another jurisdiction (like **Varanasi**), he must "forthwith" send a notice of the search and a copy of the seizure list to the officer in charge of the local police station (**Laukendra**).  
+* **Magisterial Oversight:** He must also send a copy of the list and the reasons for the search to the **nearest Magistrate** empowered to take cognizance of the offense. This ensures that the local judiciary is aware of the search happening in its territory.
 
-3\. 'A' a person has been reported to be a bad character and has been arrested for executing a bond for maintaining good behaviour. On inquiry the allegations are found incorrect. Will he still be required to execute the bond for keeping peace?
+**Conclusion**
 
-4\. Is it discretionary to accept or reject a surety offered by a person for purposes of bond? What legal consequences would follow if there is a default of Security?
+In conclusion, the general provisions of search under the **BNSS 2023** strike a delicate balance between the State's power to investigate and the citizen's right to privacy. By mandating the presence of independent witnesses like **Prateek** and the use of modern technology through Section 105, the law minimizes the chances of false evidence. The rules for search beyond jurisdiction under Section 186 ensure that the "long arm of the law" can reach criminals like **Kanishth** in **Jaipur** while still respecting the administrative and judicial boundaries of different districts. Whether it is **Saurabh** in **Indore** or **Sachkeerat** in **Amritsar**, every officer must follow these "just, fair, and reasonable" procedures to ensure that the evidence collected is legally valid and that "Nagarik Suraksha" is truly upheld.
 
-5\. It is entirely within the discretion of the Chief Judicial Magistrate to determine when and under what circumstances he should release persons imprisoned for failing to give security. Discuss.
+---
 
-6\. Write a short note on Security for unexpired period of bond.
+## Q7. When the proclamation for persons, absconding shall be published? Can a warrant of arrest and proclamation be issued simultaneously? Who is a proclaimed offender? Discuss the law about declaring an accused to be a proclaimed offender. What is the status of a proclaimed offender in the eyes of law? Explain.
 
-7\. Or What is the provision in the Bharatiya Nagarik Suraksha Sanhita for maintenance of wife, children and parents?
+**Introduction**
 
-Discuss the law relating to payment of maintenance to a wife. Under what circumstances wife is not entitled to get maintenance? What is maximas amount of maintenance as prescribed under the law? Explain. Or
+A "Proclamation" is a formal public announcement made by a court when its ordinary process—the warrant of arrest—has failed to secure the presence of an accused. In the criminal justice system, if an individual like **Prateek** chooses to defy the law by hiding or running away, the court does not remain helpless. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, specifically **Section 84**, the court can escalate its process to a public declaration. The rationale behind this is twofold: first, to exert social and legal pressure on the absconder to surrender, and second, to lay the legal groundwork for more severe consequences, such as the attachment of property or even a trial in absentia. The BNSS 2023 has significantly widened the scope of who can be declared a "Proclaimed Offender," moving away from the limited list of the old CrPC to include any person accused of an offense punishable by 10 years or more, life imprisonment, or death.
 
-(2018)
+**Main Body**
 
-Discuss the provisions of maintenance as provided under
+**1\. When is a Proclamation Published? (Section 84(1))**
 
-B.N.S.S., 2023\. OR
+A court can publish a written proclamation if it has "reason to believe" that a person against whom a warrant has been issued has:
 
-(2019)
+* **Absconded:** Left their usual place of residence to avoid the law.  
+* Concealed themselves: Hiding within their own house or locality so that the warrant cannot be executed.  
+  The proclamation must require the person to appear at a specified place and time, which must be not less than thirty days from the date of publishing the proclamation.
 
-Discuss the law relating to maintenance of Wife. What are the situations under which a wife is not entitled to get maintenance under the law? Or
+**2\. Procedure for Publication (Section 84(2))**
 
-In what circumstances the order of Maintenance can be Made? Whether only legally wedded wife is entitled to claim Maintencance? (2022)
+The law ensures that the proclamation reaches the ears of the absconder through multiple channels:
 
-Who can claim maintenance under Section 144 of Bharatiya Nagarik Suraksha Sanhita, 2023? No wife shall be entitled to receive maintenance from her husband without any sufficient reason if she refuses to live with her husband or they are living separately by mutual consent. Discuss.
+* **Public Reading:** It must be read out loud in a conspicuous place in the town or village where the person ordinarily resides.  
+* **Affixture:** A copy must be pasted on a conspicuous part of the person's house or homestead.  
+* **Court House:** A copy must be displayed on the notice board of the Court-house.  
+* **Newspaper:** If the Court thinks fit, it can also order the proclamation to be published in a daily newspaper circulating in that area.  
+* *Example:* If **Krishna** absconds from **Lucknow**, the Court will ensure the notice is read at the local market, pasted on **Krishna's** door in **Lucknow**, and put on the Court's board.
 
-(2024)
+**3\. Simultaneous Issuance of Warrant and Proclamation?**
 
-8\. Discuss the procedure prescribed for initiating proceedings under Section 144 of the Bharatiya Nagarik Suraksha Sanhita.
+Generally, a proclamation is the next step after a warrant fails. However, the law and judicial precedents allow for simultaneous action in exceptional cases. If the Court is satisfied that the accused is about to dispose of their property or flee the country, it can issue the proclamation along with the warrant to save time. In the BNSS 2023, the link between proclamation and property attachment has been made even tighter to ensure "Nagarik Suraksha" (citizen protection).
 
-9\. When the maintenance allowance awarded under Section 144 of Bharatiya Nagarik Suraksha Sanhita can be altered?
+**4\. Who is a Proclaimed Offender? (Section 84(4))**
 
-10\. How the order of maintenance is enforced?
+Under the BNSS 2023, the definition of a "Proclaimed Offender" (PO) has been broadened.
 
-11\. Discuss the various provisions under B.N.S.S. which are helpful for the Maintenance of Public order and tranquility.
+* **The Criteria:** If a person is accused of an offense punishable with **death, life imprisonment, or imprisonment for 10 years or more**, and they fail to appear at the time and place specified in the proclamation, the Court may, after making such inquiry as it thinks fit, declare them a "Proclaimed Offender."  
+* *Example:* **Kanishth** is accused of a major robbery in **Bhopal** (punishable by 10+ years). He ignores the proclamation. After 30 days, Judge **Saurabh** can formally declare **Kanishth** a Proclaimed Offender.
 
-(2022)
+**5\. Status of a Proclaimed Offender in the Eyes of Law**
 
-12\. What is public nuisance ?
+The status of a PO carries severe legal disabilities and consequences:
 
-13\. When conditional order for removal of nuisance can be passed?
+* **Offense under BNS:** Under **Section 209 of the Bharatiya Nyaya Sanhita (BNS)**, failing to appear in response to a proclamation is a separate cognizable and non-bailable offense punishable by up to 3 years (or 7 years for grave crimes).  
+* **No Anticipatory Bail:** Generally, a PO is not entitled to anticipatory bail, as they have already shown a tendency to defy the law.  
+* **Trial in Absentia (Section 356 \- New Provision):** This is a revolutionary feature of the BNSS. If a PO remains at large and cannot be caught, the Court can proceed with the trial and pronounce the judgment even in their **absence**.  
+* **Attachment of Property:** Their property can be seized immediately under Section 85\.
 
-Discuss the conditional order for removal of nuisance under Section 152 of Bharatiya Nagarik Suraksha Sanhita, 2023 and the procedure adopted where dispute concerning land and water is likely to cause breach of peace. (2024)
+**Conclusion**
 
-Or
+In conclusion, the provisions relating to proclamation under the **BNSS 2023** are designed to ensure that no one is "above the law" by simply running away. By expanding the definition of Proclaimed Offenders to include any serious crime, the Sanhita provides officers like **Raghavendra** in **Lucknow** or **Laukendra** in **Indore** with the necessary leverage to bring criminals to justice. The introduction of trial in absentia under Section 356 ensures that victims like **Satyam** do not have to wait decades for a verdict just because the accused is hiding. For offenders like **Kanishth**, the law sends a clear message: absconding will not halt the wheels of justice; it will only accelerate the loss of their property and their right to a personal defense in court.
 
-14\. Discuss the powers of the Magistrate to issue temporary orders in urgent cases of a nuisance or apprehended danger.
+---
 
-What is Section 163, B.N.S.S., 2023? Discuss its relevance.
+## Q8. When may a Court order attachment of the property of a person who has absconded? Explain. Or Explain the provisions related to the attachment of property of absconded person with suitable illustration. 
 
-(2019)
+**Introduction**
 
-15\. Can an exparte order be passed under Section 163 of the Sanhita? If so, how long it will remain in force?
+The attachment of property is a stringent legal measure designed to act as a compelling force against an accused person who attempts to evade the process of law. While a proclamation (Section 84\) serves as a public notice, "Attachment" is a physical and legal seizure of the absconder's assets. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, these provisions are primarily contained in **Section 85** (corresponding to Section 83 of the old CrPC). The rationale behind this is simple: when an offender like **Kanishth** realizes that his property—his home, his bank accounts, or even his livestock—is being taken over by the State, the financial and social pressure often forces him to surrender. The BNSS 2023 ensures that this power is exercised with judicial oversight to protect "Nagarik Suraksha" (citizen protection), ensuring that the attachment serves the dual purpose of punishing the absconder and securing the interests of justice.
 
-16\. Point out the difference between Sections 152 and 163 of the Bharatiya Nagarik Suraksha Sanhita.
+**Main Body**
 
-17\. How would a Magistrate deal with a situation when he finds that a dispute relating to a piece of land between the two parties is likely to cause a breach of peace? Discuss with recent case law.
+**1\. When Can a Court Order Attachment? (Section 85(1))**
 
-18\. Explain the power to attachment of disputed property.
+A court can order the attachment of property at any time after the issuance of a proclamation under Section 84\. Generally, it is the second step in the process, but the law allows for Simultaneous Attachment in exceptional cases. If the Court is satisfied, by affidavit or otherwise, that the person:
 
-19\. Discuss the powers of a Magistrate for the purpose of maintenance of public order and tranquility.
+* Is about to dispose of the whole or any part of his property; or  
+* Is about to remove the property from the local jurisdiction of the Court.  
+  In such cases, the court can issue the attachment order along with the proclamation notice.  
+* *Example:* **Raghavendra** is a judge in **Varanasi**. He issues a proclamation for **Saurabh**, who is absconding. However, **Laukendra**, the Investigating Officer, informs the court that **Saurabh** is trying to sell his ancestral house in **Varanasi** to flee to another country. **Raghavendra** can immediately order the attachment of that house to prevent its sale.
 
-20\. Write short notes on the following:
+**2\. Manner of Attachment (Section 85(3) & (4))**
 
-OR
+The method of attachment depends on the nature of the property belonging to the absconder:
 
-(a) Critically examine the provisions relating to medical examination of rape accused and victim under B.N.S.S.
+* **Movable Property:** For items like cars, jewelry, or debts, attachment is made by:  
+  * Actual seizure (taking it into custody).  
+  * Appointment of a receiver (a person to manage the asset).  
+  * An order prohibiting the delivery of the property to the absconder.  
+  * *Example:* **Krishna** is an absconder in **Lucknow**. The court orders the attachment of his luxury car. Officer **Sachkeerat** physically seizes the car and parks it at the police station.  
+* **Immovable Property:** For land or buildings, attachment is made by:  
+  * Taking possession.  
+  * Appointment of a receiver.  
+  * Prohibiting the payment of rent or delivery of the property to the absconder.  
+  * In the case of land paying revenue to the State, the attachment is made through the **Collector** of the district.  
+  * *Example:* **Prateek** owns a farm in **Indore**. If he absconds, the court in **Indore** will work with the District Collector to take over the farm and prevent **Prateek** from receiving any income from the crops.
 
-(b) Distinguish between 'Judicial custody and police custody.'
+**3\. Jurisdiction and Special Cases**
 
-\===================================  
+An order of attachment is valid for property within the district where it is issued. If the property is outside the district, it must be endorsed by the District Magistrate of that particular district. Furthermore, if the property consists of livestock or perishable goods (like vegetables or milk), the court may order an immediate sale, and the proceeds will be kept by the court.
+
+* *Example:* **Satyam** absconds from **Patna**, but he owns a dairy farm in **Jaipur**. The court in **Patna** must get the order endorsed by the DM of **Jaipur** to seize the cattle. Since cows require daily care and are "livestock," the court may order their sale to prevent them from starving or losing value.
+
+**4\. Claims and Restoration (Section 86 & 87\)**
+
+If a third party (someone other than the absconder) claims the property belongs to them, they must file an objection within six months. If the absconder, like Kanishth, appears within two years and proves to the court that he did not intentionally abscond, the court may restore the property or the sale proceeds to him after deducting costs.
+
+**Conclusion**
+
+In conclusion, the attachment of property under the **BNSS 2023** is a powerful deterrent against the defiance of legal processes. By empowering judges like **Raghavendra** to seize both movable and immovable assets, the law ensures that absconders like **Saurabh** or **Krishna** cannot enjoy the fruits of their property while hiding from justice. The inclusion of safeguards for third-party claims and the provision for restoration ensure that the law remains "just, fair, and reasonable." This process remains a critical pillar of "Nagarik Suraksha," ensuring that in every city from **Patna** to **Amritsar**, the arm of the law is long enough to reach not just the person, but also the assets they value most.
+
+---
+
+## Q9. (a) What is meant by the First Information Report. ~~(b) How the F.I.R. is recorded in (i) Cognizable case and (ii) Non-cognizable case. Discuss the laws relating to information in cognizable cases under Bharatiya Nagarik Suraksha Sanhita, 2023\. What new provisions have been inserted in this Sanhita and what is its evidentiary value? Discuss.~~ (c) Explain the value of F.I.R. and the effect of delay in lodging. (2024).
+
+**Introduction**
+
+The First Information Report, commonly known as the FIR, is the most crucial document in the Indian criminal justice system as it serves as the foundation upon which the entire superstructure of an investigation and trial is built. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the provisions for recording this information are contained in **Section 173** (which corresponds to Section 154 of the old CrPC). Although the term "First Information Report" is not explicitly defined in the Sanhita, it refers to the information relating to the commission of a cognizable offense given to the officer in charge of a police station first in point of time. The rationale behind the FIR is to set the criminal law in motion and to obtain an early record of the alleged criminal activity before there is time for the facts to be forgotten or embellished. It is the "trigger" that authorizes the police to exercise their powers of arrest and investigation, ensuring that "Nagarik Suraksha" (citizen protection) is initiated the moment a serious crime is reported.
+
+**Main Body**
+
+**1\. Meaning and Recording of FIR (Section 173\)**
+
+An FIR is essentially a notice to the State that a cognizable crime has occurred. Under Section 173(1), any person can give information about a cognizable offense to the police. This information can be provided in two primary ways:
+
+* **Orally:** If given orally to an officer like **Raghavendra** in **Lucknow**, it must be reduced to writing by him or under his direction and read over to the informant. Every such report must be signed by the person giving it.  
+* **Electronic Communication (e-FIR):** A modern feature of the BNSS is that information can be sent electronically. However, to be treated as a valid FIR, it must be taken on record and signed by the informant within **three days**.  
+* **Zero FIR:** Irrespective of where the crime took place, an officer must record the information. For example, if **Prateek** is robbed in **Patna** but reports it to Officer **Saurabh** in **Indore**, **Saurabh** must register a "Zero FIR" and transfer it to the relevant station in **Patna**.
+
+**2\. The Value of an FIR**
+
+The legal value of an FIR is multifaceted, although it is well-settled that an FIR is **not a substantive piece of evidence**. This means a court cannot convict someone solely based on what is written in the FIR. Its value lies in:
+
+* **Corroboration:** Under the Bharatiya Sakshya Adhiniyam (BSA), 2023, the FIR can be used to support the testimony of the informant, like **Krishna**, when he stands as a witness in court.  
+* **Contradiction:** If **Krishna** changes his story during the trial in **Lucknow**, the defense lawyer for **Kanishth** can use the original FIR to show inconsistencies and challenge **Krishna’s** credibility.  
+* **Dying Declaration:** If the informant dies after lodging the FIR due to injuries sustained in the crime, the FIR can be treated as a "Dying Declaration," which is a substantive piece of evidence.  
+* **Res Gestae:** It shows the conduct of the informant immediately after the incident.
+
+**3\. Effect of Delay in Lodging FIR**
+
+The law requires that an FIR should be lodged at the **earliest possible opportunity**. The rationale is that a prompt FIR reduces the chances of "afterthought," "concoction," or "fabrication" of a story.
+
+* **Suspicion and Scrutiny:** An unexplained or unreasonable delay in filing an FIR gives rise to suspicion. If **Satyam** is assaulted in **Varanasi** on Monday but waits until Friday to file an FIR without a good reason, the court will look at his story with extreme caution, fearing that he used the time to falsely implicate innocent people like **Laukendra**.  
+* **Acceptable Explanations:** Delay is not always fatal to the prosecution. If the delay is reasonably explained—such as the informant being unconscious, a medical emergency, or the extreme trauma and social stigma involved in rape cases—the court will accept it.  
+* *Example:* **Sachkeerat** is seriously injured in a road accident in **Amritsar**. His family spends the first 48 hours in the hospital trying to save his life. The delay in filing the FIR against the driver is well-explained and will not hurt the case's credibility in the eyes of the Magistrate.
+
+**Conclusion**
+
+In conclusion, the First Information Report under the **BNSS 2023** remains the bedrock of criminal proceedings. While it is not a substantive piece of evidence like a witness's testimony in court, its value as a tool for corroboration and contradiction is indispensable. The introduction of e-FIR and Zero FIR ensures that technology serves the cause of justice, making it easier for citizens like **Prateek** to report crimes. However, the requirement of promptness highlights the importance of truth; an early FIR by **Krishna** in **Lucknow** provides a snapshot of the truth before it is clouded by legal advice or malice. Ultimately, the FIR ensures that the investigation starts on a solid foundation, protecting the innocent while ensuring that the guilty, like **Kanishth**, are brought to justice through a "procedure established by law."
+
+---
+
+## Q10. Discuss the power of police officer to Investigate a cognizable offence and procedure of investigation. 
+
+**Introduction**
+
+Investigation is the foundational phase of the criminal justice system where the police gather evidence to identify and apprehend an offender. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, an investigation is essentially a search for the truth to determine whether there is sufficient evidence to bring an accused person to trial. The primary object of an investigation is the "collection of evidence" by a police officer or an authorized person. Unlike an inquiry, which is a judicial process conducted by a Magistrate, an investigation is purely an executive and administrative function. For cognizable offenses—which are serious crimes like murder, rape, or kidnapping—the law grants the police wide powers to act swiftly to protect society. The BNSS 2023 has modernized this process by integrating forensic science and digital technology, ensuring that the procedure is not only effective but also transparent and accountable to the citizens of India.
+
+**Main Body**
+
+**1\. Power to Investigate Cognizable Offences (Section 175\)**
+
+The power of a police officer to investigate a cognizable case is found in Section 175 of the BNSS (corresponding to Section 156 of the old CrPC). This section empowers any officer in charge of a police station to investigate such cases without the prior order of a Magistrate. This is a crucial "unrestricted" power intended to prevent any delay in securing justice.
+
+* **Example:** In **Bhopal**, **Prateek** reports a case of housebreaking and theft. Officer **Saurabh**, as the station in-charge, does not need to wait for a court order. He can immediately start the investigation to catch the suspect, **Kanishth**, and recover the stolen goods.
+
+**2\. Preliminary Enquiry vs. Direct Investigation (Section 173(3))**
+
+A significant reform in the BNSS 2023 is the provision for a Preliminary Enquiry. For offenses punishable with three to seven years of imprisonment, the police officer, with the prior permission of an officer not below the rank of Deputy Superintendent (like Sachkeerat), may conduct a 14-day enquiry to see if a prima facie case exists before registering a regular FIR. However, for more serious offenses (above seven years), the police must proceed with the investigation immediately.
+
+**3\. Procedure for Investigation (Section 176\)**
+
+The standard procedure involves several steps:
+
+* **Report to Magistrate:** The officer must send a report to the Magistrate empowered to take cognizance of the offense.  
+* **Proceeding to the Spot:** The investigating officer must go to the scene of the crime to inspect and collect evidence.  
+* **Forensic Mandatory Requirement:** Under BNSS, if the crime is punishable by seven years or more, the officer **must** involve a forensic expert like **Laukendra** to collect evidence. This process must also be videographed on a mobile phone to ensure it is not tampered with.  
+* **Example:** After **Kanishth** is accused of a serious robbery in **Indore**, Officer **Raghavendra** calls **Laukendra**, a forensic specialist. **Laukendra** gathers fingerprints and blood samples while the entire process is recorded on a digital device to preserve the integrity of the scene.
+
+**4\. Examination of Witnesses (Section 180\)**
+
+The police officer has the power to summon any person who appears to be acquainted with the facts and circumstances of the case. These statements can now be recorded using audio-video electronic means.
+
+* **Example:** During the investigation in **Lucknow**, Officer **Saurabh** calls **Krishna**, who was a witness to the crime. **Saurabh** records **Krishna’s** statement using a video recorder to maintain the accuracy of the testimony and prevent future retractions.
+
+**5\. Search and Seizure (Section 185\)**
+
+If the officer has reason to believe that things necessary for investigation are in a certain place, they can conduct a search. Again, the BNSS mandates that the search and seizure be videographed (under Section 105\) to ensure transparency and prevent the "planting" of evidence.
+
+**6\. Formation of Opinion and Police Report (Section 193\)**
+
+Once the evidence is collected, the officer forms an opinion. If there is enough evidence, a "Charge Sheet" is filed; otherwise, a "Final Report" (Closure Report) is submitted to the Magistrate. The police must inform the informant, like Prateek, of the progress within 90 days, ensuring the victim is central to the process.
+
+**Conclusion**
+
+In conclusion, the power and procedure of investigation under the **BNSS 2023** are designed to ensure a faster and more credible criminal justice system. By granting officers like **Saurabh** and **Raghavendra** the power to investigate cognizable offenses without delay under Section 175, the law prioritizes "Nagarik Suraksha" (citizen protection). The inclusion of mandatory forensics through experts like **Laukendra** and the use of videography ensures that the collection of evidence is immune to manipulation. Whether it is a case in **Varanasi** involving **Satyam** or in **Patna** involving **Sachkeerat**, the new Sanhita ensures that the investigation is a transparent search for justice, respecting both the rights of the victim and the dignity of the accused.
+
+---
+
+## Q11. Point out those processes to procure personal attendance of a person in the Court.
+
+**Introduction**
+
+The primary objective of the criminal justice system is to ensure that trials and inquiries proceed without unnecessary delay, which is only possible when all relevant parties—the accused and the witnesses—are present before the court. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, provides a comprehensive set of legal "processes" to compel the personal attendance of an individual. These processes are contained in **Chapter VI** and are designed as an escalating series of measures. The law begins with the least coercive method (Summons) and moves toward more forceful actions (Warrants) if the person fails to comply. In cases of total defiance or absconding, the court can resort to public proclamations and the seizure of property. The rationale is to uphold the "Nagarik Suraksha" (citizen protection) by ensuring that the law is not mocked by those who choose to ignore judicial orders. For citizens like **Prateek** and **Krishna**, these processes ensure that justice is not stalled by the absence of an essential participant in cities like **Lucknow** or **Indore**.
+
+**Main Body**
+
+**1\. Summons (Sections 63 to 71\)**
+
+A summons is the first and gentlest step to procure attendance. It is a formal order from a court requiring a person to appear at a specific date and time. Under Section 63, a valid summons must be in writing, in duplicate, and signed and sealed by the presiding officer. A significant modernization in the BNSS 2023 is that summons can now be served through electronic communication (like email or encrypted apps) and can bear a digital signature.
+
+* **How Served:** It is usually served personally by a police officer. If the person cannot be found, it can be left with an adult family member.  
+* **Example:** In **Bhopal**, Judge **Saurabh** issues a summons to **Kanishth** to testify as a witness. Officer **Raghavendra** serves the summons to **Kanishth** personally. **Kanishth** signs the duplicate copy, acknowledging the duty to appear. If **Kanishth** were a government servant in **Patna**, the summons would be sent to his department head, **Sachkeerat**, for delivery.
+
+**2\. Warrant of Arrest (Sections 72 to 83\)**
+
+If a person ignores a summons or if the court has reason to believe that a summons will not be effective, it may issue a warrant of arrest. A warrant is a more coercive tool that authorizes the police to arrest the person and produce them before the court.
+
+* **Kinds of Warrants:** It can be "Bailable" (where the officer releases the person on a bond) or "Non-Bailable."  
+* **Example:** If **Laukendra** is accused of a crime in **Jaipur** and refuses to attend court despite multiple summons, Judge **Satyam** issues a non-bailable warrant. Officer **Sachkeerat** then travels to **Jaipur**, arrests **Laukendra**, and brings him before the court in **Varanasi**.
+
+**3\. Proclamation for Absconding Persons (Section 84\)**
+
+When a warrant cannot be executed because the person is hiding or has fled, the court may issue a "Proclamation." This is a public notice requiring the person to appear within thirty days.
+
+* **Publicity:** It is read out in the local market and pasted on the person's door. Under **Section 84(4)**, if the offense is serious (10+ years or death), the court can formally declare the person a "Proclaimed Offender."  
+* **Example:** **Krishna** absconds from **Amritsar** to avoid a warrant for a serious robbery. The court in **Amritsar** issues a proclamation. A public announcement is made in **Krishna’s** neighborhood, and a copy is pasted on his house. If he doesn't show up in 30 days, he becomes a Proclaimed Offender.
+
+**4\. Attachment of Property (Section 85\)**
+
+The final and most severe measure is the "Attachment" of property. The court orders the seizure of the absconder's movable or immovable assets to create financial pressure to appear.
+
+* **Simultaneous Order:** If the court believes the person is about to sell their assets to flee, it can issue a proclamation and an attachment order at the same time.  
+* **Example:** While **Krishna** is hiding, the court in **Amritsar** orders the attachment of his ancestral land and his bank accounts. Faced with the loss of his livelihood, **Krishna** is forced to surrender to the law.
+
+**Conclusion**
+
+In conclusion, the processes to procure personal attendance under the **BNSS 2023** represent a tiered approach to judicial authority. By starting with a simple summons and moving toward the seizure of assets, the law gives every individual, from **Kanishth** to **Laukendra**, an opportunity to comply voluntarily before more coercive measures are taken. The inclusion of digital summons reflects a commitment to a faster, 21st-century legal system. These provisions ensure that in every city from **Lucknow** to **Indore**, the judicial process remains uninterrupted. The power of the court to proclaim an absconder or attach their property ensures that "Nagarik Suraksha" is maintained and that the arm of the law eventually reaches everyone required for the fair administration of justice.
+
+---
+
+## Q12. Discuss the procedure for the service of summons.
+
+**Introduction**
+
+A "Summons" is a judicial process used by a court to compel the appearance of a person, whether as an accused or as a witness. It is essentially a polite but firm command from the court. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the procedure for the service of summons is detailed in **Sections 64 to 71**. The rationale behind these provisions is to ensure that the individual is officially and undeniably informed of the legal proceedings against them, upholding the principle of *Audi Alteram Partem* (hear the other side). The BNSS 2023 has modernized this procedure by granting legal sanctity to electronic service, ensuring that in a digital age, justice is not stalled by the physical absence or evasion of a party. By providing a clear hierarchy of service methods—from personal delivery to electronic communication—the Sanhita ensures that "Nagarik Suraksha" (citizen protection) is maintained through a transparent and efficient legal process.
+
+**Main Body**
+
+The procedure for serving a summons follows a systematic and mandatory path to ensure it reaches the intended person.
+
+**1\. Personal Service (Section 64\)**
+
+The primary and most preferred method is personal service. Every summons must be served by a police officer or an officer of the court.
+
+* **The Process:** The officer must deliver or tender one of the duplicates of the summons to the person personally. The person is then required to sign a receipt on the back of the other duplicate.  
+* **Modern Update:** Under Section 64(2) of the BNSS, a summons bearing the image of the court's seal can now be served by **electronic communication** (email, encrypted messaging, etc.).  
+* *Example:* In **Lucknow**, Officer **Raghavendra** is tasked with serving a summons to **Prateek**. He visits **Prateek’s** house and hands him the document. **Prateek** signs the copy, and the service is complete. Alternatively, the court may send the summons to **Prateek’s** registered email.
+
+**2\. Service on Corporate Bodies and Firms (Section 65\)**
+
+When the person to be summoned is a company or a corporation, the summons may be served on the Director, Manager, or Secretary. In the case of a firm, it can be served on any partner.
+
+* *Example:* A court in **Indore** issues a summons to a firm where **Krishna** is a partner. Service is considered valid if the document is delivered to **Krishna** or sent via registered post to the firm's office in **Indore**.
+
+**3\. Service when Person cannot be found (Section 66\)**
+
+If the person named in the summons cannot be found despite due diligence, the law allows for service on an adult member of the family (male or female) residing with him. A servant is not considered a family member for this purpose.
+
+* *Example:* Officer **Saurabh** goes to serve a summons to **Kanishth** in **Bhopal**, but **Kanishth** is away. **Saurabh** hands the summons to **Kanishth’s** elder brother, **Satyam**, who signs the receipt.
+
+**4\. Service by Affixture (Section 67\)**
+
+If service cannot be effected through the above methods, the officer must affix one of the duplicates to a "conspicuous part" of the house where the person ordinarily resides (usually the front door). The court then decides if the service was sufficient.
+
+**5\. Service on Government Servants (Section 68\)**
+
+If the person is in active government service, the court sends the summons in duplicate to the Head of the Office where the person works. That head is then responsible for serving it and returning it with the person’s signature.
+
+* *Example:* **Sachkeerat** is a government officer in **Amritsar**. The court sends his summons to his superior, who ensures **Sachkeerat** receives it and signs the duplicate.
+
+**6\. Service Outside Local Jurisdiction (Section 69\)**
+
+When a court in Patna needs to serve a summons in Jaipur, it sends the duplicate to a Magistrate in Jaipur, who then directs a local officer to serve it.
+
+**7\. Proof of Service (Section 70\)**
+
+If the serving officer is not present at the hearing, an affidavit stating that the summons was served, along with the signed duplicate, is admissible as evidence of service. Under BNSS, a copy of the electronic summons is also kept as proof.
+
+**Conclusion**
+
+In conclusion, the procedure for the service of summons under the **BNSS 2023** is a blend of traditional safeguards and modern efficiency. By moving from personal delivery by officers like **Raghavendra** to digital service for individuals like **Prateek**, the Sanhita ensures that no one can evade the law by simply "not being home." The clear rules for corporate bodies, family members, and government servants ensure that the legal process remains uninterrupted. These provisions collectively guarantee that every individual involved in a criminal matter in cities from **Lucknow** to **Varanasi** is given a fair notice, thereby protecting the sanctity of the trial and the rights of all citizens.
+
+---
+
+## Q13. Can summons be served on witness by post? If so, how?
+
+**Introduction**
+
+While the traditional method of serving a summons involves personal delivery by a police officer, the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, recognizes the need for faster and more flexible communication in the modern world. Under **Section 71** (which corresponds to Section 69 of the old CrPC), the law explicitly provides for the service of summons on witnesses through the post. This provision is a "supplementary" power, meaning it can be used in addition to the standard methods of service. The rationale behind this is to ensure that witnesses, who are often neutral parties or experts (like doctors or forensic scientists), can be notified of their court dates without the unnecessary burden of multiple police visits. By allowing service by post, the BNSS 2023 streamlines the judicial process in cities like **Lucknow** or **Indore**, ensuring that the absence of a witness does not become a hurdle in the "Nagarik Suraksha" (citizen protection) mission of the State.
+
+**Main Body**
+
+**1\. The Statutory Power: Section 71(1)**
+
+Section 71(1) of the BNSS states that a Court issuing a summons to a witness may, in addition to and simultaneously with the issue of such summons, direct a copy of the summons to be served by Registered Post.
+
+* **Address for Service:** The summons must be addressed to the witness at the place where they:  
+  * Ordinarily reside.  
+  * Carry on business.  
+  * Personally work for gain.  
+* **Modern Addition:** The BNSS 2023 has significantly expanded this to include **electronic communication** (email, messaging apps, etc.) alongside registered post.  
+* *Example:* Judge **Raghavendra** in **Varanasi** needs to summon **Dr. Saurabh**, a medical witness residing in **Bhopal**. While a local officer in **Bhopal** might attempt personal service, the Court simultaneously sends a copy of the summons to **Dr. Saurabh’s** clinic via registered post and his official email.
+
+**2\. When is Service Deemed Sufficient? (Section 71(2))**
+
+The law provides two specific scenarios where the postal service is considered "duly served," even if the witness is not present in court:
+
+* **Acknowledgment Signed:** When the court receives a postal acknowledgment (the "pink slip" or AD card) that appears to be signed by the witness.  
+* **Refusal to Accept:** This is a crucial rule. If the court receives an endorsement from a postal employee stating that the **witness refused to take delivery** of the summons, the court may declare that the summons has been duly served.  
+* *Example:* If **Kanishth** in **Amritsar** sees the court’s letter and tells the postman, "I will not accept this," the postman marks it as "Refused." Under Section 71, Judge **Satyam** will treat this as if **Kanishth** has been officially notified. **Kanishth** cannot later claim he didn't know about the hearing.
+
+**3\. Simultaneous Service Strategy**
+
+The use of the word "simultaneously" in the section means the court doesn't have to wait for personal service to fail before using the post. This "double-track" system ensures that even if a witness like Krishna in Lucknow is not home when the police officer visits, the registered letter waiting at his office or his home will serve as a valid legal notice.
+
+**Conclusion**
+
+In conclusion, the service of summons on a witness by post under **Section 71 of the BNSS 2023** is a practical and effective legal tool. By allowing registered post and electronic communication to be used alongside traditional methods, the Sanhita ensures that witnesses like **Dr. Saurabh** or **Krishna** are reached efficiently. The "Refusal rule" prevents individuals from obstructing the course of justice by simply turning away the postman. This provision upholds the efficiency of the criminal justice system in every district, from **Patna** to **Amritsar**, ensuring that trials proceed on schedule and the rights of both the victim and the accused are protected through a "just, fair, and reasonable" procedure.
+
+---
+
+## Q14. What do you understand by warrant? Explain its kinds in detail.
+
+**Introduction**
+
+While a summons is a mere invitation to appear in court, a "Warrant" is an authoritative command that authorizes the deprivation of a person's liberty to ensure their presence. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, a warrant of arrest is the next stage in the "process to compel appearance" when a summons is either ignored or deemed insufficient. It is a legal document issued by a competent court, directed to a police officer or another person, commanding them to arrest a specific individual and produce them before the court. The rationale behind a warrant is to uphold the majesty of the law; it ensures that an accused person like **Kanishth** cannot stall the wheels of justice by simply staying away. The BNSS 2023 preserves the sanctity of this process while providing clear rules on how a warrant must be formed, to whom it should be directed, and the different "kinds" that allow for varying degrees of flexibility regarding bail.
+
+**Main Body**
+
+**1\. Form and Duration of Warrant (Section 72\)**
+
+According to Section 72 of the BNSS, every warrant of arrest issued by a Court must meet three essential legal requirements:
+
+* **In Writing:** It cannot be a verbal order.  
+* **Signed:** It must be signed by the presiding officer of the Court.  
+* Sealed: It must bear the official seal of the Court.  
+  Duration: Once issued, a warrant does not expire by the passage of time. It remains in force until it is either executed (the person is arrested) or cancelled by the Court that issued it.  
+* *Example:* Judge **Krishna** in **Lucknow** issues a warrant for **Satyam**. Even if Officer **Raghavendra** takes six months to find **Satyam**, the warrant remains legally valid unless Judge **Krishna** withdraws it.
+
+**2\. Kinds of Warrants**
+
+Warrants are primarily classified into two kinds based on the "Endorsement" regarding bail:
+
+* **Bailable Warrant (Section 73):** Under Section 73, a Court may, at its discretion, make an "endorsement" on the warrant. This endorsement states that if the person to be arrested executes a bond with sufficient sureties for their attendance in court, the officer shall release them from custody.  
+  * *Example:* If **Prateek** is accused of a minor offense in **Indore**, the Court might issue a bailable warrant. When Officer **Saurabh** arrests **Prateek**, he informs him of the endorsement. If **Prateek** provides the required security, **Saurabh** must release him immediately without taking him to the station.  
+* **Non-Bailable Warrant (NBW):** If the warrant does not contain such an endorsement, it is a non-bailable warrant. In this case, the arresting officer has no discretion; they must arrest the person and produce them before the court. This is usually issued for serious offenses or when the person has a history of absconding.
+
+**3\. To Whom Directed (Section 74\)**
+
+A warrant is ordinarily directed to one or more police officers. However, if its immediate execution is necessary and no police officer is available, the Court may direct it to any other person.
+
+* *Example:* In a remote area near **Varanasi**, where no police are immediately present, a Magistrate might direct a warrant to **Laukendra**, a respectable local citizen, to arrest an escaped convict.
+
+**4\. Special Warrants by CJM or JMFC (Section 75\)**
+
+Under Section 75, a Chief Judicial Magistrate or a Magistrate of the First Class may direct a warrant to any person within their local jurisdiction for the arrest of:
+
+* An escaped convict.  
+* A proclaimed offender.  
+* A person accused of a non-bailable offense who is evading arrest.
+
+**Conclusion**
+
+In conclusion, a warrant under the **BNSS 2023** is a powerful instrument of judicial authority. By defining the strict form in Section 72 and the various kinds—such as the bailable warrant under Section 73—the law ensures that the power to arrest is used proportionately. For officers like **Sachkeerat** or **Raghavendra**, the warrant provides the legal shield necessary to perform their duty of bringing suspects like **Satyam** to court. Whether it is a bailable warrant allowing for immediate release or a non-bailable one for grave crimes, these "processes" ensure that "Nagarik Suraksha" (citizen protection) is maintained and that no individual can avoid the judicial gaze in cities from **Patna** to **Amritsar**.
+
+---
+
+## Q15. Explain the requirement of a valid warrant.
+
+**Introduction**
+
+A "Warrant of Arrest" is a solemn judicial order that commands the apprehension of an individual. Unlike a summons, which is an invitation to appear, a warrant is an instrument of compulsion that authorizes the interference with a person's fundamental right to liberty. For this reason, the law demands that such a document must be "in order" and strictly comply with specific statutory requirements. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, these requirements are primarily governed by **Section 72** (corresponding to Section 70 of the old CrPC). The rationale behind these strict formalities is to prevent the misuse of power and to ensure that the person being arrested is precisely identified and informed of the charges against them. An "invalid warrant" makes the resulting arrest illegal, potentially leading to the discharge of the accused and legal action against the executing officer.
+
+**Main Body**
+
+For a warrant of arrest to be legally valid and binding in cities like **Lucknow** or **Indore**, it must satisfy the following essential requirements:
+
+**1\. Form and Formalities (Section 72\)**
+
+* **In Writing:** A warrant must be a written document. A Magistrate, such as **Krishna**, cannot orally order a police officer to go and arrest someone under a "warrant"; it must be reduced to a formal paper.  
+* **Signed by the Presiding Officer:** It must be personally signed by the Judge or Magistrate who issues it. A rubber stamp signature or a signature by a court clerk is not sufficient and renders the warrant void.  
+* **Seal of the Court:** The warrant must bear the official seal of the issuing Court. The seal acts as the "authority of the State," proving that the document is a genuine product of the judiciary.  
+  * *Example:* If Judge **Raghavendra** in **Varanasi** issues a warrant for **Satyam** but forgets to put the court's seal on it, Officer **Saurabh** cannot legally execute it. If he does, **Satyam** can challenge the arrest as unconstitutional.
+
+**2\. Particulars of the Accused**
+
+A valid warrant must describe the person to be arrested with reasonable certainty. It should include:
+
+* The **Full Name** of the accused.  
+* **Identification Details:** To avoid cases of mistaken identity, the warrant should mention the father's name, age, and occupation.  
+* **Address:** The place of residence or work must be clearly stated.  
+  * *Example:* A warrant issued in **Bhopal** for "Prateek" without a surname or father's name is dangerously vague. If Officer **Sachkeerat** arrests the wrong **Prateek**, the lack of specific details in the warrant would be the primary legal flaw.
+
+**3\. Statement of the Offence**
+
+The warrant must state the specific "special matter" or the offence for which the person is to be arrested. It should mention the section of the Bharatiya Nyaya Sanhita (BNS) or other laws alleged to have been violated. This fulfills the constitutional requirement of informing the person of the grounds of their arrest.
+
+**4\. Direction to the Executing Officer**
+
+A warrant must be "directed" to a specific person or persons who are to execute it. Usually, it is directed to a police officer. However, in urgent cases where no police are available, a Magistrate can direct it to a private individual like Laukendra. A warrant that is not directed to anyone is essentially an "open" or "general" warrant, which is illegal in Indian law.
+
+**5\. Bailable Endorsement (Section 73\)**
+
+If the court intends to allow the person to be released on bail immediately after arrest, the warrant must contain a "Bailable Endorsement." This must specify the number of sureties, the amount of the bond, and the time at which the person is to attend the court. Without this specific endorsement, the warrant is treated as "Non-Bailable."
+
+**Conclusion**
+
+In conclusion, the requirements of a valid warrant under the **BNSS 2023** serve as a vital safeguard for "Nagarik Suraksha" (citizen protection). By mandating that the document be in writing, signed, and sealed, the law ensures that the gravity of an arrest is reflected in its documentation. Clear identification of the accused and the offence ensures that justice is targeted and transparent. For judicial officers like **Krishna** and police officers like **Saurabh**, a "valid warrant" is the only legal shield that permits the deprivation of liberty. In every jurisdiction from **Patna** to **Amritsar**, strict adherence to these formalities under Section 72 ensures that the rule of law prevails over arbitrary executive action.
+
+---
+
+## Q16. Differentiate between summon and warrant.
+
+**Introduction**
+
+In the criminal justice system, the courts use specific "processes" to ensure that the individuals necessary for a trial—whether they are the accused or witnesses—are present in the courtroom. These processes follow a hierarchy of compulsion. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, categorizes these into two primary instruments: the **Summons** (Sections 63–71) and the **Warrant of Arrest** (Sections 72–83). While both aim to secure personal attendance, they differ fundamentally in their nature, the level of force involved, and the persons to whom they are directed. The rationale for this distinction is the protection of "Nagarik Suraksha" (citizen protection); the law prefers the least intrusive method first. A summons is a "call to appear," while a warrant is an "order to arrest." Under the new Sanhita, the distinction has been further modernized by the inclusion of electronic service for summons, while warrants remain a strictly physical instrument of judicial authority.
+
+---
+
+**Main Body**
+
+The differences between a Summons and a Warrant under the **BNSS 2023** can be understood through the following table:
+
+| Feature | Summons (Sec 63–71) | Warrant of Arrest (Sec 72–83) |
+| :---- | :---- | :---- |
+| **Basic Nature** | A formal document commanding a person to appear before the court. | A judicial order commanding a police officer to arrest and produce a person. |
+| **Object** | Directed to the person whose attendance is required (Accused or Witness). | Directed to a police officer (or another person) for execution. |
+| **Degree of Force** | No force is involved; it is an expectation of voluntary compliance. | Coercive in nature; it authorizes the deprivation of liberty. |
+| **Electronic Service** | **Explicitly allowed** under Section 64 via encrypted email or messaging. | No "electronic warrant"; must be a physical document, though it can be forwarded electronically. |
+| **Duration** | Valid only for the specific date and time mentioned in the document. | Remains in force until it is **executed** or **cancelled** by the issuing court. |
+| **Number of Copies** | Always issued in **duplicate**. | Always issued as a **single** document. |
+
+**Practical Illustration of the Difference**
+
+Imagine a case in **Lucknow** where Judge **Krishna** is presiding.
+
+* **Summons:** If **Prateek** is needed as a witness, **Krishna** issues a summons. Officer **Saurabh** delivers it to **Prateek**. **Prateek** simply signs the copy and is expected to show up on the trial date. If he doesn't, it is a "disobedience of a lawful order."  
+* **Warrant:** If **Kanishth** is an accused who has already ignored three summons, **Krishna** will issue a warrant. This time, **Saurabh** will go to **Kanishth’s** house, take him into physical custody, and bring him directly to the court in **Lucknow**. **Kanishth** has no choice in the matter.
+
+**Authority and Discretion**
+
+Under Section 227 of the BNSS, a Magistrate like Raghavendra in Varanasi has the discretion to choose the process. In "Summons-cases" (minor offenses), he must issue a summons first. In "Warrant-cases" (serious crimes), he may issue a warrant or a summons. However, under Section 90, if the court believes that an accused like Satyam will abscond or ignore a summons, it can issue a "Warrant in lieu of summons," moving directly to the more forceful option to ensure "Nagarik Suraksha."
+
+---
+
+**Conclusion**
+
+In conclusion, the distinction between a summons and a warrant is a cornerstone of a fair "procedure established by law." While a summons respects the dignity and voluntary compliance of citizens like **Prateek**, a warrant serves as a necessary tool for the State to catch those who, like **Kanishth**, attempt to evade justice. The **BNSS 2023** maintains this balance by allowing modern technology to speed up the service of summons while keeping the physical warrants as a serious last resort. Whether it is a polite notice in **Bhopal** or a physical arrest in **Amritsar**, these processes ensure that the court is never left without the people it needs to deliver justice.
+
+---
+
+## Q17. What is the form of warrant?
+
+**Introduction**
+
+A "Warrant of Arrest" is a formal judicial document that carries the highest level of legal compulsion. While a summons is merely an order to appear, a warrant is an instrument of authority that directs a law enforcement officer to physically seize a person and produce them before the Court. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the "Form" of a warrant is not merely a matter of administrative convenience but a strict legal requirement. A warrant that fails to follow the prescribed form is considered "illegal" and any arrest made under it can be challenged in a court of law. The rationale behind such rigid formalities is to protect "Nagarik Suraksha" (citizen protection) by ensuring that the State's power to deprive a person of their liberty is exercised with total transparency and precision. By mandating specific details like the signature of the judge and the court's seal, the Sanhita ensures that the document is authentic and that the accused, like **Kanishth**, is fully aware of why they are being taken into custody.
+
+---
+
+**Main Body**
+
+According to **Section 72** of the BNSS 2023 and the **Second Schedule (Form No. 2\)**, the "Form" of a valid warrant of arrest must satisfy the following essential elements:
+
+**1\. General Requirements (Section 72\)**
+
+* **In Writing:** A warrant must be a written document. A verbal order from a Magistrate, such as **Krishna**, to a police officer to "go and arrest that person" does not constitute a valid warrant.  
+* **Signed by the Presiding Officer:** It must be signed by the Judge or Magistrate personally. A rubber stamp or a digital signature (unless specifically authorized for that class of document) is generally insufficient; the physical signature represents the judge’s application of mind.  
+* **Seal of the Court:** The document must bear the official seal of the issuing Court. This is the ultimate proof of the document’s judicial origin.  
+  * *Example:* If Judge **Raghavendra** in **Lucknow** issues a warrant for **Prateek** but forgets to put the court's seal on it, the warrant is technically incomplete and invalid.
+
+**2\. Specific Contents (Form No. 2, Second Schedule)**
+
+The actual "body" of the warrant must contain specific particulars to avoid any case of mistaken identity:
+
+* **Name and Description of the Accused:** It must state the name, father's name, age, and residence of the person to be arrested. Vague descriptions like "Prateek of Lucknow" are illegal.  
+* **The Specific Offence:** It must clearly state the offence under the **Bharatiya Nyaya Sanhita (BNS)** or other laws that the person is accused of. This is a constitutional right under Article 22\.  
+* **Direction to the Executing Officer:** It must be addressed to a specific person, usually the "Officer in Charge" of a police station.  
+  * *Example:* A warrant in **Bhopal** would be directed to "The Officer-in-Charge, Police Station Arera Hills."
+
+**3\. The Bailable Endorsement (Section 73\)**
+
+If the court chooses to make the warrant "Bailable," it must contain a specific endorsement on the form itself. This includes:
+
+* The number of sureties.  
+* The amount for which they and the person to be arrested are to be bound.  
+* The time at which the person is to attend the court.  
+  * *Example:* If **Saurabh** is arrested in **Indore** on a bailable warrant, the officer sees the endorsement, takes the security, and releases him immediately.
+
+---
+
+**Conclusion**
+
+In conclusion, the "Form" of a warrant under the **BNSS 2023** is the definitive boundary between legal authority and arbitrary detention. By requiring the document to be in writing, signed, and sealed as per Section 72, the law ensures that the gravity of an arrest is respected. The detailed particulars required by Form No. 2 of the Second Schedule ensure that officers like **Raghavendra** or **Saurabh** target the correct individual, thereby preventing the harassment of innocent citizens. Whether it is a non-bailable warrant for a grave crime or a bailable one for a minor offence, the strictness of the "form" remains a primary safeguard for the liberty of every person in cities across India, from **Patna** to **Amritsar**.
+
+---
+
+## Q18. Can a warrant be forwarded for execution outside Jurisdiction?
+
+**Introduction**
+
+A "Warrant of Arrest" is typically executed within the local jurisdiction of the Court that issued it. However, the law recognizes that criminals often cross district or state boundaries to evade justice. To ensure that "Nagarik Suraksha" (citizen protection) is not hindered by administrative borders, the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, provides a specific legal mechanism for the execution of warrants outside jurisdiction. Under **Sections 80 and 81** (corresponding to Sections 78 and 79 of the old CrPC), a warrant can be "forwarded" or "directed" to authorities in another area. This ensures that the "long arm of the law" can reach an accused person like **Kanishth** even if he flees from **Lucknow** to **Mumbai**. The Sanhita balances this power with procedural safeguards, requiring the involvement of local authorities in the destination jurisdiction to maintain legal transparency and accountability.
+
+---
+
+**Main Body**
+
+There are two primary ways a warrant is executed outside the issuing Court’s jurisdiction under the BNSS 2023:
+
+**1\. Forwarding the Warrant (Section 80\)**
+
+Instead of sending its own police officers, a Court may choose to "forward" the warrant to the authorities in the place where the accused is believed to be.
+
+* **To Whom:** The warrant is sent by post or otherwise to an **Executive Magistrate**, **District Superintendent of Police (DSP)**, or **Commissioner of Police** within whose jurisdiction it is to be executed.  
+* **Procedure:** The receiving officer endorses their name on the warrant and causes it to be executed by their local police force.  
+* **Bail Documents:** A modern requirement under Section 80(2) is that the issuing Court must also forward "substance of information" and documents (like the FIR or evidence) to help the local Magistrate decide whether the arrested person should be granted bail.  
+  * *Example:* If a Court in **Varanasi** issues a warrant for **Prateek**, who is currently in **Delhi**, it forwards the warrant to the Commissioner of Police in **Delhi**. The Delhi police then arrest **Prateek** and handle the initial production.
+
+**2\. Warrant Directed to a Police Officer for Execution (Section 81\)**
+
+If a Court directs its own police officer to go and arrest someone outside its jurisdiction, that officer must follow a specific procedure:
+
+* **Endorsement Requirement:** The officer must ordinarily take the warrant to an Executive Magistrate or a police officer (not below the rank of Station House Officer) in the local area where the arrest is to be made.  
+* **Local Assistance:** Once the local official "endorses" (signs) the warrant, it gives the visiting officer the authority to make the arrest. The local police are also duty-bound to assist if requested.  
+* **The "Urgency" Exception (Section 81(3)):** If there is reason to believe that the time taken to get an endorsement will allow the offender to escape, the officer may execute the warrant **without endorsement**.  
+  * *Example:* Officer **Raghavendra** from **Lucknow** tracks **Satyam** to a hotel in **Indore**. If **Raghavendra** thinks **Satyam** is about to board a flight, he can arrest him immediately under the urgency clause of Section 81, without waiting for the Indore police's signature.
+
+---
+
+**Conclusion**
+
+In conclusion, the **BNSS 2023** ensures that geographical boundaries do not provide sanctuary to offenders. By providing the dual methods of "forwarding" under Section 80 and "endorsement" under Section 81, the law facilitates seamless cooperation between different police forces in India. This inter-jurisdictional reach is vital for maintaining "Nagarik Suraksha" in a mobile society. While the law allows for swift action in emergencies, the general requirement for local endorsement or the forwarding of bail-related documents ensures that the rights of the person being arrested—like **Prateek** or **Satyam**—are protected under the oversight of local judicial and executive authorities, regardless of where they are caught.
+
+---
+
+## Q19. What is the procedure when a person against whom a warrant is issued, is arrested?
+
+**Introduction**
+
+The execution of a warrant of arrest is not merely about catching the suspect; it is about ensuring that the person is brought into the judicial fold through a specific legal channel. When a warrant is executed, especially outside the local jurisdiction of the issuing Court, the law must balance the efficiency of the police with the fundamental rights of the arrested person. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the "Procedure on arrest of person against whom warrant issued" is meticulously detailed in **Section 82** (corresponding to Section 80 of the old CrPC). This procedure ensures that no person is held in "legal limbo" and that they are produced before a judicial or executive authority as soon as possible. The rationale is to prevent unauthorized detention and to provide the arrested person with an immediate opportunity to seek bail if the offence permits.
+
+---
+
+**Main Body**
+
+According to **Section 82** of the BNSS, when a warrant of arrest is executed, the following steps must be followed:
+
+**1\. Production before the Nearest Magistrate (Section 82(1))**
+
+When a person is arrested on a warrant, they must be taken before the Court which issued the warrant. However, if the arrest happens outside the district, the person must be taken before:
+
+* An **Executive Magistrate**, or  
+* The **District Superintendent of Police (DSP)**, or  
+* The **Commissioner of Police** within the local limits of whose jurisdiction the arrest was made.
+
+**2\. The "30 Kilometers" Exception**
+
+There is a practical exception to the rule above. The arrested person does not need to be taken before the local Magistrate or DSP if:
+
+* The Court that issued the warrant is within **thirty kilometers** of the place of arrest.  
+* The issuing Court is **nearer** than the local Executive Magistrate or DSP.  
+* *Example:* If **Kanishth** is arrested in a suburb of **Lucknow** that technically falls in a different district, but the issuing Court in **Lucknow** is only 15 km away, Officer **Raghavendra** will take him directly to the **Lucknow** Court instead of looking for a local Magistrate.
+
+**3\. Handling Bailable Warrants (Section 82(1) Proviso)**
+
+If the warrant is bailable (i.e., it contains an endorsement under Section 73\) and the person is ready and willing to give the required security, the local Magistrate or DSP must take the security and release the person. They then forward the bond to the Court that issued the warrant.
+
+**4\. Duty to Inform (Section 82(2) \- New Provision)**
+
+A modern safeguard introduced in the BNSS 2023 is the mandatory duty to share information. The arresting officer must "forthwith" (immediately) give information regarding the arrest and the location of the arrestee to:
+
+* The **Designated Police Officer** in the district of arrest.  
+* The police officer of the **district where the arrested person normally resides**.  
+* *Example:* If **Saurabh**, who lives in **Indore**, is arrested in **Patna** on a warrant, Officer **Sachkeerat** must notify the designated officer in **Patna** and the police station in **Indore** so that **Saurabh’s** family can be informed.
+
+**5\. Procedure by the Magistrate (Section 83\)**
+
+Under Section 83, if the person is not released on bail, the local Magistrate will direct their removal in custody to the issuing Court. If the offence is bailable or if the High Court/Sessions Judge of the local area has given directions, the Magistrate may grant bail locally.
+
+---
+
+**Conclusion**
+
+In conclusion, the procedure following an arrest on a warrant under the **BNSS 2023** is designed to ensure that the "chain of custody" is legally sound and transparent. By mandating production before the nearest authority under Section 82, the law upholds the 24-hour rule and prevents the hazards of unauthorized long-distance travel. The new requirement for inter-district communication ensures that "Nagarik Suraksha" (citizen protection) includes the right of an individual’s family to know their whereabouts. Whether the arrest is made in **Lucknow** or **Amritsar**, these procedures guarantee that suspects like **Kanishth** or **Saurabh** are handled with judicial oversight, ensuring that the promise of a fair trial begins at the very moment the handcuffs are applied.
+
+---
+
+## Q20. When can a Criminal Court issue a search warrant? Or When can a court issue a warrant to compel a person for production of a document which is relevant as evidence in a criminal matter? Under which provision of B.N.S.S., the police can conduct a search without any search warrant from court. Illustrate.
+
+**Introduction**
+
+A "Search Warrant" is a specialized judicial order that authorizes a police officer to enter a private premises to search for specific documents, persons, or things. In the Indian legal system, the sanctity of a person's home and privacy is protected by the Constitution, but this protection is not absolute. When the "interests of justice" outweigh the right to privacy, the Court intervenes by issuing a search warrant. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the power to issue such a warrant is primarily governed by **Section 96** (corresponding to Section 93 of the old CrPC). The rationale is to prevent the suppression of evidence; if a person like **Kanishth** refuses to hand over a vital document, the Court must have the power to "go and get it." Furthermore, the Sanhita recognizes that in urgent situations, waiting for a court warrant might lead to the destruction of evidence, thus granting the police limited powers to search without a warrant under Section 185\.
+
+**Main Body**
+
+**1\. When can a Criminal Court issue a Search Warrant? (Section 96\)**
+
+A Court may issue a search warrant under three specific circumstances:
+
+* **Failure to Produce (Section 96(1)(a)):** Where a Court has reason to believe that a person to whom a summons (under Section 94\) or a requisition (under Section 95\) has been addressed will not or would not produce the document or thing required.  
+* **Possession Unknown (Section 96(1)(b)):** Where the document or thing is not known to the Court to be in the possession of any specific person.  
+* **General Search/Inspection (Section 96(1)(c)):** Where the Court considers that the purposes of any inquiry, trial, or other proceeding will be served by a general search or inspection of a place.  
+  * *Example:* Judge **Krishna** in **Lucknow** issues a summons to **Prateek** to produce a forged sale deed. **Prateek** ignores the summons. Judge **Krishna**, believing **Prateek** is hiding the deed, issues a search warrant to Officer **Raghavendra** to search **Prateek’s** office.
+
+**2\. Compelling Production of Documents (Section 94\)**
+
+Under Section 94, whenever a Court or an Officer in charge of a police station considers that the production of any document or thing is "necessary or desirable" for any investigation or trial, they may issue a summons (if a Court) or a written order (if a police officer) to the person in whose possession the item is believed to be, requiring them to attend and produce it.
+
+**3\. Police Search Without a Warrant (Section 185\)**
+
+Under the BNSS 2023, a police officer does not always need a warrant from a Court to conduct a search. Under Section 185 (old Section 165), an officer in charge of a police station or an investigating officer may conduct a search if:
+
+* They have reasonable grounds to believe that something necessary for the investigation of an offence may be found in any place within the limits of the station.  
+* Delay in obtaining a warrant would lead to the disappearance or destruction of evidence.  
+* **The Safeguard:** The officer must record the "grounds of his belief" in writing before the search.  
+* **New Mandatory Requirement:** Under Section 185(2) and Section 105 of the BNSS, the entire process of search and seizure **must be recorded through audio-video electronic means** (preferably by a mobile phone) and sent to the Magistrate within 48 hours.  
+  * *Illustration:* In **Indore**, Officer **Saurabh** receives a tip that **Satyam** has hidden a blood-stained weapon in his backyard. Believing **Satyam** will bury it if he waits for a warrant from Judge **Raghavendra**, **Saurabh** records his reasons in the case diary and conducts the search immediately, filming the discovery of the weapon on his smartphone.
+
+**Conclusion**
+
+In conclusion, the provisions of the **BNSS 2023** regarding search warrants and police searches reflect a balance between effective investigation and the prevention of police high-handedness. By specifying the three conditions for a warrant under Section 96, the law ensures that judicial authority is not used lightly. The power of the police to search without a warrant under Section 185, though broad, is now tempered by the mandatory requirement of audio-video recording under the new Sanhita. Whether it is Judge **Krishna** issuing a warrant in **Lucknow** or Officer **Saurabh** acting in an emergency in **Indore**, these "procedures established by law" ensure that "Nagarik Suraksha" (citizen protection) is upheld by securing evidence while maintaining transparency in the eyes of the law.
+
+---
+
+## Q21. What is the procedure of searching for a place suspected to contain stolen property?
+
+**Introduction**
+
+The protection of property and the recovery of stolen goods are essential duties of the State to maintain public order and deter crime. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the legal mechanism for searching a specific premises suspected of harboring illegal items is governed by **Section 97** (which corresponds to Section 94 of the old CrPC). A search of this nature is a "directed search," meaning it is not a general hunt but a targeted operation based on specific intelligence. The rationale behind this provision is to disrupt the "supply chain" of criminal activity—such as the storage of stolen jewelry, the production of counterfeit currency, or the hiding of forged documents. By allowing a Magistrate to authorize a search before a regular trial begins, the Sanhita ensures that "Nagarik Suraksha" (citizen protection) is upheld through the swift recovery of property and the apprehension of those who profit from crime.
+
+---
+
+**Main Body**
+
+The procedure for searching a place suspected to contain stolen property involves several strictly regulated steps:
+
+**1\. Authority to Issue the Warrant (Section 97(1))**
+
+A search warrant under this section cannot be issued by just any authority. Only the following Magistrates are empowered to do so:
+
+* **District Magistrate (DM)**  
+* **Sub-divisional Magistrate (SDM)**  
+* **Magistrate of the First Class (JMIC)**  
+  The Magistrate must receive "information" and conduct such "inquiry" as they think necessary to form a "reason to believe" that a place is being used for the deposit, sale, or production of stolen property or objectionable articles.
+
+**2\. Powers Conferred by the Warrant**
+
+Once the warrant is issued, it is directed to a police officer above the rank of a constable. This officer is authorized to:
+
+* **Enter:** Gain entry into the suspected house or building, using force if necessary (free ingress).  
+* **Search:** Conduct a thorough search in the manner specifically described in the warrant.  
+* **Seize:** Take possession of any property reasonably suspected to be stolen or any "objectionable article" found on the premises.  
+* **Arrest:** Take into custody and produce before a Magistrate every person found in the place who appears to have been "privy" (involved or having knowledge) to the storage or sale of such property.  
+  * *Example:* Judge **Krishna** in **Lucknow** receives a tip that a warehouse in **Alambagh** is being used to store stolen car parts. After a brief enquiry, he issues a warrant to Inspector **Saurabh**. **Saurabh** enters the warehouse, seizes the parts, and arrests the manager, **Kanishth**, who was overseeing the facility.
+
+**3\. List of "Objectionable Articles" (Section 97(2))**
+
+This section applies not only to stolen property but also to a specific list of illegal items, including:
+
+* Counterfeit coins or currency notes.  
+* Forged documents and false seals.  
+* Obscene objects (as referred to in Section 294 of the **Bharatiya Nyaya Sanhita**).  
+* Instruments or materials used for the production of these articles.
+
+**4\. Mandatory Videography (New Requirement)**
+
+A significant update in the BNSS 2023 is found in Section 105\. It mandates that the entire process of search and seizure—including the finding of the property and the signatures of witnesses—shall be recorded through audio-video electronic means, preferably by a mobile phone.
+
+**Illustration:** When Officer Saurabh searches the warehouse in Lucknow, he must record the entire process on his smartphone. This video evidence is then forwarded to Magistrate Krishna to ensure that the recovery of the stolen car parts was genuine and transparent.
+
+---
+
+**Conclusion**
+
+In conclusion, the procedure for searching for stolen property under **Section 97 of the BNSS 2023** provides the police with a necessary "surgical" power to recover assets and dismantle criminal dens. By requiring judicial oversight from a Magistrate of the First Class or above, the law prevents the arbitrary invasion of privacy. The modern requirement of audio-video recording under Section 105 acts as a powerful safeguard for citizens like **Prateek**, ensuring that the police, represented by officers like **Saurabh**, act with honesty and accountability. Whether it is recovering stolen gold in **Indore** or counterfeit notes in **Amritsar**, this structured procedure ensures that justice is served and that the rights of property owners are protected through a transparent legal framework.
+
+---
+
+## Q22. Describe the provisions relating to search of persons wrongfully confined.
+
+**Introduction**
+
+The right to personal liberty is a sacred fundamental right under Article 21 of the Constitution, and any illegal restriction of this liberty is a serious offence. While a writ of *Habeas Corpus* is a constitutional remedy used in higher courts, the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, provides a faster, more localized remedy for the rescue of individuals through **Section 100** (corresponding to Section 97 of the old CrPC). This section empowers a Magistrate to issue a search warrant for a person believed to be "wrongfully confined" under circumstances that amount to a criminal offence. The rationale is to provide an immediate "rescue mechanism" that bypassed the delays of a full-scale trial. Often termed as a "mini Habeas Corpus," Section 100 ensures that "Nagarik Suraksha" (citizen protection) is extended to those who are unable to reach the law themselves because they are being held against their will.
+
+---
+
+**Main Body**
+
+**1\. Who can issue the Search Warrant?**
+
+Under Section 100 of the BNSS, the power to issue a warrant for a wrongfully confined person is restricted to senior Magistrates:
+
+* **District Magistrate (DM)**  
+* **Sub-divisional Magistrate (SDM)**  
+* Magistrate of the First Class (JMIC)  
+  A Magistrate of the Second Class does not have the authority to issue this specific warrant.
+
+**2\. Condition Precedent: "Reason to Believe"**
+
+The Magistrate cannot act on mere suspicion or whim. There must be a "reason to believe" that a person is confined under such circumstances that the confinement itself constitutes an offence (like wrongful restraint or kidnapping).
+
+* *Example:* **Prateek** files an application in a court in **Lucknow**, stating that his sister, **Krishna**, is being kept in a locked room by her employer, **Kanishth**, and has not been allowed to leave for ten days. After a quick inquiry, Judge **Saurabh** (JMIC) forms a "reason to believe" that an offence is being committed and issues a search warrant under Section 100\.
+
+**3\. Execution and Procedure of Search**
+
+The person to whom the warrant is directed (usually a police officer) is authorized to search for the confined person in the manner described in the warrant.
+
+* **Provisions of Search Apply:** The general rules of search, such as calling two independent witnesses (Section 103\) and the **mandatory audio-video recording** of the process (Section 105), apply to this search as well.  
+* **Power to Break Open:** If the person in charge of the premises refuses entry, the officer has the legal authority to break open any door or window to rescue the victim.  
+* *Example:* Officer **Raghavendra** reaches the house in **Lucknow**. He records the process on his mobile phone as he enters the premises. He finds **Krishna** locked in a room, rescues her, and documents her condition on video as per the new Sanhita's requirements.
+
+**4\. Production before the Magistrate**
+
+Once the wrongfully confined person is found and rescued, the law is very specific about the next step:
+
+* **Immediate Production:** The person must be taken **immediately** before a Magistrate.  
+* **Discretionary Order:** The Magistrate shall then make such an order as in the circumstances of the case seems proper. This could include sending the person home, to a shelter house, or recording their statement for the main criminal trial.  
+* *Example:* After being rescued, **Krishna** is produced before Judge **Saurabh**. Finding that she is a victim of a crime, **Saurabh** ensures she is safely returned to **Prateek** and orders an FIR to be registered against **Kanishth**.
+
+---
+
+**Conclusion**
+
+In conclusion, Section 100 of the **BNSS 2023** serves as a vital emergency tool in the hands of the district judiciary to protect individual liberty. By allowing Magistrates like **Saurabh** to act swiftly on credible information, the law ensures that victims of wrongful confinement in cities like **Indore** or **Varanasi** are rescued before any further harm occurs. The inclusion of mandatory videography under Section 105 adds a layer of transparency that prevents false claims of police high-handedness. Ultimately, this provision bridges the gap between the police's power to investigate and the court's duty to protect "Nagarik Suraksha," ensuring that the arm of the law reaches into the most private spaces to restore the freedom of a fellow citizen.
+
+---
+
+## Q23. Who can compel restoration of abducted females? Discuss the procedure which will be adopted by him?
+
+**Introduction**
+
+While Section 100 provides a rescue mechanism for anyone wrongfully confined, the law recognizes that women and children are uniquely vulnerable to abduction for specific illegal motives, such as forced marriage, trafficking, or other "unlawful purposes." Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, this specialized power of rescue is governed by **Section 101** (corresponding to Section 98 of the old CrPC). The rationale behind this provision is to act as a fast-track remedy to restore the liberty of females and ensure they are returned to their safe environments or lawful guardians. Unlike a regular trial, which may take months, an order under Section 101 is aimed at the **immediate restoration** of the individual, treating the matter with the urgency it deserves.
+
+---
+
+**Main Body**
+
+**1\. Who Can Exercise This Power?**
+
+Only senior Magistrates are empowered to handle these sensitive cases under Section 101 of the BNSS:
+
+* **District Magistrate (DM)**  
+* **Sub-divisional Magistrate (SDM)**  
+* **Magistrate of the First Class (JMIC)**
+
+**2\. Grounds for Action**
+
+The process begins with a complaint made on oath. The Magistrate must be satisfied that:
+
+* A woman or a female child (under the age of eighteen years) has been abducted or is being unlawfully detained.  
+* The detention is for an **unlawful purpose** (such as exploitation or forced labor).  
+* *Example:* In **Varanasi**, **Prateek** files a complaint on oath before Judge **Krishna** stating that a 16-year-old girl, **Meena**, has been abducted by a local gang for the purpose of being sold into trafficking.
+
+**3\. The Nature of the Order**
+
+Upon being satisfied with the complaint, the Magistrate may make an order for:
+
+* **Immediate Restoration to Liberty:** If the victim is an adult woman.  
+* Restoration to Parents/Guardians: If the victim is a female child under eighteen.  
+  The Magistrate may also order the use of force if necessary to carry out the rescue.
+
+**4\. Mandatory Audio-Video Recording (Section 105\)**
+
+A critical new safeguard in the BNSS 2023 is that any search or seizure conducted to rescue the abducted female must be recorded through audio-video electronic means. This ensures that the rescue is documented, preventing any allegations of police misconduct or procedural lapses.
+
+* *Example:* Officer **Saurabh** tracks down **Meena** in **Amritsar**. As he enters the premises to rescue her, he records the entire operation on a mobile phone. This recording serves as proof of the rescue and the condition in which **Meena** was found.
+
+---
+
+**Conclusion**
+
+In conclusion, **Section 101 of the BNSS 2023** provides a powerful shield for the protection of women and children in India. By focusing on "immediate restoration," the law bypasses procedural delays to prioritize human safety. The inclusion of modern technology via Section 105 reflects a 21st-century approach to "Nagarik Suraksha," ensuring that the rescue of vulnerable individuals like **Meena** is both transparent and legally sound. Whether it is a District Magistrate in **Lucknow** or a JMIC in **Indore**, the power to compel the restoration of abducted females ensures that the State remains the ultimate guardian of those most at risk.
+
+---
+
+## Q24. When can a police officer search a place within the limits of his own police station? What are the conditions of search?
+
+**Introduction**
+
+While specific warrants exist for stolen goods or confined persons, the law also provides a set of universal rules that apply to *every* search conducted by the authorities. These "General Provisions" ensure that a search is not a chaotic or private affair, but a disciplined legal procedure. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, these rules are found in **Sections 102 to 104**. The rationale is to protect the rights of the occupant while ensuring the integrity of the evidence. By mandating the presence of witnesses and providing for "free ingress," the law ensures that the search is transparent. Furthermore, the BNSS has introduced a revolutionary "Miscellaneous" provision in **Section 105**, which makes audio-video recording mandatory, bridging the gap between traditional policing and 21st-century technology for "Nagarik Suraksha" (citizen protection).
+
+---
+
+**Main Body**
+
+### **General Provisions Relating to Searches (Sections 102–104)**
+
+**1\. Direction of Search Warrants (Section 102\)**
+
+This section clarifies that the general rules governing "Warrants of Arrest" (such as who they are directed to and how they are forwarded) also apply to "Search Warrants." This ensures consistency in how judicial orders are handled across district lines.
+
+**2\. Procedure for Searching a Closed Place (Section 103\)**
+
+This is the most practical part of search law. It requires:
+
+* **Free Ingress:** Any person in charge of a closed place (like a house or office) must allow the officer entry upon being shown the warrant. If entry is refused, the officer may "break open" the door.  
+* **Presence of Witnesses:** The officer **must** call upon two or more independent and respectable inhabitants of the locality to witness the search. The search must be conducted in their presence.  
+* **The Search List (Seizure Memo):** A list of all things seized and the places where they were found must be prepared. This list must be signed by the witnesses. A copy of this list **must** be given to the occupant.  
+* *Example:* Officer **Saurabh** searches **Kanishth’s** home in **Indore**. He asks two neighbors, **Prateek** and **Krishna**, to watch. **Saurabh** lists every item found, and **Prateek** and **Krishna** sign the list to confirm no evidence was "planted."
+
+**3\. Disposal of Things Found Beyond Jurisdiction (Section 104\)**
+
+When a search is conducted outside the district of the issuing court, the seized items, along with the list, must be taken immediately before the Court that issued the warrant, or a local Magistrate if the issuing Court is far away.
+
+---
+
+### **Mandatory Recording of Search and Seizure (Section 105\)**
+
+The **BNSS 2023** has introduced a landmark provision in **Section 105** that fundamentally changes how police investigations are conducted in India.
+
+**1\. Mandatory Audio-Video Recording**
+
+Section 105 mandates that the entire process of conducting a search or taking possession of any property shall be recorded through any audio-video electronic means, preferably by a mobile phone.
+
+* **Scope:** This includes the preparation of the seizure list and the signing of the list by the witnesses.  
+* **The Rationale:** This move aims to eliminate allegations of police misconduct, "planting" of evidence, or coercion of witnesses. It provides "digital footprints" of the truth for the Court.
+
+**2\. Timeline for Submission**
+
+To prevent digital tampering, the law requires that the recording be forwarded to the Magistrate (District, Sub-divisional, or First Class) without delay. In cases where a search is conducted with a warrant, the recording must typically be submitted within 48 hours.
+
+* *Example:* When Officer **Raghavendra** in **Lucknow** recovers a stolen vehicle, he records the entire recovery on his smartphone. He captures the engine number, the location, and the witnesses signing the memo. He then uploads or submits this video to Judge **Krishna**'s court immediately.
+
+---
+
+**Conclusion**
+
+In conclusion, the general provisions under **Sections 102 to 105 of the BNSS 2023** represent a significant step toward a more transparent criminal justice system. While Sections 102–104 preserve the time-tested safeguards of witness presence and official lists, Section 105 acts as a modern "electronic witness." This synergy ensures that whether it is a routine search in **Patna** or a high-stakes seizure in **Amritsar**, the procedure remains "just, fair, and reasonable." For citizens like **Prateek** or **Kanishth**, these laws ensure that their privacy is only invaded under the strict gaze of both human witnesses and digital cameras, upholding the true spirit of "Nagarik Suraksha."
+
+---
+
+## ~~Q26. What is the procedure of arrest and what are the duties of the arresting officer under the Section 36 of Bharatiya Nagarik Suraksha, 2023? State whether a police officer can arrest the person who complies with the terms of the notice under 35 (3) to (6). (2024)~~
+
+---
+
+# UNIT-III: Inquiries Procedure

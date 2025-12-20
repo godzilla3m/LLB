@@ -2530,7 +2530,7 @@ The philosophy of "prevention is better than cure" is deeply embedded in the cri
 
 The preventive measures in Chapter IX are divided into two main categories: bonds for keeping the peace and security for good behavior.
 
-1\. Bond for Keeping Peace in Other Cases (Section 126\)
+**1\. Bond for Keeping Peace in Other Cases (Section 126\)**
 
 Unlike Section 125 (which applies after conviction), Section 126 allows an Executive Magistrate to act when no crime has yet been proven, but a breach of peace is apprehended.
 
@@ -2540,7 +2540,7 @@ Unlike Section 125 (which applies after conviction), Section 126 allows an Execu
 
 *Example:* In **Lucknow**, **Prateek** and **Kanishth** have a heated dispute over a boundary wall. The local police report that they are likely to fight. Magistrate **Raghavendra** issues a notice to both, requiring them to execute a bond for keeping the peace for six months to ensure the situation doesn't turn violent.
 
-2\. Security for Good Behaviour (Sections 127–129)
+**2\. Security for Good Behaviour (Sections 127–129)**
 
 Security for good behavior is more stringent and is directed at specific categories of people whose conduct suggests a higher risk to society.
 

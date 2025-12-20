@@ -1,12 +1,3 @@
-# Table of contents
-- [Table of contents](#table-of-contents)
-- [Syllabus](#syllabus)
-  - [Unit I: Introduction:](#unit-i-introduction)
-  - [Unit II: Pre-Trial Procedure:](#unit-ii-pre-trial-procedure)
-  - [Unit III: Inquiries Proceduré](#unit-iii-inquiries-proceduré)
-  - [Unit IV: Public Order and Alimony:](#unit-iv-public-order-and-alimony)
-- [Cheat Sheet](#cheat-sheet)
-
 # Syllabus
 
 ## Unit I: Introduction:

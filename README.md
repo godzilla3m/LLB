@@ -1,10 +1,50 @@
-# LLB
-PYQs and may be more
 # Table of contents
 - [Table of contents](#table-of-contents)
-- [BNSS-I Comprehensive Cheat Sheet](#bnss-i-comprehensive-cheat-sheet)
+  - [Syllabus](#syllabus)
+    - [Unit I: Introduction:](#unit-i-introduction)
+    - [Unit II: Pre-Trial Procedure:](#unit-ii-pre-trial-procedure)
+    - [Unit III: Inquiries Proceduré](#unit-iii-inquiries-proceduré)
+    - [Unit IV: Public Order and Alimony:](#unit-iv-public-order-and-alimony)
+  - [Cheat Sheet](#cheat-sheet)
 
-# BNSS-I Comprehensive Cheat Sheet
+## Syllabus
+
+### Unit I: Introduction:
+
+1\. History, Objective, Scope and Extent of the Act (Section 1-5)  
+2\. Definitions, Constitution of Criminal Courts and Offices (Section 6-20),   
+3\. Powers of Courts (Section 21-29).  
+4\. Powers of Superior Officers of Police and Aid to the Magistrates and Police (Section 30-34)
+
+### Unit II: Pre-Trial Procedure:
+
+5\. Arrest of Persons (Section 35-62),  
+6\. Processes to Compel Appearance through Summons Warrant of arrest and  
+7\. Proclamation and Attachment (Section 63-93),   
+8\. Process to compel the production of things through Summons Search Warrants and Miscellaneous including Seizure,   
+9\. Attachment and Forfeiture of property (Section 94-124),   
+10\. Preventive Action of the Police (Section 168-172),   
+11\. Information to the Police and their Powers to Investigate (Section 173-196)
+
+### Unit III: Inquiries Proceduré
+
+12\. Jurisdiction of the Criminal Courts in Inquiries and Trials (Section 197-209),  
+13\. Conditions Requisite for initiation of proceedings (Section 210-222),   
+14\. Complaints to Magistrate (Section 223-226),  
+15\. Commencement of Proceedings before Magistrate (Section 227-233)
+
+### Unit IV: Public Order and Alimony:
+
+16\. Security for keeping the peace and for good behaviour (Section 125-143),   
+17\. Order for Maintenance of Wives, Children and Parents (Section 144-147),  
+18\. Maintenance of Public order and Tranquility (Section 148-167),  
+19\. Preventive Action of the Police (Section 168-172)
+
+Acts: The Bharatiya Nagarik Suraksha Sanhita, 2023  
+
+---
+
+## Cheat Sheet
 
 | Sr No. | Topic | Sections | Short Explanation | Examples |
 | :---- | :---- | :---- | :---- | :---- |
@@ -31,4 +71,6 @@ PYQs and may be more
 | 17 | **Maintenance (Alimony)** | 144–147 | Support for wives, kids, and parents who can't maintain themselves (Old Sec 125). | In **Shimla**, a court orders **Prateek** to pay monthly maintenance to his dependent parents. |
 | 18 | **Public Order/Tranquility** | 148–167 | Handling unlawful assemblies and public nuisances (Old Sec 144). | To stop a violent protest in **Ranchi**, the Magistrate prohibits the gathering of crowds in the area. |
 | 19 | **Preventive Action (Police)** | 168–172 | *Repeated in syllabus*: Focuses on police duty to prevent injury to public property. | **Krishna** (police) prevents **Kanishth** from damaging a public park in **Guwahati** during a protest. |
+
+---
 

@@ -2456,3 +2456,815 @@ This video is relevant because it provides a clear explanation of Section 232 of
 
 # UNIT-IV
 
+1\. Write Short notes on: 'security for keeping the Peace on conviction.
+
+2\. Write Short notes on: 'security for good behaviour from suspected persons?
+
+3\. Write Short notes on: 'Security for unexpired Period of bond.
+
+4\. Write Short notes on: What are the situations under which a wife is not entitled to get maintenance under the law?
+
+5\. Write Short notes on: Enforcement of the Order of Maintenance.
+
+~~6\. What is Investigation of Crime? How does it differ from inquiry? Discuss the main stages of the investigation as contained in the Provisions of the Bhartiya Nagrik Suraksha Sanhita, 2023\. (2024)~~
+
+7\. Difference between Inquiry and Investigation
+
+(2019)
+
+---
+
+Long Answer Type Question
+
+---
+
+## Q1. Discuss the procedure for security for keeping the peace on conviction.
+
+**Security for Keeping the Peace on Conviction**
+
+**Introduction**
+
+The primary objective of the criminal justice system is not just to punish offenders but also to prevent future crimes and maintain public tranquility. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, specific provisions are laid out for "preventive justice." One of the most significant provisions is **Section 125** (corresponding to Section 106 of the old CrPC), which deals with "Security for keeping the peace on conviction." This section empowers the judiciary to demand a legal guarantee from a convicted person that they will not disturb the peace for a specified period after their sentence. The rationale is to suppress the criminal tendencies of an individual who has already shown a propensity for violence or disorder. By requiring a bond, the law ensures that "Nagarik Suraksha" (citizen protection) continues even after the immediate punishment for an offence has been served.
+
+**Main Body**
+
+The procedure for taking security for keeping the peace on conviction follows strict judicial guidelines:
+
+* **Competent Courts:** Only high-level trial courts are empowered to pass such orders. These include the **Court of Session** or the **Court of a Magistrate of the First Class**. Additionally, an Appellate Court or a Court exercising powers of revision can also make such an order when upholding or modifying a conviction.  
+* **Offences Requiring Security:** Not every conviction triggers this provision. It applies to offences that involve a threat to public peace, specifically:  
+  * Offences under **Chapter XI** of the **Bharatiya Nyaya Sanhita (BNS), 2023** (Offences against Public Tranquility).  
+  * Offences involving **assault**, **criminal force**, or **mischief**.  
+  * Offences of **criminal intimidation**.  
+  * Any other offence which caused, or was intended/likely to cause, a breach of peace.  
+* **The Procedure:** The order is passed "at the time of passing sentence.” The court must form an opinion that it is necessary to take security from the offender to ensure they do not repeat the behavior.  
+* *Example:* **Kanishth** is convicted by a Magistrate in **Patna** for using criminal force against **Krishna** during a public gathering. At the time of sentencing **Kanishth** to six months in jail, Judge **Raghavendra** also orders him to execute a bond for keeping the peace for two years after his release.  
+* **Nature of the Bond:** The offender is required to execute a bond, with or without **sureties**. A surety is a person who guarantees the offender's good behavior and agrees to pay a penalty if the peace is breached.  
+* *Example:* **Kanishth** asks his friend **Prateek** to stand as his surety in the **Patna** court. **Prateek** signs the bond, promising that **Kanishth** will maintain peace in the neighborhood of **Kankarbagh**.  
+* **Duration:** The period for which such security can be demanded cannot exceed **three years**.  
+* **Effect of Appeal:** If the underlying conviction is set aside on appeal or otherwise, the bond automatically becomes **void**.  
+* *Example:* If **Kanishth** appeals his conviction to the Sessions Court and Judge **Saurabh** acquits him, the peace bond signed by **Kanishth** and **Prateek** becomes legally invalid immediately.
+
+**Conclusion**
+
+In conclusion, **Section 125 of the BNSS 2023** serves as a vital tool for judicial oversight of convicted individuals. By allowing courts like those in **Patna** or **Lucknow** to demand security, the law creates a legal deterrent against recidivism. It bridges the gap between punishment and rehabilitation by placing a financial and moral obligation on the offender to remain peaceful. For citizens like **Krishna** and **Satyam**, this provision offers a sense of security, knowing that even after a criminal like **Kanishth** has served his time, the law continues to watch over his conduct to prevent a breach of public tranquility. This procedure is a cornerstone of the State's mission to ensure a safe and orderly society.
+
+[Security for Keeping Peace and Good Behaviour under BNSS, 2023](https://www.youtube.com/watch?v=1w6FY0kxhqE)
+
+This video is relevant as it provides a clear legal explanation of the preventive measures under BNSS 2023, specifically focusing on the sections related to keeping the peace and ensuring good behavior in society.
+
+---
+
+## Q2. Discuss the preventive measures provided in Chapter IX of the new Bharatiya Nagarik Suraksha Sanhita mentioning provisions relating to (i) bond for keeping peace, (ii) security for good behaviour.
+
+Or
+
+Explain the procedure adopted by the Magistrate under B.N.S.S. relating to security for keeping the peace and for good behaviour. (2022)
+
+**Preventive Measures under Chapter IX of BNSS 2023**
+
+**Introduction**
+
+The philosophy of "prevention is better than cure" is deeply embedded in the criminal justice system through the power of preventive justice. While most laws deal with punishment after a crime is committed, **Chapter IX of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 (Sections 125 to 143\)**, focuses on stopping potential crimes before they happen. This chapter empowers Magistrates to take security from individuals who are likely to disturb the peace or who have a track record of criminal behavior. The objective is not to punish but to safeguard the community. By requiring a person to execute a bond, the law places them under a legal obligation to maintain order. This chapter is a vital tool for "Nagarik Suraksha" (citizen protection), ensuring that public tranquility is maintained in every corner of India, from **Lucknow** to **Bhopal**.
+
+**Main Body**
+
+The preventive measures in Chapter IX are divided into two main categories: bonds for keeping the peace and security for good behavior.
+
+1\. Bond for Keeping Peace in Other Cases (Section 126\)
+
+Unlike Section 125 (which applies after conviction), Section 126 allows an Executive Magistrate to act when no crime has yet been proven, but a breach of peace is apprehended.
+
+* **Trigger:** The Magistrate must receive information that a person is likely to commit a breach of peace or disturb public tranquility.  
+* **Procedure:** The Magistrate issues a "show cause" notice, asking the person why they should not be required to sign a bond.  
+* **Duration:** The security can be demanded for a period not exceeding **one year**.
+
+*Example:* In **Lucknow**, **Prateek** and **Kanishth** have a heated dispute over a boundary wall. The local police report that they are likely to fight. Magistrate **Raghavendra** issues a notice to both, requiring them to execute a bond for keeping the peace for six months to ensure the situation doesn't turn violent.
+
+2\. Security for Good Behaviour (Sections 127–129)
+
+Security for good behavior is more stringent and is directed at specific categories of people whose conduct suggests a higher risk to society.
+
+* **Section 127 (Disseminating Certain Matters):** This applies to persons spreading seditious matters, content that promotes enmity between groups, or defamatory matter concerning a Judge. The duration is up to **one year**.  
+  *Example:* **Satyam** is found distributing pamphlets in **Varanasi** that incite communal tension. Magistrate **Saurabh** can require him to provide security for his good behavior for a year.  
+* **Section 128 (Suspected Persons):** This targets individuals who are found taking precautions to conceal their presence within the Magistrate's jurisdiction with a view to committing a cognizable offence. The duration is up to **one year**.  
+  *Example:* **Laukendra** is spotted hiding in an abandoned building in **Indore** at midnight with house-breaking tools. Magistrate **Krishna** can demand security for his good behavior.  
+* **Section 129 (Habitual Offenders):** This is the most serious preventive measure. It applies to people who are habitual robbers, house-breakers, thieves, or those who commit offences involving a breach of peace repeatedly.  
+* **Duration for Habitual Offenders:** Because of their history, the security can be demanded for a period up to **three years**.  
+  *Example:* **Sachkeerat** has been arrested multiple times for snatching in **Amritsar**. To protect the citizens, Magistrate **Satyam** orders him to execute a bond for good behavior for three years.
+
+**Conclusion**
+
+In conclusion, the preventive measures provided in **Chapter IX of the BNSS 2023** are essential for maintaining public order and tranquility. By providing a graduated system of bonds—from simple peace bonds under Section 126 to long-term security for habitual offenders under Section 129—the law ensures that the State can respond proportionately to different levels of threat. For citizens like **Krishna** and **Prateek**, these provisions act as a silent shield, preventing potential harm before it occurs. Whether it is a local dispute in **Lucknow** or a habitual offender in **Amritsar**, the judicial and executive oversight provided by these sections ensures that "Nagarik Suraksha" remains the highest priority of the Indian legal system.
+
+[BNSS: Security for Keeping the Peace & Good Behaviour | Sections 125-143 Explained By Rekha Mam](https://www.youtube.com/watch?v=mWn57iO8dow)
+
+This video is relevant as it provides a deep dive into the specific sections of the BNSS that deal with security measures aimed at maintaining peace and ensuring good behavior in society.
+
+---
+
+## Q3. 'A' a person has been reported to be of bad character and has been arrested for executing a bond for maintaining good behaviour. On inquiry the allegations are found incorrect. Will he still be required to execute the bond for keeping peace?
+
+**Discharge of a Person When Allegations are Incorrect**
+
+**Introduction**
+
+The preventive provisions of the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, are designed to be a shield for society, not a sword for the harassment of individuals. When a Magistrate initiates proceedings for a bond—whether for keeping the peace or for good behavior—it is based on "information" that must be tested through a formal judicial inquiry. **Section 135** of the BNSS (corresponding to Section 116 of the old CrPC) mandates that the Magistrate must inquire into the truth of the information. If, after this inquiry, the allegations are found to be baseless or incorrect, the law provides a mandatory exit route. The rationale is to uphold "Nagarik Suraksha" (citizen protection) by ensuring that the liberty of a person is not curtailed unless there is proven necessity. In the specific case where an allegation of bad character is found incorrect, the Magistrate cannot arbitrarily demand a different kind of security, as each bond requires its own specific legal justification.
+
+**Main Body**
+
+The legal position regarding the scenario where allegations are found incorrect is governed by **Section 137** of the BNSS (corresponding to Section 118 of the old CrPC):
+
+**1\. Mandatory Discharge (Section 137\)**
+
+If, upon the completion of an inquiry under Section 135, it is not proved that it is necessary for keeping the peace or maintaining good behavior that the person should execute a bond, the Magistrate is legally bound to:
+
+* Make an entry on the record to that effect.  
+* If the person is in custody only for the purposes of the inquiry, **release him** immediately.  
+* If the person is not in custody, **discharge him**.
+
+*Example:* **Kanishth** is reported to be a person of bad character (a habitual offender) in **Patna**. He is arrested and brought before Magistrate **Raghavendra** to show cause why he should not execute a bond for good behavior under **Section 129**. After conducting an inquiry and hearing witnesses like **Prateek** and **Krishna**, **Raghavendra** finds that the allegations against **Kanishth** were based on a personal grudge and are factually incorrect. Under Section 137, **Raghavendra** must discharge **Kanishth** immediately.
+
+**2\. Prohibition on Switching the Bond**
+
+A Magistrate cannot demand a "Bond for Keeping Peace" (Section 126\) if the inquiry was for a "Bond for Good Behavior" (Section 129\) and the allegations failed. Each section has different legal requirements:
+
+* **Section 126 (Peace Bond):** Requires a likelihood of a breach of peace or disturbance of public tranquility.  
+* Section 127–129 (Good Behavior Bond): Requires the person to be a suspected person, a habitual offender, or one disseminating seditious matters.  
+  If the specific information that led to the inquiry (bad character) is found false, the Magistrate cannot "guess" that the person might still break the peace. A fresh "reason to believe" would be required for a peace bond, supported by fresh information.
+
+**3\. Judicial Application of Mind**
+
+The courts have consistently held that these preventive sections are not to be used to keep "suspected" people in jail indefinitely. If Satyam is falsely accused by Saurabh of being a habitual thief, and the inquiry proves Satyam is a respectable citizen of Indore, the Magistrate Krishna has no jurisdiction to keep him under any bond.
+
+*Example:* If **Kanishth** is cleared of the "bad character" charge, Magistrate **Raghavendra** cannot say, "Since you are already here, sign a peace bond anyway." This would be an illegal exercise of power.
+
+**Conclusion**
+
+In conclusion, the law is very clear: if the allegations of bad character against a person are found incorrect during a judicial inquiry, the person **cannot** be required to execute a bond for keeping the peace or any other purpose. **Section 137 of the BNSS 2023** acts as a vital check on executive and judicial power, ensuring that once the "information" is proven false, the person's liberty is restored immediately. This prevents individuals like **Kanishth** or **Satyam** from being victimized by the system. For every resident in cities like **Lucknow** or **Patna**, this provision ensures that the preventive powers of the Magistrate are used strictly according to the "procedure established by law," maintaining the delicate balance between public order and individual freedom.
+
+---
+
+## Q4. Is it discretionary to accept or reject a surety offered by a person for purposes of bond? What legal consequences would follow if there is a default of Security?
+
+**Discretion to Accept or Reject Sureties and Consequences of Default**
+
+**Introduction**
+
+The effectiveness of a "Preventive Bond" depends entirely on the reliability of the "Surety"—the person who guarantees the good behavior of the individual. If a surety is a person of straw or a criminal themselves, the bond becomes a meaningless piece of paper. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the Magistrate is given the power to scrutinize the fitness of a surety under **Section 140** (corresponding to Section 121 of the old CrPC). Furthermore, the law prescribes serious consequences if a person fails to provide the required security. This is governed by **Section 141** (corresponding to Section 122 of the old CrPC). The rationale is to ensure that "Nagarik Suraksha" (citizen protection) is not compromised by unreliable guarantees. The Magistrate's power is not arbitrary; it is a "judicial discretion" that must be exercised through a proper inquiry to balance public safety with individual liberty.
+
+**Main Body**
+
+**1\. Is it Discretionary to Accept or Reject a Surety? (Section 140\)**
+
+Yes, it is discretionary, but it is a regulated discretion. A Magistrate may refuse to accept any surety or reject one previously accepted if they believe the person is "unfit." However, the following procedure must be followed:
+
+* **Mandatory Inquiry:** Before rejecting a surety, the Magistrate must hold an inquiry on oath themselves or ask a subordinate Magistrate to do so and submit a report.  
+* **Notice Requirement:** The Magistrate must give reasonable notice to the surety and the person who offered the surety before holding the inquiry.  
+* **Basis of Fitness:** Fitness is not just about financial capacity. It also includes the moral character of the surety and their ability to exercise control over the person for whom they are standing guarantee.  
+  *Example:* **Kanishth** is ordered to provide a surety for his good behavior in **Lucknow**. His friend **Saurabh** offers to be the surety. Magistrate **Raghavendra** discovers that **Saurabh** himself has multiple pending criminal cases. After holding an inquiry, **Raghavendra** rejects **Saurabh** as an "unfit person" because he cannot be expected to ensure **Kanishth's** good behavior.
+
+**2\. Legal Consequences of Default of Security (Section 141\)**
+
+If a person like Prateek or Kanishth is ordered to give security but fails to do so on or before the date the period commences, the legal consequences are severe:
+
+* **Commitment to Prison:** The person shall be committed to prison until the period expires or until they provide the security to the Court.  
+* **Nature of Imprisonment:** \* If the security was for **Keeping the Peace** (Section 125/126), the imprisonment shall be **Simple**.  
+  * If the security was for **Good Behavior**, the imprisonment can be **Rigorous or Simple**, as the Court directs.  
+* *Example:* **Sachkeerat** is a habitual offender in **Amritsar**. He is ordered to give security for three years but fails to find a surety. Magistrate **Satyam** commits him to **Rigorous Imprisonment** for the duration of the bond period.
+
+**3\. Limitation on Imprisonment**
+
+The period of imprisonment for default cannot exceed the period for which the security was originally demanded. If Laukendra was asked for a one-year bond, he cannot be kept in jail for more than one year for failing to provide it.
+
+**Conclusion**
+
+In conclusion, the power of a Magistrate to reject a surety under **Section 140 of the BNSS 2023** is a vital "gatekeeping" function. It ensures that only responsible and fit individuals like **Krishna** or **Satyam** stand as guarantees for public peace. While the discretion is broad, the requirement of a mandatory inquiry ensures it is not used unfairly. On the other hand, the consequence of imprisonment under **Section 141** serves as a strong deterrent, emphasizing that the Court’s order for a bond is a serious legal mandate. For the residents of cities like **Lucknow** and **Amritsar**, these provisions ensure that "Nagarik Suraksha" is maintained by holding individuals accountable to the promises made to the State.
+
+---
+
+## Q5. It is entirely within the discretion of the Chief Judicial Magistrate to determine when and under what circumstances he should release persons imprisoned for failing to give security. Discuss.
+
+**Power to Release Persons Imprisoned for Failing to Give Security**
+
+**Introduction**
+
+The preventive justice system in India is designed to maintain order, but it also contains built-in "mercy" provisions to ensure that detention is not unnecessarily prolonged. When a person is imprisoned for failing to provide security for keeping the peace or good behavior, they are not serving a sentence for a crime but are being detained to prevent a potential threat. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the power to release such individuals is governed by **Section 142** (corresponding to Section 123 of the old CrPC). This section grants significant discretionary power to the **Chief Judicial Magistrate (CJM)** and the **District Magistrate (DM)**. The rationale is that if the threat to society has diminished or if the detention is no longer required, the head of the district's judiciary or executive should have the authority to restore the person’s liberty. This ensures that "Nagarik Suraksha" (citizen protection) is balanced with the fundamental right to freedom.
+
+**Main Body**
+
+The discretion of the Chief Judicial Magistrate (and the District Magistrate) under Section 142 of the BNSS is broad but is guided by specific legal principles:
+
+**1\. The Ground of "No Hazard" to the Community**
+
+The primary condition for exercising this discretion is the official "opinion" of the Magistrate. Whenever the CJM (in judicial cases) or the DM (in executive cases) is of the opinion that a person imprisoned for failing to give security can be released without hazard to the community or to any other person, they may order their release.
+
+* *Example:* **Kanishth** was imprisoned in **Patna** for failing to provide a bond for good behavior after a neighborhood fight. After three months, Magistrate **Raghavendra** (CJM) reviews the case and finds that the local tension has vanished and **Kanishth’s** family has promised to keep him away from trouble. Finding no "hazard" to the community, **Raghavendra** orders his release.
+
+**2\. Power to Discharge or Reduce Security**
+
+The discretion is not limited to a "yes or no" decision. The CJM or DM has the power to:
+
+* **Discharge** the person entirely.  
+* **Reduce the amount** of the security required.  
+* **Reduce the number of sureties** or the period of the bond.  
+* *Example:* **Satyam** is in jail in **Indore** because he couldn't find two sureties for a bond of ₹50,000. CJM **Krishna** may decide that one surety and a bond of ₹10,000 is sufficient and release him once those new terms are met.
+
+**3\. Conditional vs. Unconditional Release**
+
+The Magistrate may direct the discharge of the person either unconditionally or upon any conditions which the person accepts. If a conditional release is granted, the person must follow those rules (e.g., reporting to a police station every week).
+
+* *Example:* **Sachkeerat** is released from an **Amritsar** jail by CJM **Satyam** on the condition that he does not enter the local market area for six months. If **Sachkeerat** agrees and follows this, he remains free.
+
+**4\. Power to Cancel the Release (The "Check" on Discretion)**
+
+The discretion is not final. If the person violates the conditions of their release, the CJM or DM can cancel the order of discharge. The person can then be arrested without a warrant and sent back to prison for the unexpired portion of the original term.
+
+* *Example:* If **Sachkeerat** is caught in the restricted market area in **Amritsar**, Officer **Saurabh** can arrest him immediately. CJM **Satyam** will then cancel his discharge and send him back to prison.
+
+**5\. Distinguishing DM and CJM Powers**
+
+Under the BNSS, the District Magistrate exercises this power if the original order for security was passed by an Executive Magistrate. The Chief Judicial Magistrate exercises it if the order was passed by any other (Judicial) Court.
+
+**Conclusion**
+
+In conclusion, the discretion vested in the Chief Judicial Magistrate under **Section 142 of the BNSS 2023** is a critical safety valve in the preventive justice system. It prevents the law from becoming an instrument of indefinite detention for the poor or those who lack social connections to find sureties. By allowing for a "no hazard" assessment, the law ensures that individuals like **Kanishth** or **Satyam** are not kept in jails in **Patna** or **Indore** longer than necessary. While the power is "entirely within the discretion" of the Magistrate, it must be exercised based on the objective reality of public safety. This balance between the State’s power to detain and the Magistrate’s power to release is the essence of a "just, fair, and reasonable" procedure under the Sanhita.
+
+---
+
+## Q6. Write a short note on Security for an unexpired period of bond.
+
+**Security for an Unexpired Period of Bond**
+
+**Introduction**
+
+The continuity of a preventive bond is essential to ensure that the period of "good behavior" or "keeping the peace" determined by the Court is fully observed. However, circumstances often change during the term of a bond—a surety may die, become insolvent, or simply wish to be relieved of their responsibility. In such cases, the law must ensure that the individual does not remain "unsecured" for the remainder of the term. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the provision for "Security for an unexpired period of bond" is handled through **Sections 140 and 143** (corresponding to Sections 121 and 124 of the old CrPC). The rationale is to maintain "Nagarik Suraksha" (citizen protection) by ensuring that a gap in security does not occur, while also respecting the right of a surety to withdraw from a legal obligation.
+
+---
+
+**Main Body**
+
+The procedure for obtaining security for the remaining or unexpired period of a bond arises in three primary situations:
+
+1\. Death or Insolvency of a Surety (Section 140\)
+
+If a surety who guaranteed the behavior of a person like Prateek dies, or if they are declared insolvent by a court, the original bond becomes weak.
+
+* **Procedure:** The Magistrate who took the original bond (e.g., Magistrate **Raghavendra** in **Lucknow**) may order the person (**Prateek**) to furnish fresh security.  
+* **The Order:** The person is required to provide a new surety for the "unexpired portion" of the original period.  
+* **Default:** If the fresh security is not provided, the Magistrate may deal with the person as if they had defaulted on the original bond order.
+
+2\. Discharge of a Surety (Section 143\)
+
+A surety has the legal right to apply to be relieved of their obligation. If Krishna stands as a surety for Kanishth in Patna, but later feels that Kanishth is becoming difficult to control, she can apply to the Magistrate to be discharged.
+
+* **Summons/Warrant:** On such an application, the Magistrate shall issue a summons or warrant to bring the person (**Kanishth**) before the court.  
+* **Cancellation:** Once the person appears, the Magistrate shall cancel the old bond and order the person to provide "fresh security" for the unexpired period.  
+* *Example:* Judge **Saurabh** in **Patna** cancels **Krishna’s** bond. He then tells **Kanishth**, "You still have 8 months left on your two-year peace bond. You must find a new surety like **Satyam** for these remaining 8 months."
+
+3\. Rejection of an Existing Surety
+
+Under Section 140, if a Magistrate later discovers that an existing surety is "unfit" (perhaps they have committed a crime), the Magistrate can, after a proper inquiry, order the person to find a new, fit surety for the remaining time.
+
+---
+
+**Conclusion**
+
+In conclusion, the provisions for security for an unexpired period under the **BNSS 2023** act as a "maintenance mechanism" for preventive justice. By allowing for the replacement of sureties who are no longer available or suitable, the law ensures that the period of oversight decided by the Court is never cut short prematurely. This protects the community in cities like **Lucknow** and **Patna** from potential risks. For individuals like **Kanishth**, it provides a fair opportunity to continue their liberty by finding a new guarantor like **Satyam** rather than facing immediate imprisonment. Ultimately, these rules uphold the integrity of the bond system and ensure that the State’s promise of "Nagarik Suraksha" is fulfilled for the entire duration originally intended by the Magistrate.
+
+---
+
+## ~~Q7. What is the provision in the Bharatiya Nagarik Suraksha Sanhita for maintenance of wife, children and parents? Under what circumstances is the wife not entitled to get maintenance? What is the maximum amount of maintenance as prescribed under the law? Explain.~~ 
+
+~~Or~~  
+~~Discuss the provisions of maintenance as provided under B.N.S.S., 2023\.~~ 
+
+~~OR~~  
+~~Discuss the law relating to maintenance of the wife. What are the situations under which a wife is not entitled to get maintenance under the law?~~ 
+
+~~Or~~  
+~~In what circumstances the order of Maintenance can be Made? Whether only a legally wedded wife is entitled to claim Maintenance? (2022)~~
+
+~~Who can claim maintenance under Section 144 of Bharatiya Nagarik Suraksha Sanhita, 2023? No wife shall be entitled to receive maintenance from her husband without any sufficient reason if she refuses to live with her husband or they are living separately by mutual consent. Discuss. (2024)~~
+
+## Q8. Discuss the procedure prescribed for initiating proceedings under Section 144 of the Bharatiya Nagarik Suraksha Sanhita.
+
+---
+
+## Q9. When the maintenance allowance awarded under Section 144 of Bharatiya Nagarik Suraksha Sanhita can be altered?
+
+**When Maintenance Allowance under Section 144 BNSS Can Be Altered**
+
+**Introduction**
+
+A maintenance order passed by a Magistrate is not a final, unchangeable decree. Since the financial status and life situations of individuals are constantly evolving, the law must remain flexible. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, while **Section 144** establishes the right to maintenance for wives, children, and parents, it is **Section 146** (corresponding to Section 127 of the old CrPC) that provides the mechanism for its alteration. The rationale is to ensure that the amount awarded remains fair and realistic over time. If a person’s income increases significantly or if a dependent’s needs grow due to illness or education, the law allows the Magistrate to "alter" the allowance. This ensures "Nagarik Suraksha" (citizen protection) by preventing the order from becoming either an insufficient pittance for the receiver or an impossible burden for the payer.
+
+**Main Body**
+
+According to **Section 146 of the BNSS 2023**, a Magistrate of the First Class can alter, vary, or cancel a maintenance order under the following circumstances:
+
+**1\. Proof of Change in Circumstances (Section 146(1))**
+
+This is the most common ground for alteration. If either the person receiving the money or the person paying it can prove a significant change in their life situation, the Magistrate can increase, decrease, or cancel the allowance.
+
+* **Increase in Income/Needs:** If **Prateek** was ordered to pay ₹5,000 to his wife **Krishna** in **Lucknow**, but **Prateek** gets a high-paying promotion in **Mumbai**, **Krishna** can apply to have the amount increased. Similarly, if their child **Satyam** needs expensive medical treatment, the allowance can be hiked.  
+* **Decrease in Income:** If **Kanishth**, who was paying maintenance in **Patna**, loses his job or suffers a major business loss, he can apply to Magistrate **Raghavendra** to have the monthly amount reduced.
+
+**2\. Decision of a Competent Civil Court (Section 146(2))**
+
+If a Civil Court passes a decree that affects the status of the parties or their financial rights, the Magistrate must vary or cancel the maintenance order accordingly.
+
+* *Example:* If a Civil Court in **Varanasi** grants a divorce and awards a permanent alimony (lump sum) to **Saurabh’s** ex-wife, the Magistrate may cancel the monthly maintenance order previously passed under Section 144\.
+
+**3\. Remarriage of a Divorced Woman (Section 146(3)(a))**
+
+If a woman who was receiving maintenance after a divorce decides to remarry, the Magistrate shall cancel the maintenance order from the date of her remarriage.
+
+* *Example:* **Krishna** remarries **Laukendra** in **Indore**. Her former husband **Prateek** can apply to Magistrate **Sachkeerat** to stop the maintenance payments immediately.
+
+**4\. Receipt of Customary Dues (Section 146(3)(b))**
+
+If a divorced woman has received the full sum due to her under any customary or personal law (such as Mahr in certain personal laws), the Magistrate shall cancel the order.
+
+* If the sum was paid before the order, the order is cancelled from its start date.  
+* If paid after the order, it is cancelled from the date the maintenance period expires.
+
+**5\. Voluntary Surrender of Rights (Section 146(3)(c))**
+
+If a woman, after obtaining a divorce, voluntarily gives up her right to maintenance, the Magistrate shall cancel the order from that date.
+
+**Conclusion**
+
+In conclusion, the provisions for the alteration of maintenance under **Section 146 of the BNSS 2023** act as a necessary adjustment tool for the judiciary. By allowing the Magistrate to revisit orders based on "change in circumstances" or "civil court decisions," the law keeps pace with the realities of life in cities like **Lucknow**, **Patna**, and **Amritsar**. It ensures that individuals like **Prateek** and **Krishna** are treated with equity—protecting the receiver from destitution while ensuring the payer is not unfairly exploited. This adaptability is the hallmark of a "just and fair" legal system, ensuring that maintenance remains a tool for social welfare rather than a static punishment.
+
+[Maintenance Under BNSS l Section 144-147 l Dr. Jinesh Soni](https://www.youtube.com/watch?v=vTsB3RZlbJk)
+
+This video is relevant as it provides a professional legal breakdown of Sections 144 to 147 of the BNSS 2023, specifically explaining how maintenance is awarded, enforced, and altered under the new criminal law.
+
+---
+
+## Q10. How the order of maintenance is enforced under section 147 of BNSS 2013?
+
+**Enforcement of Order of Maintenance under Section 147 of BNSS 2023**
+
+**Introduction**
+
+A judicial order for maintenance is of no value to a person in distress if it cannot be effectively and swiftly enforced. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, recognizes that a person ordered to pay maintenance might try to evade their responsibility by moving to a different city or simply refusing to pay. To counter this, **Section 147** (corresponding to Section 128 of the old CrPC) provides a robust and simplified mechanism for the "Enforcement of order of maintenance." This section acts as the administrative engine that ensures the "Nagarik Suraksha" (citizen protection) promised under Section 144 actually reaches the beneficiary. The rationale is to make the maintenance order "portable" across the country, ensuring that a woman, child, or parent does not have to struggle with jurisdictional hurdles to receive their rightful support.
+
+**Main Body**
+
+The enforcement of a maintenance order under Section 147 of the BNSS involves several critical procedural steps designed for the convenience of the person receiving the allowance:
+
+**1\. Providing a Free Copy of the Order**
+
+The first step in enforcement is ensuring that the beneficiary has the legal document required to demand payment. Section 147 mandates that a copy of the order of maintenance (or interim maintenance) and the expenses of the proceedings shall be given without payment to the person in whose favor it is made, or to their guardian.
+
+*Example:* **Krishna** wins a maintenance case against **Prateek** in a court in **Lucknow**. The Magistrate, **Raghavendra**, must ensure that **Krishna** receives a certified copy of the order immediately and for free. This copy is **Krishna's** "legal tool" to seek enforcement anywhere in India.
+
+**2\. Jurisdictional Flexibility (Enforcement Anywhere)**
+
+One of the most powerful features of Section 147 is that the order can be enforced by any Magistrate in any place where the person against whom it is made (the respondent) may be found. The beneficiary does not need to travel back to the original court that passed the order.
+
+*Example:* If **Prateek** moves from **Lucknow** to **Amritsar** to avoid paying **Krishna**, she does not need to keep filing applications in **Lucknow**. She can take her free copy of the order to a Magistrate in **Amritsar**, such as Judge **Saurabh**, and ask him to enforce it.
+
+**3\. The Magistrate’s Satisfaction (Identity and Non-payment)**
+
+Before enforcing the order, the Magistrate in the new jurisdiction must be satisfied regarding two specific points:
+
+* **Identity:** That the parties before the court are indeed the same people mentioned in the order.  
+* **Non-payment:** That the allowance (or part of it) has truly not been paid.
+
+*Example:* When **Krishna** approaches Judge **Saurabh** in **Amritsar**, he will verify that the man in front of him is indeed **Prateek** and confirm through records or statements that the monthly allowance of ₹10,000 has been unpaid for three months.
+
+**4\. Linkage with Recovery Mechanisms (Section 144(3))**
+
+While Section 147 provides the authority to enforce, the actual "methods" of recovery are borrowed from Section 144(3) of the BNSS. Once satisfied, the Magistrate can:
+
+* **Issue a Warrant:** A warrant for levying the amount due can be issued in the same manner as a warrant for levying fines. This may include the attachment and sale of the defaulter's property.  
+* **Imprisonment:** If the person continues to fail to pay without "sufficient cause," the Magistrate can sentence them to imprisonment for a term which may extend to **one month** for each month's default, or until the payment is made.
+
+*Example:* If **Prateek** still refuses to pay despite having the means, Judge **Saurabh** in **Amritsar** can order the seizure of **Prateek’s** vehicle or sentence him to jail for a month for the default.
+
+**5\. The One-Year Limitation Period**
+
+It is important to note that a warrant for the recovery of unpaid maintenance will not be issued unless an application is made to the Court within one year from the date on which the amount became due. This ensures that the beneficiary, like Krishna, acts promptly and doesn't allow arrears to pile up indefinitely.
+
+**Conclusion**
+
+In conclusion, **Section 147 of the BNSS 2023** is a vital provision that breathes life into the maintenance laws of India. By providing free copies of orders and allowing for enforcement across different districts, it eliminates the geographical barriers that often protect defaulters like **Prateek**. It prioritizes the survival and dignity of vulnerable individuals like **Krishna**, **Satyam**, and **Kanishth**, ensuring they are not left destitute by the technicalities of a moving respondent. Whether in **Lucknow**, **Amritsar**, or **Indore**, the power of a Magistrate to enforce these orders ensures that the social welfare goal of the Sanhita is met, upholding the true spirit of "Nagarik Suraksha" and gender justice in the 21st century.
+
+---
+
+## Q11. Discuss the various provisions under B.N.S.S. which are helpful for the Maintenance of Public order and tranquility.
+
+**Provisions for Maintenance of Public Order and Tranquility under BNSS 2023**
+
+**Introduction**
+
+The primary duty of any government is to maintain "Public Order and Tranquility," which refers to a state of peace and the absence of violence or chaos in society. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, dedicates **Chapter XII (Sections 148 to 167\)** to this objective. Unlike the punitive parts of the code that punish crimes after they occur, these provisions are essentially **preventive** and **remedial**. They provide the Executive and Police with the legal tools to manage crowds, handle unlawful assemblies, remove public nuisances, and resolve urgent threats to public safety. These powers are the backbone of "Nagarik Suraksha" (citizen protection), ensuring that life in Indian cities—from **Patna** to **Amritsar**—continues without disruption from riots, public obstructions, or civil unrest.
+
+**Main Body**
+
+The BNSS provides a four-fold structure for maintaining public order:
+
+1\. Management of Assemblies (Sections 148–151)
+
+These sections deal with the dispersal of unlawful assemblies. Any Executive Magistrate or Officer in charge of a police station can command an unlawful assembly to disperse. If they refuse, force can be used.
+
+* **Civil Force (Section 149):** Use of police to disperse crowds.  
+* **Armed Forces (Section 150):** If civil force is insufficient, the highest-ranking Executive Magistrate can call for the assistance of the armed forces.
+
+*Example:* In **Lucknow**, a mob led by **Kanishth** blocks a main highway. Magistrate **Raghavendra** commands them to disperse. When they refuse, he authorizes Officer **Saurabh** to use civil force to clear the road.
+
+2\. Public Nuisances (Sections 152–162)
+
+These provisions allow for the removal of obstructions or nuisances that affect the public's right to safety, health, or comfort.
+
+* **Conditional Order (Section 152):** A Magistrate can order the removal of an illegal construction, the fencing of a dangerous tank, or the stopping of a noisy trade.
+
+*Example:* **Satyam** operates a chemical unit in a residential area of **Indore** that emits toxic fumes. Magistrate **Krishna** issues a conditional order under Section 152 to shut down the unit unless **Satyam** can prove it is safe.
+
+3\. Urgent Cases of Nuisance or Apprehended Danger (Section 163\)
+
+This is the most well-known provision (formerly Section 144 CrPC). It allows a Magistrate to issue temporary, immediate orders to prevent riots, injury to human life, or disturbance of tranquility.
+
+* It is used to impose curfews, restrict assemblies, or ban the carrying of weapons.
+
+*Example:* To prevent communal tension during a festival in **Varanasi**, DM **Raghavendra** issues an order under Section 163 prohibiting the assembly of more than five people in sensitive areas.
+
+4\. Disputes as to Immovable Property (Sections 164–167)
+
+Disputes over land or water often lead to violent clashes. The BNSS allows a Magistrate to intervene and decide "possession" (not title) to prevent a breach of peace.
+
+* **Section 164:** If there is a likelihood of a breach of peace concerning land, the Magistrate can call both parties to state their claims.
+
+*Example:* **Prateek** and **Laukendra** have a violent dispute over a farm in **Punjab**. Magistrate **Sachkeerat** takes over the property under Section 164 and orders them to maintain peace until a Civil Court decides the owner.
+
+**Conclusion**
+
+In conclusion, the provisions for the maintenance of public order and tranquility in the **BNSS 2023** are comprehensive and proactive. By giving Executive Magistrates like **Raghavendra** and **Krishna** the authority to act before a situation spirals out of control, the law prioritizes collective safety over individual actions that disturb the peace. Whether it is managing a chaotic assembly in **Lucknow** or settling a land dispute in **Punjab**, these sections ensure that the administration has the necessary legal backing to uphold the rule of law. They represent the practical application of "Nagarik Suraksha," ensuring that peace is preserved as a prerequisite for a functional and civilized society.
+
+[Public Order and Tranquility | BNSS 2023 Sections 148-172](https://www.youtube.com/watch?v=a0hLBjNaK8k)
+
+This video is relevant as it provides a professional legal breakdown of the sections in the BNSS dedicated to public order, explaining how these preventive powers are used by the State.
+
+---
+
+## ~~Q12. What is public nuisance? When can a conditional order for removal of nuisance can be passed?~~
+
+~~Or~~
+
+~~Discuss the conditional order for removal of nuisance under Section 152 of Bharatiya Nagarik Suraksha Sanhita, 2023 and the procedure adopted where disputes concerning land and water are likely to cause breach of peace. (2024)~~
+
+## Q14. Discuss the powers of the Magistrate to issue temporary orders in urgent cases of a nuisance or apprehended danger.
+
+Or
+
+What is Section 163, B.N.S.S., 2023? Discuss its relevance. (2019)
+
+**Temporary Orders in Urgent Cases of Nuisance or Apprehended Danger (Section 163 BNSS)**
+
+**Introduction**
+
+In the legal architecture of India, the power to maintain public order is primarily an executive function. There are situations where a regular judicial trial or even a standard administrative process is too slow to prevent a catastrophe. To address these "flashpoint" moments, the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, provides an extraordinary preventive power under **Section 163** (which replaces the famous Section 144 of the old CrPC). This section is designed for "urgent cases of nuisance or apprehended danger." It empowers Executive Magistrates to issue temporary, restrictive orders to prevent riots, health hazards, or threats to human life. The core philosophy behind this provision is that the State must have the ability to act swiftly to protect the collective "Nagarik Suraksha" (citizen protection), even if it requires a temporary suspension of certain individual liberties.
+
+**Main Body**
+
+**1\. What is Section 163 of BNSS, 2023?**
+
+Section 163 is a specialized legal tool that allows a Magistrate to issue a written order directing any person to abstain from a certain act or to take certain order with respect to certain property in their possession. It is applicable when there is an "emergency" or a need for a "speedy remedy."
+
+* **Competent Authorities:** The power is vested in the **District Magistrate (DM)**, a **Sub-divisional Magistrate (SDM)**, or any other **Executive Magistrate** specially empowered by the State Government.  
+* **The Threshold for Action:** The Magistrate must be satisfied that there is sufficient ground for proceeding and that immediate prevention is desirable to prevent:  
+  * Obstruction, annoyance, or injury to any person lawfully employed.  
+  * Danger to human life, health, or safety.  
+  * A disturbance of public tranquility, or a riot, or an affray.
+
+**2\. Powers of the Magistrate to Issue Temporary Orders**
+
+The Magistrate's power under Section 163 is broad and flexible. The order can be:
+
+* **Prohibitory:** Forbidding the assembly of five or more people, banning the carrying of weapons, or restricting internet services in a sensitive area.  
+* **Property-Related:** Directing a property owner to take specific safety measures.  
+* **Target Audience:** The order can be directed to a specific individual, to people living in a particular area, or to the public generally when visiting a specific location.
+
+*Example:* In **Varanasi**, a dispute arises between two groups over a religious procession route. DM **Raghavendra** receives intelligence that **Kanishth** and **Saurabh** are planning to lead armed supporters to the site. To prevent a "riot," **Raghavendra** issues an order under Section 163 prohibiting the assembly of more than four people and the carrying of lathis in that specific ward for the next 48 hours.
+
+**3\. Relevance of Section 163 in Modern Governance**
+
+The relevance of Section 163 cannot be overstated. It serves as the first line of defense in several modern scenarios:
+
+* **Public Health Emergencies:** During a pandemic or a toxic leak, a Magistrate can order residents to stay indoors.  
+  *Example:* A chemical factory owned by **Satyam** in **Bhopal** develops a leak. SDM **Krishna** uses Section 163 to order the immediate evacuation of the surrounding colony to prevent "danger to human life."  
+* **Cyber-Security and Social Media:** It is frequently used to temporarily suspend internet services to prevent the spread of inflammatory rumors that could lead to communal violence.  
+* **Large Gatherings:** It helps manage massive crowds during festivals or political rallies to prevent stampedes or "affrays."
+
+**4\. Procedural Safeguards**
+
+While the power is vast, the BNSS imposes limits to prevent abuse. Every order must state the material facts (reasons) in writing. An order is typically valid for two months, though the State Government can extend it up to six months if the danger to life or safety persists. Any person aggrieved, like Prateek or Laukendra, can apply to the Magistrate to rescind or alter the order, and they must be given a hearing.
+
+**Conclusion**
+
+In conclusion, **Section 163 of the BNSS 2023** is an indispensable "emergency brake" in the hands of the administration. Its relevance lies in its ability to bridge the gap between peace and chaos. While it is a verbatim successor to the old Section 144 CrPC, its application in the modern context of "Nagarik Suraksha" requires a delicate balance. Magistrates like **Raghavendra** and **Krishna** must ensure that the "speedy remedy" does not become a tool for unnecessary suppression of democratic rights. When used judiciously, as seen in cities like **Bhopal** and **Varanasi**, Section 163 remains a vital instrument for preserving the sanctity of human life and the tranquility of the public square.
+
+---
+
+## Q15. Can an ex parte order be passed under Section 163 of the Sanhita? If so, how long will it remain in force?
+
+**Ex Parte Orders and Their Duration under Section 163 of BNSS**
+
+**Introduction**
+
+A fundamental principle of natural justice is *audi alteram partem*, which means "hear the other side." Generally, no legal order should be passed against a person without giving them an opportunity to explain their position. However, the law recognizes that in matters of public safety and emergency, "speed" is often more important than "procedure." Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, **Section 163** (formerly Section 144 of the CrPC) provides the Executive Magistrate with extraordinary powers to issue orders to prevent urgent nuisances or apprehended dangers. A crucial feature of this section is the power to pass an "ex parte" order—an order passed in the absence of the person affected. This ensures that in a race against time, "Nagarik Suraksha" (citizen protection) is not defeated by the technical requirement of serving a notice when a riot, a disaster, or a threat to life is imminent.
+
+**Main Body**
+
+The BNSS provides clear guidelines on when an ex parte order can be issued and how long such restrictions can legally last:
+
+1\. The Power to Pass an Ex Parte Order (Section 163(2))
+
+Yes, an ex parte order can absolutely be passed under Section 163 of the Sanhita. According to Section 163(2), a Magistrate may pass such an order in two specific situations:
+
+* **Cases of Emergency:** When the threat is so sudden that any delay would result in irreparable harm.  
+* **Lack of Time for Notice:** When the circumstances do not allow for the serving of a notice in due time upon the person against whom the order is directed.
+
+*Example:* In **Lucknow**, **Raghavendra**, the District Magistrate, receives an urgent intelligence report at midnight. It states that **Kanishth** has gathered a mob and is planning to set fire to a public building in the next hour. Since there is no time to send a legal notice to **Kanishth** and wait for his reply, **Raghavendra** immediately issues an ex parte order under Section 163(2) prohibiting **Kanishth** and his associates from entering that area.
+
+2\. Grounds for Ex Parte Action
+
+The Magistrate must still be satisfied that the order is necessary to prevent:
+
+* Danger to human life, health, or safety.  
+* A disturbance of public tranquility, or a riot, or an affray.
+
+*Example:* In **Amritsar**, a toxic gas leak occurs in a warehouse owned by **Sachkeerat**. To prevent "danger to health," Magistrate **Saurabh** passes an ex parte order directing **Sachkeerat** to shut the facility and the residents of the nearby colony, including **Prateek** and **Krishna**, to evacuate, even though **Sachkeerat** was not present to argue his case.
+
+3\. Duration of the Order (Section 163(4))
+
+The law ensures that these "emergency" restrictions do not become permanent. There are strict timelines for how long a Section 163 order remains in force:
+
+* **Initial Period:** An order passed by a Magistrate shall not remain in force for more than **two months** from the date it was made.  
+* **Extension by State Government:** If the State Government considers it necessary to prevent danger to human life or to prevent a riot, it can extend the order. This extension can be for a further period, but the total duration of the extension cannot exceed **six months**.
+
+*Example:* If the communal tension in **Varanasi** involving **Laukendra** and **Satyam** persists, the initial order passed by Magistrate **Sachkeerat** will expire in two months. However, the Government of **Uttar Pradesh** can extend it so that the total time does not exceed eight months (2 original \+ 6 extended).
+
+4\. Right to Challenge (Section 163(5) and (6))
+
+Even though an order is passed ex parte, the affected person is not helpless. Any person aggrieved, like Kanishth, can apply to the Magistrate to rescind (cancel) or alter the order. The Magistrate is then legally bound to give that person an opportunity of being heard. If the Magistrate rejects the application, they must record the reasons in writing.
+
+**Conclusion**
+
+In conclusion, **Section 163 of the BNSS 2023** strikes a delicate balance between emergency administrative powers and individual rights. By allowing for "ex parte" orders under Section 163(2), the law empowers Magistrates like **Raghavendra** and **Saurabh** to act as immediate protectors of the public in cities like **Lucknow** and **Amritsar**. However, by strictly limiting the duration to an initial two months and a maximum extension of six months, the Sanhita ensures that these powers are not misused for indefinite suppression of liberty. The ability to challenge the order afterward ensures that the "ex parte" nature is only a temporary necessity. Ultimately, these provisions ensure that the State can fulfill its primary goal of "Nagarik Suraksha" without permanently compromising the principles of a fair trial and natural justice.
+
+---
+
+## Q16. Point out the difference between Sections 152 and 163 of the Bharatiya Nagarik Suraksha Sanhita.
+
+**Difference between Sections 152 and 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS)**
+
+**Introduction**
+
+The maintenance of public order involves both the removal of long-term hazards and the prevention of sudden, immediate crises. The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, provides two distinct powers for these purposes: **Section 152** (which corresponds to Section 133 of the old CrPC) and **Section 163** (which corresponds to Section 144 of the old CrPC). While both sections empower Executive Magistrates to intervene in the interest of public safety and health, they differ fundamentally in their "nature of urgency" and "procedural requirements." Section 152 is a restorative power used to remove ongoing public nuisances through a "conditional" process that allows for a hearing. In contrast, Section 163 is an emergency power used to prevent imminent danger through immediate, and often "ex-parte," orders. Understanding this distinction is vital to ensuring that "Nagarik Suraksha" (citizen protection) is applied proportionately to the threat at hand.
+
+**Main Body**
+
+The legal distinction between Section 152 and Section 163 of the BNSS can be analyzed through the following points:
+
+**1\. Nature of the Situation (Ongoing Nuisance vs. Urgent Danger)**
+
+* **Section 152** is targeted at **public nuisances** that are already in existence or are inherent in a place. This includes illegal obstructions on public roads, dangerous buildings, or trades that are injurious to health. It aims for a permanent solution to an existing problem.  
+  *Example:* **Satyam** operates a tannery in **Kanpur** that releases toxic, foul-smelling effluent into a residential colony. Magistrate **Raghavendra** uses **Section 152** to address this ongoing health hazard.  
+* **Section 163** is designed for **urgent emergencies** and **apprehended dangers**. It is used when a riot, an affray, or a sudden threat to life or public tranquility is expected to occur in the immediate future.  
+  *Example:* Two rival groups led by **Kanishth** and **Saurabh** are planning a violent protest in **Varanasi** tomorrow. Magistrate **Krishna** uses **Section 163** to prohibit any gathering in that area immediately to prevent the riot.
+
+**2\. Procedural Differences: Conditional vs. Absolute**
+
+* Under **Section 152**, the Magistrate first issues a **"conditional order"**. This is a notice asking the person (e.g., **Satyam**) to either remove the nuisance within a specified time or to appear in court and "show cause" why the order should not be made permanent (absolute). It follows the principle of natural justice by giving the party a chance to be heard before the final decision.  
+* Under **Section 163**, the order is **immediate** and does not require a "conditional" stage. If the situation is an emergency, the Magistrate can pass an **ex-parte** order without hearing the person (**Kanishth**) first, as any delay could lead to a catastrophe.
+
+**3\. Character of the Order (Quasi-Judicial vs. Executive)**
+
+* Section 152 has a **quasi-judicial** character. If the person objects to the conditional order, the Magistrate must conduct an inquiry, take evidence, and treat the matter somewhat like a trial before making the order absolute.  
+* Section 163 is a purely **executive/administrative** order. While the Magistrate must record the "material facts," the focus is on administrative speed to prevent a crisis rather than resolving a long-term dispute over property or nuisances.
+
+**4\. Duration and Effect**
+
+* An order under **Section 152** is intended to be **permanent**. Once the building is demolished or the obstruction is removed, the matter is resolved for good.  
+* An order under **Section 163** is **temporary**. It is valid for only **two months**, though it can be extended by the State Government up to a total of **six months** if the danger persists.
+
+**Conclusion**
+
+In conclusion, the difference between **Section 152 and Section 163 of the BNSS 2023** lies in the balance between "due process" and "administrative speed." Section 152 is the appropriate tool for resolving long-standing public hazards in cities like **Kanpur**, allowing citizens like **Prateek** and **Krishna** to present their cases. However, Section 163 remains the State's "emergency brake," essential for preventing sudden violence in cities like **Varanasi**. By providing these two distinct paths, the BNSS ensures that the administration can uphold "Nagarik Suraksha" effectively—using Section 152 for restorative justice and Section 163 for preventive peace-keeping.
+
+---
+
+## Q17. How would a Magistrate deal with a situation when he finds that a dispute relating to a piece of land between the two parties is likely to cause a breach of peace? Discuss with recent case law.
+
+**Handling Land Disputes Likely to Cause Breach of Peace (Section 164 BNSS)**
+
+**Introduction**
+
+Disputes over land and water are among the most common causes of violence and civil unrest in India. While the final determination of "ownership" or "title" is the job of a Civil Court, the immediate priority of the administration is to prevent the dispute from escalating into physical conflict. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, this preventive power is governed by **Section 164** (corresponding to Section 145 of the old CrPC). This section allows an Executive Magistrate to intervene when a dispute over immovable property is likely to cause a breach of peace. The rationale is to maintain the "status quo" and decide who was in "actual possession" at the time of the dispute. By doing so, the law ensures "Nagarik Suraksha" (citizen protection) by compelling parties to use legal channels rather than force.
+
+**Main Body**
+
+When an Executive Magistrate finds that a land dispute between two parties is likely to lead to violence, the following procedure is adopted under the BNSS:
+
+**1\. Preliminary Order (Section 164(1))**
+
+If a Magistrate (like a DM or SDM) is satisfied from a police report or other information that a dispute concerning land or water exists and is likely to cause a breach of peace, they must make a written order.
+
+* **Content:** The order states the grounds of satisfaction and requires the parties to attend court and put in written statements of their claims regarding "actual possession."  
+* **Example:** **Prateek** and **Kanishth** have a violent confrontation over a plot in **Varanasi**. Magistrate **Raghavendra** receives a report from Officer **Saurabh**. **Raghavendra** issues a preliminary order requiring both to appear and prove who was actually using the land.
+
+**2\. Meaning of "Land or Water" (Section 164(2))**
+
+The law defines this broadly to include buildings, markets, fisheries, crops, or even the rents and profits derived from such property.
+
+* **Example:** If **Krishna** and **Laukendra** are fighting over the collection of rent from a market in **Patna**, Magistrate **Satyam** can intervene under this section.
+
+**3\. The Inquiry into Possession (Section 164(4))**
+
+The Magistrate’s job is not to decide who owns the land, but who was in possession on the date of the preliminary order.
+
+* **Evidence:** The Magistrate hears both sides and receives all evidence produced.  
+* **The Two-Month Rule:** If a party was "forcibly and wrongfully dispossessed" within **two months** before the police report, the Magistrate may treat that party as if they were still in possession on the date of the order.  
+* **Example:** **Sachkeerat** was forcibly kicked out of his shop by **Satyam** in **Amritsar** on November 1st. On December 1st, the Magistrate issues an order. Since the dispossession was within two months, the Magistrate can restore **Sachkeerat** to possession.
+
+**4\. The Final Order (Section 164(6))**
+
+If the Magistrate decides one party is in possession, they issue an order declaring that party entitled to possession until evicted in due course of law by a Civil Court. They also forbid the other party from disturbing that possession.
+
+**5\. Recent Case Law and Trends**
+
+The Supreme Court in various judgments (and recently reflected in High Court rulings like Baba Baidyanath Medical Trust vs. State of Jharkhand, 2024\) has reiterated that:
+
+* The Magistrate’s order is **temporary** and purely to maintain peace.  
+* Once a **Civil Court** is seized of the matter and has passed an order (like an injunction), the Magistrate should generally drop the Section 164 proceedings to avoid conflicting orders.  
+* Parallel proceedings are unsustainable if a civil suit for the same property is already effectively handling the dispute.
+
+**Conclusion**
+
+In conclusion, **Section 164 of the BNSS 2023** provides a "summary remedy" to prevent blood-shed over land. It serves as a bridge, keeping the peace in cities like **Varanasi** and **Patna** until a Civil Court can provide a final answer on ownership. By focusing solely on "possession" and the "likelihood of a breach of peace," the law ensures that individuals like **Prateek** and **Kanishth** cannot take the law into their own hands. It upholds the principle that "settled possession" cannot be disturbed by force, thereby ensuring that the safety of the community remains paramount over private property claims.
+
+---
+
+## Q18. Explain the power to attachment of disputed property.
+
+**Power to Attachment of Disputed Property (Section 165 BNSS)**
+
+**Introduction**
+
+In complex land disputes, there are times when simply declaring who is in possession (under Section 164\) is not enough to prevent violence. If the situation is so volatile that allowing either party to remain on the property would lead to a riot, or if the Magistrate simply cannot figure out who was in possession, the law provides a more drastic "emergency" measure. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, this power is contained in **Section 165** (corresponding to Section 146 of the old CrPC). "Attachment" means the Court takes the property into its own legal custody (*custodia legis*). The rationale is to "freeze" the dispute and remove the immediate cause of conflict from the hands of the warring parties. This is a crucial tool for "Nagarik Suraksha" (citizen protection), ensuring that a piece of land does not become a battleground in cities like **Patna** or **Lucknow**.
+
+**Main Body**
+
+According to **Section 165 of the BNSS 2023**, a Magistrate can order the attachment of the disputed property under three specific circumstances:
+
+**1\. Grounds for Attachment**
+
+The Magistrate may attach the property at any time after making the preliminary order under Section 164(1) if:
+
+* **Emergency:** The Magistrate considers the case to be one of emergency where immediate action is needed to prevent blood-shed.  
+* **None in Possession:** The Magistrate decides that none of the parties was in actual possession at the relevant time.  
+* **Inability to Decide:** The Magistrate is unable to satisfy themselves as to which of the parties was in possession.
+
+*Example:* **Raghavendra** and **Kanishth** are fighting over a vacant plot in **Lucknow**. Magistrate **Saurabh** finds that both parties are bringing armed supporters to the site every day (Emergency). Furthermore, neither has built anything or used the land for years (Inability to decide possession). **Saurabh** orders the property to be "attached" and locked.
+
+**2\. Appointment of a Receiver (Section 165(2))**
+
+When a property is attached, it cannot be left neglected. The Magistrate may make arrangements for looking after the property or appoint a Receiver.
+
+* **Who is a Receiver?** A Receiver is an officer of the Court who manages the property, collects rent, or looks after crops. Under the BNSS, a Receiver has all the powers of a receiver appointed under the Code of Civil Procedure, 1908\.  
+* \**Example:* If the dispute is over an orchard in **Amritsar**, Magistrate **Satyam** appoints **Prateek** (a neutral official) as the Receiver. **Prateek** will ensure the fruits are harvested and sold, and the money is kept safely in the Court's account until the case is over.
+
+**3\. Interaction with Civil Courts**
+
+The BNSS ensures there is no conflict between Criminal and Civil jurisdictions:
+
+* If a **Civil Court** has already appointed a receiver, the Magistrate cannot appoint another one.  
+* If the Magistrate has appointed a receiver and a Civil Court later appoints one, the Magistrate's receiver must hand over the property and be discharged.
+
+*Example:* While **Prateek** is managing the orchard in **Amritsar**, a Civil Court in **Punjab** appoints **Krishna** as the official receiver in a title suit. **Prateek** must hand over all records and possession to **Krishna** immediately.
+
+**4\. Withdrawal of Attachment**
+
+The attachment is not permanent. The Magistrate may withdraw it at any time if they are satisfied that there is no longer any likelihood of a breach of the peace.
+
+**Conclusion**
+
+In conclusion, the power to attach property under **Section 165 of the BNSS 2023** is a powerful administrative "reset button." It effectively removes the bone of contention from the disputing parties, such as **Raghavendra** and **Kanishth**, and places it under the neutral protection of the law. By allowing for the appointment of a Receiver, the Sanhita ensures that the property's value is preserved while the parties settle their rights in a Civil Court. This provision is the ultimate safeguard in the maintenance of public order, ensuring that land disputes in cities like **Lucknow** and **Amritsar** are resolved through evidence and logic rather than sticks and stones, upholding the true spirit of "Nagarik Suraksha."
+
+---
+
+## Q19. Discuss the powers of a Magistrate for the purpose of maintenance of public order and tranquility.
+
+**Powers of a Magistrate for Maintenance of Public Order and Tranquility**
+
+**Introduction**
+
+The maintenance of public order and tranquility is the cornerstone of a stable society. It ensures that citizens can live their lives without fear of violence, obstruction, or chaos. In India, the responsibility for preserving this peace is primarily entrusted to Executive Magistrates. Under the **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, the powers of Magistrates are spread across **Chapter XII (Sections 148 to 167\)**. These powers are preventive in nature, meaning they are designed to stop a disturbance before it begins or to de-escalate a situation before it turns into a disaster. The BNSS provides a graduated set of powers, ranging from the command to disperse a small crowd to the imposition of district-wide restrictions in times of crisis. These tools are essential for "Nagarik Suraksha" (citizen protection), allowing the administration to safeguard human life, health, and property across Indian cities.
+
+**Main Body**
+
+The powers of a Magistrate for maintaining public order can be categorized into four distinct functional areas under the BNSS:
+
+**1\. Power to Disperse Unlawful Assemblies (Sections 148–151)**
+
+When a group of people gathers in a way that threatens the peace, the Magistrate has the power to intervene.
+
+* **Civil Force (Section 148):** Any Executive Magistrate (like a DM or SDM) can command an unlawful assembly to disperse. If they refuse, the Magistrate can use the police (civil force) to disperse them and arrest those involved.  
+* **Use of Armed Forces (Section 149):** If civil force is not enough to disperse the crowd and protect public security, the highest-ranking Executive Magistrate present can call for the help of the Armed Forces.
+
+*Example:* In **Varanasi**, a large mob led by **Kanishth** blocks a critical intersection, threatening to burn public buses. District Magistrate **Raghavendra** arrives and commands the assembly to disperse. When **Kanishth** refuses, **Raghavendra** authorizes Officer **Saurabh** to use civil force to clear the area and restore order.
+
+**2\. Power to Remove Public Nuisances (Sections 152–162)**
+
+This power is used to remove long-term hazards that affect the public's safety, health, or convenience.
+
+* **Conditional Orders (Section 152):** A Magistrate can issue a "conditional order" to stop a dangerous trade, remove an obstruction from a public road, or repair a building that is about to collapse.  
+* **Procedure:** The person is given a chance to "show cause" before the order is made absolute.
+
+*Example:* **Satyam** operates a noisy and polluting factory in a residential pocket of **Indore**. The fumes are making the neighbors, including **Krishna** and **Prateek**, sick. Magistrate **Krishna** issues a conditional order under Section 152, requiring **Satyam** to either install filters within 15 days or shut down the factory.
+
+**3\. Power in Urgent Cases of Apprehended Danger (Section 163\)**
+
+Commonly known as the "emergency brake," this section allows for immediate, temporary orders to prevent riots or injury.
+
+* **Scope:** A Magistrate can prohibit people from carrying weapons, assembling in groups, or even using the internet in sensitive zones for a period of up to **two months**.  
+* **Ex-Parte:** If the situation is a dire emergency, the Magistrate can pass the order without hearing the other side first.
+
+*Example:* In **Amritsar**, tensions rise between two local groups. To prevent a "riot," Magistrate **Saurabh** issues a Section 163 order prohibiting the assembly of more than five people in the town square. **Sachkeerat** and **Laukendra**, who were planning a protest, must now follow this order or face arrest.
+
+**4\. Power to Resolve Land and Water Disputes (Sections 164–167)**
+
+Disputes over property often lead to physical fights. The Magistrate has the power to intervene to decide who was in "possession" (not the owner) to stop the violence.
+
+* **Attachment (Section 165):** If the dispute is too violent or the Magistrate cannot decide who is in possession, they can "attach" (seize) the property until a Civil Court decides the matter.
+
+*Example:* **Prateek** and **Kanishth** are fighting over a farm in **Patna**. After a violent clash, Magistrate **Sachkeerat** attaches the land under Section 165 and appoints a Receiver to manage the crops, ensuring neither party uses force to take control.
+
+**Conclusion**
+
+In conclusion, the powers vested in Magistrates under the **BNSS 2023** are vital for the survival of the rule of law. By providing clear mechanisms for dispersing assemblies, removing nuisances, and handling land disputes, the Sanhita ensures that the State can act decisively in the interest of the community. These powers allow officials like **Raghavendra**, **Krishna**, and **Saurabh** to protect citizens in cities like **Varanasi**, **Indore**, and **Amritsar** from both sudden violence and long-term hazards. While these powers are extensive, they are subject to judicial review and time limits, ensuring that "Nagarik Suraksha" is maintained without violating the fundamental principles of justice and liberty.
+
+[Maintenance of Public Order and Tranquility BNSS | Section 148 to 172 | Judiciary By PW](https://www.youtube.com/watch?v=a0hLBjNaK8k)
+
+This video is relevant as it provides a comprehensive overview of the sections in the BNSS 2023 dedicated to public order and tranquility, specifically explaining the preventive powers and procedures used by authorities.
+
+---
+
+## Q20. Write short notes on the following:
+
+(a) Critically examine the provisions relating to medical examination of rape accused and victim under B.N.S.S.
+
+(b) Distinguish between ‘Judicial custody’ and ‘police custody.’
+
+**Medical Examination and Custody under BNSS 2023**
+
+**Introduction**
+
+The **Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023**, introduces pivotal reforms to ensure a more efficient, transparent, and victim-centric criminal justice system. Two of its most critical components are the provisions for the medical examination of rape victims and the accused, and the reconfiguration of the rules regarding police and judicial custody. The provisions for medical examination under **Sections 184 and 52** emphasize the dignity of the victim and the scientific collection of evidence, such as DNA profiling, while establishing strict timelines for reporting. Simultaneously, the distinction between **Police Custody** and **Judicial Custody** under **Section 187** remains a fundamental safeguard of personal liberty. These legal structures are essential for "Nagarik Suraksha" (citizen protection), ensuring that in cities from **Lucknow** to **Patna**, the powers of investigation are balanced against the rights of the individual.
+
+---
+
+**Main Body**
+
+**(a) Medical Examination of Rape Accused and Victim (Sections 52 and 184\)**
+
+The BNSS 2023 has strengthened the forensic and procedural requirements for sexual assault cases to prevent the loss of evidence and ensure accountability.
+
+* **Medical Examination of the Victim (Section 184):** When an offence of rape is under investigation, the victim must be examined by a registered medical practitioner.  
+  * **24-Hour Rule:** The victim must be sent for examination within **24 hours** from the time the information is received.  
+  * **Consent:** No examination can be conducted without the written consent of the woman or a person competent to give consent on her behalf.  
+  * **7-Day Reporting Timeline:** A new mandate under the BNSS requires the medical practitioner to forward the report to the Investigating Officer within **seven days**.  
+  * *Example:* In **Lucknow**, **Krishna** reports an assault. Officer **Saurabh** ensures she is taken to a government hospital within 24 hours. The doctor, **Raghavendra**, conducts the DNA profiling and records injuries, ensuring **Krishna's** dignity is maintained. The report is submitted to the court within a week.  
+* **Medical Examination of the Accused (Section 52):** When a person is arrested for rape, and there are reasonable grounds to believe that an examination will afford evidence (like DNA or marks of struggle), they must be examined by a medical practitioner at a government hospital.  
+  * *Example:* **Kanishth** is arrested in **Patna**. To collect forensic evidence, Magistrate **Satyam** orders his medical examination under Section 52\.
+
+**(b) Distinguishing between ‘Judicial Custody’ and ‘Police Custody’ (Section 187\)**
+
+The primary difference lies in the **physical control** over the accused and the **purpose** of the detention.
+
+| Feature | Police Custody | Judicial Custody |
+| :---- | :---- | :---- |
+| **Location** | The accused is kept in a **police station lock-up**. | The accused is kept in a **central or district jail**. |
+| **Control** | Under the direct control of the **Police Officer** for investigation. | Under the control of the **Magistrate** and jail authorities. |
+| **Purpose** | Primarily for **interrogation** and recovery of evidence. | To prevent the accused from tampering with evidence or fleeing. |
+| **Interrogation** | Police have ready access for questioning. | Police require **permission from the Court** to interrogate the accused. |
+| **BNSS Reform** | 15 days of police custody can be granted in **parts** during the initial 40/60 days. | Can extend up to **60 or 90 days** depending on the severity of the crime. |
+
+*   
+  *Example:* **Prateek** is arrested in **Amritsar** for a crime. Magistrate **Sachkeerat** first sends him to **Police Custody** under Officer **Laukendra** for 10 days to recover stolen items. Later, **Prateek** is moved to **Judicial Custody** in the central jail, where he remains under the supervision of the court until bail or trial.
+
+---
+
+**Conclusion**
+
+In conclusion, the provisions of the **BNSS 2023** regarding medical examinations and custody illustrate the Sanhita's commitment to scientific investigation and human rights. By mandating a seven-day window for medical reports under Section 184, the law ensures that forensic evidence is integrated into the chargesheet without delay, aiding victims like **Krishna** in their pursuit of justice. Similarly, the clear distinction between police and judicial custody under Section 187 ensures that investigators like **Laukendra** have the necessary time to work, while suspects like **Prateek** are protected from prolonged police interference through judicial oversight. Together, these provisions form a robust framework for "Nagarik Suraksha," ensuring that the Indian criminal justice system in cities like **Lucknow** and **Patna** remains both efficient and humane.
+
+[Medical Examination of Rape Victim | BNSS Section 184](https://www.youtube.com/watch?v=CRngv7eh0zc)
+
+This video is relevant as it provides a detailed legal explanation of Section 184 of the BNSS, focusing on the mandatory procedures and timelines for the medical examination of rape victims under the new law.
+
+---
+===================================

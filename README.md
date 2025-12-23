@@ -55,7 +55,7 @@ Statutes are generally classified based on their duration, nature of operation, 
 
 *Example:* If **Kanishth** builds a house in **Varanasi** in 2023, and a new tax law is passed in 2025 that says "tax must be paid for all houses built since 2020," the court must interpret if the legislature intended this retrospective effect.
 
-3\. Classification by Objective or Subject Matter
+**3\. Classification by Objective or Subject Matter**
 
 This is the most common way courts like those in Indore or Lucknow classify laws:
 

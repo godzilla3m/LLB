@@ -1,5 +1,60 @@
 # CPC & Limitation act - 2
 
+## Syllabus
+
+### Unit I: Judgment, Decree, Rules, Interest and Costs
+*(Lectures: 10)*
+
+* **Judgment**: Definition, Essentials, Pronouncement, Contents and Alteration
+* **Decree**: Definition, Essentials, Types, Drawing up of a Decree, Contents and Decree in particular cases
+* **Interest and Costs**
+
+---
+
+### Unit II: Execution
+*(Lectures: 10)*
+
+* **Execution**: (Sections 36 to 74 and Order XXI)
+* General and Courts by which decree may be executed
+* Questions to be determined by the Court Executing Decree
+* Transferee Court and Legal Representatives
+* Procedure in Execution & Arrest and Detention
+* Attachment and Sale
+* Distribution of Assets and Resistance to Execution
+
+---
+
+### Unit III: Appeals
+*(Lectures: 10)*
+
+* **Appeals**: (Sections 96 to 109 and Orders XLI to XLV)
+* Appeals from Original Decrees
+* Appeals from Appellate Decrees
+* Appeals from Orders
+* General Provisions Relating to Appeals
+* Appeals to Supreme Court
+* Appeals by Indigent Person
+* Reference to High Court, Review and Revision (Sections 113 to 115 and Orders XLVI and XLVII)
+
+---
+
+### Unit IV: Law of Limitation and Registration
+*(Lectures: 10)*
+
+* **The Limitation Act, 1963**: (Sections 1 to 27)
+* Limitations of Suits, Appeals and Applications
+* Acquisition of Ownership by Possession
+* All Important Sections of the **Registration Act, 1908**
+
+---
+
+### Codes and Acts Covered:
+1. The Code of Civil Procedure, 1908
+2. The Limitation Act, 1963
+3. The Registration Act, 1908
+
+---
+
 ## Top 10 topics
 
 Looking at the patterns from the last 6 years of papers, these ten topics are the "heavy hitters" that appear almost every year in some form. Mastering these will give you the strongest foundation for your 4th-semester exams.

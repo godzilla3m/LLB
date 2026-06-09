@@ -59,4 +59,4 @@ These notes are updated regularly as per the latest syllabus and legal amendment
 
 [https://github.com/godzilla3m/LLB-LU/](https://github.com/godzilla3m/LLB-LU/)
 
-[https://godzilla3m.github.io/LLB-LU/](https://godzilla3m.github.io/LLB-LU/)
+[https://godzilla3m.github.io/LLB-LU/](https://godzilla3m.github.io/LLB-LU/) (Docsify)

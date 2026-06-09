@@ -1,5 +1,81 @@
 # BNSS - 2
 
+## Syllabus
+
+### LL.B. 2nd Year : 4th Semester
+
+**Paper-V : Bharatiya Nagarik Suraksha Sanhita-II** 
+
+---
+
+### Unit I: Charge and Trials (10 Lectures)
+
+* **Framing of Charges:** Addition, Alteration and Joinder of Charges (Sections 234-247) 
+
+
+* **Trial before a Court of Session:** (Sections 248-260) 
+
+
+* **Trial of Warrant Cases by Magistrates:** (Sections 261-273) 
+
+
+* **Trial of Summons Case by Magistrates:** (Sections 274-282) 
+
+
+* **Summary Trial:** (Sections 283-288) 
+
+
+* **Plea Bargaining:** (Sections 289-300) 
+
+
+
+### Unit II: Trial Procedures (10 Lectures)
+
+* **Evidence in Inquiries and Trials:** (Sections 307-336) 
+
+
+* **General Provisions as To Inquiries and Trials:** (Sections 337-366) 
+
+
+* **The Judgement:** (Sections 392-406) 
+
+
+* **Witness Protection Scheme** 
+
+
+
+### Unit III: Appeals, Revision and Reference (10 Lectures)
+
+* **Submission of Death Sentences for Confirmation:** (Sections 407-412) 
+
+
+* **Appeals:** (Sections 413-435) 
+
+
+* **Reference and Revision:** (Sections 436-445) 
+
+
+* **Transfer of Criminal Cases:** (Sections 446-452) 
+
+
+
+### Unit IV: Bail, Bonds and other Miscellaneous Provisions (10 Lectures)
+
+* **Provisions as to Bail and Bond:** (Sections 478-496) 
+
+
+* **Execution, Suspension, Remission and Commutation of Sentences:** (Section 453-477) 
+
+
+* **Limitation for Taking Cognizance of Certain Offences:** (Sections 513-519) 
+
+
+* **Inherent Powers of High Court** 
+
+
+
+---
+
 ## Top ten topics
 
 **1. Concept and Framing of Charge (Aarop)**

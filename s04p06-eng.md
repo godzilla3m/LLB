@@ -6,8 +6,9 @@
 ---
 
 #### Unit-I: Concept of Property and General Principles Relating to Transfer of Property
-* **Lectures:** 10
-* **Core Concepts:**
+**Lectures:** 10
+
+**Core Concepts:**
   1. Concept of property: Distinction between moveable and immoveable property.
   2. Definition clause: Immovable property, Attestation, Notice, Actionable claim.
   3. Definition of transfer of property (Sec. 5).
@@ -19,9 +20,11 @@
 ---
 
 #### Unit-II: General Principles Governing Transfer of Immoveable Property
-* **Lectures:** 10
-* **Core Concepts:**
-  1. Transfer by ostensible owner.
+
+**Lectures:** 10
+
+**Core Concepts:**
+ 1. Transfer by ostensible owner.
   2. Rule of feeding the grant by estoppel.
   3. Rule of Lis pendens.
   4. Fraudulent transfer.
@@ -32,17 +35,19 @@
 ---
 
 #### Unit-III: Specific Transfers
-* **Lectures:** 10
-* **Core Concepts:**
-  1. Sale and gift.
-  2. Mortgage and charge.
-  3. Lease and Licence.
+**Lectures:** 10
+
+**Core Concepts:**
+1. Sale and gift.
+2. Mortgage and charge.
+3. Lease and Licence.
 
 ---
 
 #### Unit-IV: Easement Act
-* **Lectures:** 10
-* **Core Concepts:**
+**Lectures:** 10
+
+**Core Concepts:**
   1. Object and main provisions of the Easement Act.
 
 ---

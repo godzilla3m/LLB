@@ -1,4 +1,57 @@
-# Property law
+# Lucknow University LL.B. Syllabus
+## 2nd Year : 4th Semester
+
+### Paper 6: Property Law and Easement
+
+---
+
+#### Unit-I: Concept of Property and General Principles Relating to Transfer of Property
+* **Lectures:** 10
+* **Core Concepts:**
+  1. Concept of property: Distinction between moveable and immoveable property.
+  2. Definition clause: Immovable property, Attestation, Notice, Actionable claim.
+  3. Definition of transfer of property (Sec. 5).
+  4. Transfer and non-transfer property (Sec. 10-12).
+  5. Transfer to an unborn person and rule against perpetuity (Sec. 13, 14).
+  6. Vested and Contingent interest (Sec. 19 & 21).
+  7. Rule of Election (Sec. 35).
+
+---
+
+#### Unit-II: General Principles Governing Transfer of Immoveable Property
+* **Lectures:** 10
+* **Core Concepts:**
+  1. Transfer by ostensible owner.
+  2. Rule of feeding the grant by estoppel.
+  3. Rule of Lis pendens.
+  4. Fraudulent transfer.
+  5. Rule of part performance.
+  6. Vested and contingent interest.
+  7. Conditional transfer.
+
+---
+
+#### Unit-III: Specific Transfers
+* **Lectures:** 10
+* **Core Concepts:**
+  1. Sale and gift.
+  2. Mortgage and charge.
+  3. Lease and Licence.
+
+---
+
+#### Unit-IV: Easement Act
+* **Lectures:** 10
+* **Core Concepts:**
+  1. Object and main provisions of the Easement Act.
+
+---
+
+### Prescribed Acts
+1. **The Transfer of Property Act, 1882**
+2. **The Indian Easement Act, 1882**
+
+---
 
 ## Top 10 topics:
 
